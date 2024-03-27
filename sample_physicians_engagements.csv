@@ -1,0 +1,2001 @@
+﻿HCP ID,Specality,City,State,Month,Industry Contact,Total Call Data,In Person Call Data,Phone Call Data,Calls with Content,Virtual Data,Email Data
+002dfd552f3aec0d6e68e16dc1c09d54681098d6,Neurology,Hartford,AL,2022-01,1,1,1,,0,0,0
+0032bebd1e328ea8c4ed0698304d55e7b20dd8ea,Primary Care,rogersville,AL,2022-01,1,1,1,,1,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2022-01,1,2,2,,0,0,0
+000dbfeff2d9f2a8d119a94caeb25c3d24e47536,Cardiology,Tempe,AZ,2022-01,1,2,1,1,0,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2022-01,1,6,5,1,0,0,0
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2022-01,1,1,1,,0,0,5
+0003f077e0a17af3c520f7e67b20f20a5066997d,immunology,Daly City,CA,2022-01,1,2,2,,0,0,0
+0006224dc7b4fd8fd7cc5fb204c4092c1c578dc0,Primary Care,Bakersfield,CA,2022-01,1,4,4,,0,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2022-01,1,2,2,,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2022-01,1,2,2,,0,0,0
+001caf4c8396086c396631ccbadaedbee8cf1bf4,Cardiology,Victorville,CA,2022-01,1,1,1,,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2022-01,1,2,2,,1,0,0
+000e25738049c63b67b07ee2e4dfc14ceef7798e,Primary Care,Palm Beach,FL,2022-01,1,1,1,,0,0,0
+00391a484aaf54f3e4a2c5abba5d37c4894a1dd1,Cardiology,Jacksonville,FL,2022-01,1,2,2,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2022-01,1,8,6,2,0,0,0
+003e0f46d879f8e0c269cd35ad02f9b98b6c4db1,Immunology,Fort Lauderdale,FL,2022-01,1,2,2,,0,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2022-01,1,4,3,1,0,0,0
+00413d05682f4a1586ed3dde4591f3a27ef5fd44,Primary Care,Ocala,FL,2022-01,1,5,4,1,1,0,6
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2022-01,1,14,12,2,0,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2022-01,1,6,3,3,0,0,0
+00288391ec76c531e81b62f77a5c091e089f3a8d,Primary Care,Tifton,GA,2022-01,1,2,2,,0,0,0
+003d7142bfe832ebdae6d08205420788c2c86e53,Primary Care,Forsyth,GA,2022-01,NULL,0,0,,0,0,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2022-01,1,4,4,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2022-01,1,5,4,1,2,0,0
+00336c6a118829c4ffbbcadf3f9d4087c69570aa,Primary Care,Waverly,IA,2022-01,1,1,1,,0,0,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2022-01,1,2,2,,0,0,0
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2022-01,1,5,0,5,0,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2022-01,1,8,5,3,0,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2022-01,1,11,9,2,0,0,0
+001bac2d871a14e2e0d0335035a0a6365286b31e,Neurology,Alexandria,LA,2022-01,1,2,2,,0,0,0
+0000577f5af6824bccdfc04f2c75bcf7b3a7d270,Cardiology,North Adams,MA,2022-01,1,1,1,,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2022-01,1,2,1,1,0,0,0
+00317a75a16b7bcdb22840e9f75783d2c20ecbdd,Cardiology,Chestnut Hill,MA,2022-01,1,2,2,,0,0,1
+003f70999504ace4d458dc148c6f876a0b41b25c,Cardiology,Charlton,MA,2022-01,1,4,3,1,0,0,3
+0004e29a437aa6594359e4cbea6e6e6989f2aa6b,Cardiology,Bethesda,MD,2022-01,1,2,2,,0,0,0
+0005721cb2e996336e2dcf87399b4e92653cb74a,Cardiology,Annapolis,MD,2022-01,1,2,0,2,0,0,0
+001d8ee654002e36a7f4a7c6894a7027e53049b7,Cardiology,Frederick,MD,2022-01,1,6,4,2,1,0,0
+0039e0970ee17dcb5fde36c8d0926920f1213d53,Cardiology,Frederick,MD,2022-01,1,1,1,,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2022-01,1,6,6,,2,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2022-01,1,4,4,,0,0,2
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2022-01,1,10,9,1,1,0,0
+00401c4024f2fa65e7d63a0f8f2c788a15d4648f,Cardiology,Dearborn,MI,2022-01,1,1,1,,0,0,0
+002c2818ea1b3cf7b43d0d7228dd86adf23f3e90,Cardiology,St Louis Park,MN,2022-01,1,2,2,,0,0,0
+003c9300e85b6d854a2a1c6438482b3ae7bec9d9,Cardiology,Wabasha,MN,2022-01,1,2,2,,2,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2022-01,1,6,6,,2,0,0
+0033b10489bfa081b47b7ba39b88ae59ddb7dcd0,Cardiology,Statesville,NC,2022-01,1,2,2,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2022-01,1,2,2,,0,0,0
+000f576e5e20dbb2dd53abe4ae0363846380abde,Cardiology,Dayton,NJ,2022-01,1,1,0,1,0,0,0
+00185911b5e14fe12362130ee4ca5f91725cefe9,Allergy,Holmdel,NJ,2022-01,1,4,3,1,0,0,0
+000faec150097885bc53184400f84d14f07e00bc,Allergy,Albuquerque,NM,2022-01,1,2,2,,0,0,0
+000ae824f58d601974326fd6a5707aa792751c03,Allergy,Rochester,NY,2022-01,NULL,0,0,,0,0,0
+0010a07e03cc1956efbd65bd2ff1b4c671cd0e5b,Allergy,Buffalo,NY,2022-01,1,1,1,,0,0,0
+0010bfa467b0e5740abe6f9a957a77d8bd309f41,Immunology,Syracuse,NY,2022-01,1,1,1,,0,0,0
+002ce262d9bf7a0ac7924a2f18b2e5c530093165,Immunology,New York,NY,2022-01,1,1,1,,0,0,0
+003a4f8c9bdcc6acc459d0f0c8b75881b4c4ff50,Immunology,Jefferson Valley,NY,2022-01,1,1,0,1,0,0,0
+000424ee8c3c3e023bce7e9409fe8d7fa8088e4e,Neurology,Delaware,OH,2022-01,1,1,1,,0,0,0
+000d2027e7b6289be5b7a9ef4b531e48ab799c30,Neurology,Martins Ferry,OH,2022-01,1,2,2,,0,0,0
+0023a0c4cb1d937ffd9c1a7f073383fab913a3e2,Neurology,Portsmouth,OH,2022-01,1,3,3,,0,0,0
+003084319f1f9f96f2d53d7c41e2c84b00d2dc0c,Neurology,Cincinnati,OH,2022-01,1,1,1,,0,0,0
+00353b331064835a27b989168c1c02c4d93c6bdf,Neurology,Springfield,OH,2022-01,1,2,2,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2022-01,1,11,9,2,0,0,0
+002182635f07320b68bf1b97fbd8834d2fadfac9,Neurology,Midwest City,OK,2022-01,1,1,1,,0,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2022-01,1,4,4,,0,0,0
+0040dc85754e620b590324cf2eabfbddaddf948d,Neurology,Eugene,OR,2022-01,NULL,0,0,,0,0,0
+000451f5877e0408ab244695835b692919c65c01,Neurology,Irwin,PA,2022-01,1,5,5,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2022-01,1,5,4,1,0,0,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2022-01,1,1,1,,0,0,0
+002f00e98f9e844a51ad60bb1fc6b413e0e5e479,Neurology,Irmo,SC,2022-01,1,1,1,,0,0,0
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2022-01,1,3,3,,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2022-01,1,5,2,3,1,0,0
+002a6a252bb3fd80ccca8413c139f95cb04f86dd,Primary Care,Brentwood,TN,2022-01,1,1,1,,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2022-01,1,3,3,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2022-01,1,9,8,1,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2022-01,1,5,4,1,0,0,0
+002363095d04435cedf44cae07f307e5168ae3f4,Primary Care,Dickinson,TX,2022-01,1,1,1,,0,0,0
+002cc01e08fea7bc5ac8a6d8a62e11c433367eff,Cardiology,Mcallen,TX,2022-01,1,6,4,2,0,0,0
+002f67a69630e146fb5809b5c918a000fb784de1,,Mckinney,TX,2022-01,1,2,2,,0,0,0
+003316f32d6e2fc9c14dd204a19816a20ae7ba41,Cardiology,Fulshear,TX,2022-01,1,1,1,,0,0,0
+0035cb1872820ad0b7d7a35ec2d742f0bfa54355,Neurology,Waco,TX,2022-01,1,2,2,,0,0,0
+0037494c5414156c29b823af3b2dcb12dc3b1fd9,Neurology,El Paso,TX,2022-01,1,4,3,1,0,0,0
+003f4c508608ba9090a407f2acae68dd0891eeae,Neurology,Plano,TX,2022-01,1,5,3,2,3,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2022-01,1,1,1,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2022-01,1,8,4,4,0,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2022-01,1,4,4,,0,0,0
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2022-01,1,2,2,,0,0,0
+003a76458684ec2d4bfad066e4510b16c7ed5ec2,Allergy,Niagara,WI,2022-01,1,1,1,,0,0,0
+004188f97da2d490f9f7b445ee849bd057f7917c,Allergy,Black River Falls,WI,2022-01,1,1,1,,0,0,0
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,WV,2022-01,1,4,2,2,0,0,0
+003c5c8407254dd66296277aa295dd83ab82e438,Primary Care,Martinsburg,WV,2022-01,1,2,2,,0,0,0
+002dfd552f3aec0d6e68e16dc1c09d54681098d6,Neurology,Hartford,AL,2022-02,1,2,2,,0,0,0
+003fce4466397e11c5253e43bd451cc700700042,Neurology,Stuttgart,AR,2022-02,1,3,2,1,0,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2022-02,1,6,3,3,0,0,0
+000dbfeff2d9f2a8d119a94caeb25c3d24e47536,Cardiology,Tempe,AZ,2022-02,1,2,2,,0,0,1
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2022-02,1,6,5,1,0,0,0
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2022-02,1,1,1,,0,0,0
+0006224dc7b4fd8fd7cc5fb204c4092c1c578dc0,Primary Care,Bakersfield,CA,2022-02,1,3,3,,0,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2022-02,1,2,2,,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2022-02,1,2,1,1,1,0,0
+0018b14c62ead2de3a9caffbca8e9942e279697f,Neurology,Pasadena,CA,2022-02,1,1,1,,0,0,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2022-02,1,1,1,,1,0,0
+001caf4c8396086c396631ccbadaedbee8cf1bf4,Cardiology,Victorville,CA,2022-02,1,1,1,,0,0,0
+0011d1e2eeffd68f2e1523466500181bbfa6aab1,Cardiology,Littleton,CO,2022-02,1,1,1,,1,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2022-02,1,2,2,,1,0,0
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2022-02,1,1,0,1,0,0,0
+000e25738049c63b67b07ee2e4dfc14ceef7798e,Primary Care,Palm Beach,FL,2022-02,1,1,1,,0,0,0
+001f9dddd362e75270b07c710af0a07d4b5c2918,Cardiology,Jacksonville,FL,2022-02,1,1,1,,1,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2022-02,1,4,3,1,0,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2022-02,1,3,3,,0,0,0
+00413d05682f4a1586ed3dde4591f3a27ef5fd44,Primary Care,Ocala,FL,2022-02,1,1,1,,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2022-02,1,14,12,2,3,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2022-02,1,3,2,1,0,0,0
+00288391ec76c531e81b62f77a5c091e089f3a8d,Primary Care,Tifton,GA,2022-02,1,3,3,,0,0,0
+0034c402ee736641b0cf2b6b7a2d0e6bf22fa331,Primary Care,Atlanta,GA,2022-02,1,1,1,,0,0,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2022-02,1,1,1,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2022-02,1,5,4,1,1,0,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2022-02,1,1,1,,0,0,0
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2022-02,1,4,1,3,0,0,0
+0012073fd9277b9f9ac21a34ebf516b09b0de170,Neurology,Pittsfield,IL,2022-02,1,2,2,,0,0,0
+002860249d0d4085b8847f7800bb6c380355a08e,Neurology,Indianapolis,IN,2022-02,1,1,1,,1,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2022-02,1,4,1,3,0,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2022-02,1,7,5,2,0,0,0
+001bac2d871a14e2e0d0335035a0a6365286b31e,Neurology,Alexandria,LA,2022-02,1,3,3,,0,0,0
+0000577f5af6824bccdfc04f2c75bcf7b3a7d270,Cardiology,North Adams,MA,2022-02,1,1,1,,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2022-02,1,2,1,1,1,0,0
+00317a75a16b7bcdb22840e9f75783d2c20ecbdd,Cardiology,Chestnut Hill,MA,2022-02,1,3,3,,0,0,0
+00355560b2f1e1bcf23b8f868ac245381bdfb1ef,Cardiology,Randolph,MA,2022-02,1,1,1,,0,0,0
+003f70999504ace4d458dc148c6f876a0b41b25c,Cardiology,Charlton,MA,2022-02,1,1,1,,0,0,0
+0004e29a437aa6594359e4cbea6e6e6989f2aa6b,Cardiology,Bethesda,MD,2022-02,1,1,1,,0,0,0
+001d8ee654002e36a7f4a7c6894a7027e53049b7,Cardiology,Frederick,MD,2022-02,1,3,2,1,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2022-02,1,5,5,,1,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2022-02,1,9,6,3,0,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2022-02,1,8,8,,2,0,0
+00401c4024f2fa65e7d63a0f8f2c788a15d4648f,Cardiology,Dearborn,MI,2022-02,1,1,1,,0,0,0
+001d45e4ed4bf92e3312ae212025f454416ed513,Cardiology,Vadnais Heights,MN,2022-02,NULL,0,0,,0,0,0
+002c1ffb5d459b13654456692c9522a34b563947,Cardiology,Lakeville,MN,2022-02,1,0,0,,0,0,1
+003c9300e85b6d854a2a1c6438482b3ae7bec9d9,Cardiology,Wabasha,MN,2022-02,1,1,1,,1,0,0
+001b4094808b59f38360578b8a4c21adcb2e1b80,Cardiology,Springfield,MO,2022-02,1,1,1,,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2022-02,1,1,1,,1,0,0
+0033b10489bfa081b47b7ba39b88ae59ddb7dcd0,Cardiology,Statesville,NC,2022-02,1,1,1,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2022-02,1,4,4,,4,0,0
+00185911b5e14fe12362130ee4ca5f91725cefe9,Allergy,Holmdel,NJ,2022-02,1,3,2,1,0,0,0
+000faec150097885bc53184400f84d14f07e00bc,Allergy,Albuquerque,NM,2022-02,1,1,1,,0,0,0
+0010a07e03cc1956efbd65bd2ff1b4c671cd0e5b,Allergy,,NY,2022-02,1,1,1,,0,0,0
+0010bfa467b0e5740abe6f9a957a77d8bd309f41,Immunology,Syracuse,NY,2022-02,1,1,1,,0,0,0
+000424ee8c3c3e023bce7e9409fe8d7fa8088e4e,Neurology,Delaware,OH,2022-02,1,1,1,,0,0,0
+000d2027e7b6289be5b7a9ef4b531e48ab799c30,Neurology,Martins Ferry,OH,2022-02,1,2,2,,0,0,0
+0023a0c4cb1d937ffd9c1a7f073383fab913a3e2,Neurology,Portsmouth,OH,2022-02,1,1,1,,0,0,0
+003084319f1f9f96f2d53d7c41e2c84b00d2dc0c,Neurology,Cincinnati,OH,2022-02,1,1,1,,0,0,0
+00353b331064835a27b989168c1c02c4d93c6bdf,Neurology,Springfield,OH,2022-02,1,1,1,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2022-02,1,5,4,1,1,0,0
+002182635f07320b68bf1b97fbd8834d2fadfac9,Neurology,Midwest City,OK,2022-02,1,1,1,,0,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2022-02,1,1,1,,1,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2022-02,1,6,6,,0,0,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2022-02,1,2,1,1,1,0,0
+0024bbcdc3fb7294e2983e2313dcce5b91de948f,Neurology,North Charleston,SC,2022-02,1,1,0,1,0,0,0
+002f00e98f9e844a51ad60bb1fc6b413e0e5e479,Neurology,Irmo,SC,2022-02,1,1,1,,0,0,0
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2022-02,1,5,5,,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2022-02,1,4,3,1,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2022-02,1,3,3,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2022-02,1,6,6,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2022-02,1,2,1,1,0,0,0
+002a57022a2a15a1a1017a79175372aa516e48ac,Cardiology,San Antonio,TX,2022-02,1,1,1,,0,0,0
+002cc01e08fea7bc5ac8a6d8a62e11c433367eff,Cardiology,Mcallen,TX,2022-02,1,1,1,,0,0,0
+002f67a69630e146fb5809b5c918a000fb784de1,Cardiology,Mckinney,TX,2022-02,1,1,1,,0,0,0
+003316f32d6e2fc9c14dd204a19816a20ae7ba41,Cardiology,Fulshear,TX,2022-02,1,3,3,,0,0,0
+0035cb1872820ad0b7d7a35ec2d742f0bfa54355,Neurology,Waco,TX,2022-02,1,3,3,,0,0,0
+0037494c5414156c29b823af3b2dcb12dc3b1fd9,Neurology,El Paso,TX,2022-02,1,2,2,,0,0,0
+003f4c508608ba9090a407f2acae68dd0891eeae,Neurology,Plano,TX,2022-02,1,7,3,4,5,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2022-02,1,1,1,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2022-02,1,7,6,1,0,0,0
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2022-02,1,7,7,,1,0,0
+004188f97da2d490f9f7b445ee849bd057f7917c,Allergy,Black River Falls,WI,2022-02,1,3,3,,0,0,0
+00218b5d783a977d3b7bee79daa0f4639f4efd00,Allergy,Martinsburg,WV,2022-02,1,1,0,1,0,0,0
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,WV,2022-02,1,5,5,,0,0,0
+003c5c8407254dd66296277aa295dd83ab82e438,Primary Care,Martinsburg,WV,2022-02,1,3,3,,0,0,0
+003397b221d801e61e4e3bb98589a7fd3ddce7aa,Neurology,Huntsville,AL,2022-02-,1,2,2,,0,0,0
+002dfd552f3aec0d6e68e16dc1c09d54681098d6,Neurology,Hartford,AL,2022-03,1,1,1,,0,0,0
+003397b221d801e61e4e3bb98589a7fd3ddce7aa,Neurology,Huntsville,AL,2022-03,1,1,1,,0,0,0
+003fce4466397e11c5253e43bd451cc700700042,Neurology,Stuttgart,AR,2022-03,1,1,1,,0,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2022-03,1,4,4,,0,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2022-03,1,4,4,,0,0,0
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2022-03,1,3,2,1,1,0,0
+0003f077e0a17af3c520f7e67b20f20a5066997d,immunology,Daly City,CA,2022-03,1,1,1,,0,0,0
+0006224dc7b4fd8fd7cc5fb204c4092c1c578dc0,Primary Care,Bakersfield,ca,2022-03,1,2,2,,0,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2022-03,1,1,1,,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2022-03,1,2,2,,0,0,0
+000e25738049c63b67b07ee2e4dfc14ceef7798e,Primary Care,Palm Beach,FL,2022-03,1,1,1,,0,0,0
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2022-03,1,1,1,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2022-03,1,5,4,1,0,0,0
+003e0f46d879f8e0c269cd35ad02f9b98b6c4db1,Immunology,Fort Lauderdale,FL,2022-03,1,1,1,,0,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2022-03,1,3,3,,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2022-03,1,9,8,1,3,0,0
+00288391ec76c531e81b62f77a5c091e089f3a8d,Primary Care,Tifton,GA,2022-03,1,2,2,,0,0,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2022-03,1,5,5,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2022-03,1,3,3,,1,0,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2022-03,1,1,1,,0,0,0
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2022-03,1,2,1,1,0,0,0
+002860249d0d4085b8847f7800bb6c380355a08e,Neurology,Indianapolis,IN,2022-03,1,1,1,,1,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2022-03,1,6,3,3,0,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2022-03,1,5,4,1,0,0,0
+001bac2d871a14e2e0d0335035a0a6365286b31e,Neurology,Alexandria,LA,2022-03,1,2,2,,0,0,0
+0000577f5af6824bccdfc04f2c75bcf7b3a7d270,Cardiology,North Adams,MA,2022-03,1,1,1,,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2022-03,1,4,4,,0,0,0
+00317a75a16b7bcdb22840e9f75783d2c20ecbdd,Cardiology,Chestnut Hill,MA,2022-03,1,1,1,,0,0,0
+003f70999504ace4d458dc148c6f876a0b41b25c,Cardiology,Charlton,MA,2022-03,1,1,1,,0,0,0
+003fec5b104fd30ead9ec9d25c9f02287e0a64bf,Cardiology,North Chelmsford,MA,2022-03,1,1,1,,1,0,0
+001d8ee654002e36a7f4a7c6894a7027e53049b7,Cardiology,Frederick,MD,2022-03,1,5,2,3,0,0,0
+0039e0970ee17dcb5fde36c8d0926920f1213d53,Cardiology,Frederick,MD,2022-03,1,1,1,,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2022-03,1,3,2,1,1,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2022-03,1,6,5,1,0,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2022-03,1,3,3,,0,0,0
+001d45e4ed4bf92e3312ae212025f454416ed513,Cardiology,Vadnais Heights,MN,2022-03,1,1,1,,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2022-03,1,2,2,,1,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2022-03,1,4,4,,3,0,0
+00185911b5e14fe12362130ee4ca5f91725cefe9,Allergy,Holmdel,NJ,2022-03,1,3,2,1,0,0,0
+000ae824f58d601974326fd6a5707aa792751c03,Allergy,Rochester,NY,2022-03,NULL,0,0,,0,0,0
+0010a07e03cc1956efbd65bd2ff1b4c671cd0e5b,Allergy,Buffalo,NY,2022-03,1,1,1,,0,0,0
+000d2027e7b6289be5b7a9ef4b531e48ab799c30,Neurology,Martins Ferry,OH,2022-03,1,2,2,,0,0,0
+00353b331064835a27b989168c1c02c4d93c6bdf,Neurology,Springfield,OH,2022-03,1,3,3,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2022-03,1,4,4,,0,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2022-03,1,1,1,,0,0,0
+000451f5877e0408ab244695835b692919c65c01,Neurology,Irwin,PA,2022-03,1,3,3,,0,0,0
+001a2a2ee3144ef1190e64d5d23ae8865408fc86,Neurology,Wexford,PA,2022-03,1,1,1,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2022-03,1,4,4,,1,0,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2022-03,1,1,1,,0,0,0
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2022-03,1,5,5,,1,0,0
+0023fb666b1f1ba58c60c08c3a3def127709dfc0,Neurology,Smyrna,TN,2022-03,1,1,1,,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2022-03,1,1,0,1,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2022-03,1,2,2,,1,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2022-03,1,6,6,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2022-03,1,4,2,1,0,1,0
+002cc01e08fea7bc5ac8a6d8a62e11c433367eff,Cardiology,Mcallen,TX,2022-03,1,1,1,,0,0,0
+002f67a69630e146fb5809b5c918a000fb784de1,Cardiology,Mckinney,TX,2022-03,1,1,1,,0,0,0
+0035cb1872820ad0b7d7a35ec2d742f0bfa54355,Neurology,Waco,TX,2022-03,1,1,1,,0,0,0
+0037494c5414156c29b823af3b2dcb12dc3b1fd9,Neurology,El Paso,TX,2022-03,1,2,1,1,0,0,0
+003f4c508608ba9090a407f2acae68dd0891eeae,Neurology,Plano,TX,2022-03,1,5,3,2,4,0,0
+0023cdf5a2415ee5c2889fd1e8e0e4317bd49f4d,Primary Care,Richmond,VA,2022-03,1,1,1,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2022-03,1,6,6,,0,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2022-03,1,1,1,,0,0,0
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2022-03,1,2,1,1,0,0,0
+003c5c8407254dd66296277aa295dd83ab82e438,Primary Care,Martinsburg,WV,2022-03,1,4,4,,0,0,0
+002e42c699639c817d3d943939f48b6d4638d8cb,Cardiology,Fairbanks,AK,2022-04,NULL,0,0,,0,0,0
+0032bebd1e328ea8c4ed0698304d55e7b20dd8ea,Primary Care,Rogersville,AL,2022-04,1,1,1,,0,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2022-04,1,2,2,,0,0,1
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2022-04,1,1,1,,0,0,0
+0006224dc7b4fd8fd7cc5fb204c4092c1c578dc0,Primary Care,Bakersfield,CA,2022-04,1,5,5,,0,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2022-04,NULL,0,0,,0,0,0
+003778e82422c810cfe08fd1f4ca458b00efa94c,Neurology,San Francisco,CA,2022-04,1,1,1,,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2022-04,1,1,1,,0,0,0
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2022-04,1,1,1,,0,0,0
+0026ddf775d185bcbc938020e6e28b8986ad6159,Cardiology,Gainesville,FL,2022-04,NULL,0,0,,0,0,0
+00391a484aaf54f3e4a2c5abba5d37c4894a1dd1,Cardiology,Jacksonville,FL,2022-04,NULL,0,0,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2022-04,1,1,1,,0,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2022-04,1,2,2,,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2022-04,1,4,4,,0,0,0
+00288391ec76c531e81b62f77a5c091e089f3a8d,Primary Care,Tifton,GA,2022-04,NULL,0,0,,0,0,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2022-04,1,1,1,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2022-04,1,2,2,,0,0,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2022-04,1,1,1,,0,0,0
+000438390a03f16cbdb60c0b42e20d2d645c9606,Neurology,Kansas City,KS,2022-04,1,0,0,,0,0,1
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2022-04,1,4,4,,0,0,0
+001bac2d871a14e2e0d0335035a0a6365286b31e,Neurology,Alexandria,LA,2022-04,1,1,1,,1,0,0
+0000577f5af6824bccdfc04f2c75bcf7b3a7d270,Cardiology,North Adams,MA,2022-04,1,1,1,,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2022-04,1,8,8,,0,0,0
+001d8ee654002e36a7f4a7c6894a7027e53049b7,Cardiology,Frederick,MD,2022-04,1,3,3,,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2022-04,1,2,2,,0,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2022-04,1,2,2,,0,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2022-04,1,2,2,,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2022-04,NULL,0,0,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2022-04,1,1,1,,0,0,0
+00300e697d5fe07b40271c3defb24fc377ad30dd,Cardiology,Omaha,NE,2022-04,1,1,1,,0,0,0
+001f71f294c087109af490b7e125aed8211f0abe,Immunology,Riverhead,NY,2022-04,NULL,0,0,,0,0,0
+0008c6c298b7e3159f522c99aea45890e3d7e6f5,Neurology,Bucyrus,OH,2022-04,1,2,2,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2022-04,1,9,9,,0,0,0
+0027bc8378ef0fa9d7872df297ddb1cc5d9b3b17,Neurology,Medford,OR,2022-04,1,1,1,,0,0,0
+000451f5877e0408ab244695835b692919c65c01,Neurology,Irwin,PA,2022-04,1,2,2,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2022-04,1,3,2,,0,1,0
+003d24823a63b950ddb5ff62fb40091d65cfea30,Neurology,Myrtle Beach,SC,2022-04,NULL,0,0,,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2022-04,1,2,2,,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2022-04,1,2,2,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2022-04,1,2,2,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2022-04,1,3,3,,0,0,0
+0037494c5414156c29b823af3b2dcb12dc3b1fd9,Neurology,El Paso,TX,2022-04,1,1,1,,0,0,0
+003f4c508608ba9090a407f2acae68dd0891eeae,Neurology,Plano,TX,2022-04,1,4,4,,4,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2022-04,1,3,3,,0,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2022-04,1,9,9,,0,0,0
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2022-04,1,2,2,,0,0,0
+003a76458684ec2d4bfad066e4510b16c7ed5ec2,Allergy,Niagara,WI,2022-04,NULL,0,0,,0,0,0
+004188f97da2d490f9f7b445ee849bd057f7917c,Allergy,Blak River Falls,WI,2022-04,1,1,1,,0,0,0
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,WV,2022-04,1,3,3,,0,0,0
+003c5c8407254dd66296277aa295dd83ab82e438,Primary Care,Martinsburg,WV,2022-04,1,1,1,,0,0,0
+0032bebd1e328ea8c4ed0698304d55e7b20dd8ea,Primary Care,Rogersville,AL,2022-05,1,1,1,,1,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2022-05,1,1,1,,0,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2022-05,1,2,2,,0,0,0
+0006224dc7b4fd8fd7cc5fb204c4092c1c578dc0,Primary Care,Bakersfield,CA,2022-05,1,3,3,,0,0,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2022-05,1,1,1,,0,0,0
+003778e82422c810cfe08fd1f4ca458b00efa94c,Neurology,San Francisco,CA,2022-05,1,1,1,,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2022-05,1,1,1,,0,0,0
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2022-05,NULL,0,0,,0,0,0
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2022-05,1,1,1,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2022-05,1,5,3,1,0,1,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2022-05,1,2,1,,0,1,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2022-05,1,7,7,,0,0,0
+00288391ec76c531e81b62f77a5c091e089f3a8d,Primary Care,Tifton,GA,2022-05,NULL,0,0,,0,0,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2022-05,1,3,3,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2022-05,1,1,1,,0,0,2
+00220c5958878332435ac564eafe4a6a7d6edbd0,Primary Care,Dubuque,IA,2022-05,1,1,1,,0,0,0
+00336c6a118829c4ffbbcadf3f9d4087c69570aa,Primary Care,Waverly,IA,2022-05,1,0,0,,0,0,1
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2022-05,NULL,0,0,,0,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2022-05,1,4,4,,0,0,0
+001bac2d871a14e2e0d0335035a0a6365286b31e,Neurology,Alexandria,LA,2022-05,NULL,0,0,,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2022-05,1,5,5,,0,0,0
+001d8ee654002e36a7f4a7c6894a7027e53049b7,Cardiology,Frederick,MD,2022-05,1,2,2,,0,0,0
+0039e0970ee17dcb5fde36c8d0926920f1213d53,Cardiology,Frederick,MD,2022-05,1,1,1,,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2022-05,1,1,1,,0,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2022-05,1,3,3,,0,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2022-05,1,6,6,,0,0,0
+003c9300e85b6d854a2a1c6438482b3ae7bec9d9,Cardiology,Wabasha,MN,2022-05,NULL,0,0,,0,0,0
+00305caa6535ae905a9cfb67bc4586d147abdd89,Cardiology,Pascagoula,MS,2022-05,1,1,1,,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2022-05,1,1,1,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2022-05,1,2,2,,0,0,0
+003849ca413e41e030e4a33cf4244671d9e92a64,Allergy,Camden,NJ,2022-05,NULL,0,0,,0,0,0
+000ae824f58d601974326fd6a5707aa792751c03,Allergy,Rochester,NY,2022-05,NULL,0,0,,0,0,0
+0010a07e03cc1956efbd65bd2ff1b4c671cd0e5b,Allergy,Buffalo,NY,2022-05,NULL,0,0,,0,0,0
+00115157d4c259eb69a26246649264adaca2e2a0,Neurology,Parma,OH,2022-05,NULL,0,0,,0,0,0
+0023a0c4cb1d937ffd9c1a7f073383fab913a3e2,Neurology,Portsmouth,OH,2022-05,NULL,0,0,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2022-05,1,6,6,,0,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2022-05,1,1,1,,0,0,0
+0027bc8378ef0fa9d7872df297ddb1cc5d9b3b17,Neurology,Medford,OR,2022-05,1,2,2,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2022-05,1,3,2,,0,1,0
+003d24823a63b950ddb5ff62fb40091d65cfea30,Neurology,Myrtle Beach,SC,2022-05,NULL,0,0,,0,0,0
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2022-05,1,0,0,,0,0,1
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2022-05,1,4,4,,0,0,0
+0031f4ab4874a01936c68984e7a9d231af5cbb93,Primary Care,Memphis,TN,2022-05,1,0,0,,0,0,1
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2022-05,1,3,3,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2022-05,1,3,3,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2022-05,1,4,2,1,0,1,0
+002a57022a2a15a1a1017a79175372aa516e48ac,Cardiology,San Antonio,TX,2022-05,1,1,1,,0,0,0
+003316f32d6e2fc9c14dd204a19816a20ae7ba41,Cardiology,Fulshear,TX,2022-05,1,1,1,,0,0,0
+003f4c508608ba9090a407f2acae68dd0891eeae,Neurology,Plano,TX,2022-05,1,5,5,,4,0,0
+001099cac40e10ac255755ba150a3cec27b38c4c,Neurology,Hampton,VA,2022-05,NULL,0,0,,0,0,0
+0023cdf5a2415ee5c2889fd1e8e0e4317bd49f4d,Primary Care,Richmond,VA,2022-05,NULL,0,0,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2022-05,1,4,3,,0,1,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2022-05,1,5,5,,0,0,0
+0006ecc074e073ffe3a2713537247f2317155bad,Primary Care,Cedarburg,WI,2022-05,1,1,1,,0,0,0
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2022-05,1,1,1,,0,0,0
+004188f97da2d490f9f7b445ee849bd057f7917c,Allergy,Black River Falls,WI,2022-05,NULL,0,0,,0,0,0
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,WV,2022-05,1,0,0,,0,0,2
+003c5c8407254dd66296277aa295dd83ab82e438,Primary Care,Martinsburg,WV,2022-05,1,3,3,,0,0,0
+0032bebd1e328ea8c4ed0698304d55e7b20dd8ea,,Rogersville,AL,2022-06,1,1,1,,1,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2022-06,1,1,1,,0,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2022-06,1,4,3,1,0,0,1
+002c42e6fd1a1f9cab21a249f808568b88bf464b,Primary Care,Tucson,AZ,2022-06,NULL,0,0,,0,0,0
+0003f077e0a17af3c520f7e67b20f20a5066997d,immunology,Daly City,CA,2022-06,1,4,4,,0,0,0
+0006224dc7b4fd8fd7cc5fb204c4092c1c578dc0,Primary Care,Bakersfield,CA,2022-06,1,4,4,,0,0,1
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2022-06,1,2,1,1,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2022-06,1,1,1,,0,0,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2022-06,1,2,2,,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2022-06,1,2,2,,1,0,0
+00046f56d2a971f178e50674ac80e482fc8c07e6,Primary Care,Panama City,FL,2022-06,1,1,1,,0,0,0
+001c9a259de2291dc2d3600a0b68285f835a26f5,Cardiology,Naples,FL,2022-06,1,0,0,,0,0,1
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2022-06,1,2,2,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2022-06,1,2,2,,0,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2022-06,1,2,2,,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2022-06,1,8,6,1,0,1,0
+00180efbbcd80e7747b14b487e7134ded67d6276,Primary Care,Atlanta,GA,2022-06,1,1,1,,0,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2022-06,1,3,1,2,0,0,0
+00288391ec76c531e81b62f77a5c091e089f3a8d,Primary Care,Tifton,GA,2022-06,1,2,2,,0,0,0
+003d7142bfe832ebdae6d08205420788c2c86e53,Primary Care,Forsyth,GA,2022-06,NULL,0,0,,0,0,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2022-06,1,3,3,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2022-06,1,1,1,,0,0,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2022-06,1,1,1,,0,0,0
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2022-06,1,11,11,,0,0,0
+0012073fd9277b9f9ac21a34ebf516b09b0de170,Neurology,Pittsfield,IL,2022-06,NULL,0,0,,0,0,0
+000438390a03f16cbdb60c0b42e20d2d645c9606,Neurology,Kansas City,KS,2022-06,1,0,0,,0,0,1
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2022-06,NULL,0,0,,0,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2022-06,1,7,7,,0,0,0
+001bac2d871a14e2e0d0335035a0a6365286b31e,Neurology,Alexandria,LA,2022-06,NULL,0,0,,0,0,0
+0000577f5af6824bccdfc04f2c75bcf7b3a7d270,Cardiology,North Adams,MA,2022-06,NULL,0,0,,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2022-06,1,7,7,,0,0,0
+00355560b2f1e1bcf23b8f868ac245381bdfb1ef,Cardiology,Randolph,MA,2022-06,1,1,1,,0,0,0
+003f70999504ace4d458dc148c6f876a0b41b25c,Cardiology,Charlton,MA,2022-06,1,2,1,1,0,0,0
+0004e29a437aa6594359e4cbea6e6e6989f2aa6b,Cardiology,BETHESDA,MD,2022-06,1,1,0,,0,1,0
+001d8ee654002e36a7f4a7c6894a7027e53049b7,Cardiology,Frederick,MD,2022-06,1,1,0,1,0,0,0
+0039e0970ee17dcb5fde36c8d0926920f1213d53,Cardiology,Frederick,MD,2022-06,1,1,1,,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2022-06,1,1,1,,0,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2022-06,1,7,5,2,0,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2022-06,1,7,6,,0,1,1
+00305caa6535ae905a9cfb67bc4586d147abdd89,Cardiology,Pascagoula,MS,2022-06,NULL,0,0,,0,0,0
+000fff22eabba9b4f489d64e3a7ad82e58e048ba,Cardiology,Greenville,NC,2022-06,1,2,2,,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2022-06,1,3,3,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2022-06,1,1,1,,0,0,0
+00300e697d5fe07b40271c3defb24fc377ad30dd,Cardiology,Omaha,NE,2022-06,NULL,0,0,,0,0,0
+00185911b5e14fe12362130ee4ca5f91725cefe9,Allergy,Holmdel,NJ,2022-06,1,3,3,,0,0,0
+003849ca413e41e030e4a33cf4244671d9e92a64,Allergy,Camden,NJ,2022-06,NULL,0,0,,0,0,0
+00148bdc888cfdd43ad50e31cc3c5e54fb7581c4,Allergy,Pahrump,NV,2022-06,NULL,0,0,,0,0,0
+000ae824f58d601974326fd6a5707aa792751c03,Allergy,Rochester,NY,2022-06,NULL,0,0,,0,0,0
+000d2027e7b6289be5b7a9ef4b531e48ab799c30,Neurology,Martins Ferry,OH,2022-06,1,2,2,,0,0,0
+0021e949c81b614edc6127ded5ba1fbd790e7742,Neurology,Dayton,OH,2022-06,NULL,0,0,,0,0,0
+00353b331064835a27b989168c1c02c4d93c6bdf,Neurology,Springfield,OH,2022-06,1,1,1,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2022-06,1,11,9,1,0,1,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2022-06,1,4,4,,0,0,0
+0027bc8378ef0fa9d7872df297ddb1cc5d9b3b17,Neurology,Medford,OR,2022-06,1,2,2,,0,0,0
+000451f5877e0408ab244695835b692919c65c01,Neurology,Irwin,PA,2022-06,1,2,2,,0,0,0
+00081da9e81cbb1f3295aa909a3939238db87dad,Neurology,Yardley,PA,2022-06,NULL,0,0,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2022-06,1,4,2,2,1,0,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2022-06,1,1,0,1,0,0,0
+003cd1703f4cd555eaa74eeabc19ea227885e928,Neurology,Monroeville,PA,2022-06,1,0,0,,0,0,1
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2022-06,1,1,1,,0,0,1
+000b2aec5bf4664d9e8cc9f16a0da2ea6ec51f85,Neurology,Lenoir City,TN,2022-06,NULL,0,0,,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2022-06,1,4,3,1,0,0,0
+0031f4ab4874a01936c68984e7a9d231af5cbb93,Primary Care,Memphis,TN,2022-06,NULL,0,0,,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2022-06,1,4,4,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2022-06,1,3,3,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2022-06,1,2,0,2,1,0,0
+002a57022a2a15a1a1017a79175372aa516e48ac,Cardiology,San Antonio,TX,2022-06,1,2,1,1,0,0,0
+002f67a69630e146fb5809b5c918a000fb784de1,Cardiology,Mckinney,TX,2022-06,1,1,1,,0,0,0
+003f4c508608ba9090a407f2acae68dd0891eeae,Neurology,Plano,TX,2022-06,1,8,7,1,6,0,1
+001099cac40e10ac255755ba150a3cec27b38c4c,Neurology,Hampton,VA,2022-06,NULL,0,0,,0,0,0
+0023cdf5a2415ee5c2889fd1e8e0e4317bd49f4d,Primary Care,Richmond,VA,2022-06,NULL,0,0,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2022-06,1,10,8,1,0,1,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2022-06,1,17,12,3,0,2,0
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2022-06,1,6,6,,0,0,0
+003a76458684ec2d4bfad066e4510b16c7ed5ec2,Allergy,Niagara,WI,2022-06,1,1,1,,0,0,0
+00218b5d783a977d3b7bee79daa0f4639f4efd00,Allergy,Martinsburg,WV,2022-06,1,1,0,,0,1,2
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,WV,2022-06,1,2,2,,0,0,0
+003c5c8407254dd66296277aa295dd83ab82e438,Primary Care,martinsburg,WV,2022-06,1,2,2,,0,0,0
+003397b221d801e61e4e3bb98589a7fd3ddce7aa,Neurology,Huntsville,AL,2022-07,1,3,1,2,0,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2022-07,1,2,2,,0,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2022-07,1,3,2,1,0,0,4
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2022-07,1,4,3,,0,1,0
+0003f077e0a17af3c520f7e67b20f20a5066997d,immunology,Daly City,CA,2022-07,1,1,1,,0,0,1
+0006224dc7b4fd8fd7cc5fb204c4092c1c578dc0,Primary Care,Bakersfield,CA,2022-07,1,3,3,,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2022-07,1,1,1,,0,0,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2022-07,NULL,0,0,,0,0,0
+001ae06397483954c60a45c6fe80fbb0fa788cfb,Cardiology,San Francisco,CA,2022-07,NULL,0,0,,0,0,0
+002b73cb2117be8e407a7ff0bc9138115356bc04,Cardiology,Fort Collins,CO,2022-07,1,1,1,,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2022-07,NULL,0,0,,0,0,0
+00046f56d2a971f178e50674ac80e482fc8c07e6,Primary Care,Panama City,FL,2022-07,1,2,2,,0,0,0
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2022-07,1,1,1,,0,0,0
+00391a484aaf54f3e4a2c5abba5d37c4894a1dd1,Cardiology,Jacksonville,FL,2022-07,1,1,1,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2022-07,1,5,4,1,0,0,0
+003e0f46d879f8e0c269cd35ad02f9b98b6c4db1,Immunology,Fort Lauderdale,FL,2022-07,NULL,0,0,,0,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2022-07,1,2,2,,0,0,0
+00413d05682f4a1586ed3dde4591f3a27ef5fd44,Primary Care,Ocala,FL,2022-07,1,1,1,,0,0,0
+0005ed23aa71ea9a604599dfcae268029dbc6601,Primary Care,Dahlonega,GA,2022-07,1,1,1,,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2022-07,1,5,3,2,1,0,0
+00180efbbcd80e7747b14b487e7134ded67d6276,Primary Care,ATLANTA,GA,2022-07,NULL,0,0,,0,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2022-07,1,4,3,1,0,0,0
+00280a2fef6df6cf8aa23a7fcc840740e32a44e2,Primary Care,Lawrenceville,GA,2022-07,NULL,0,0,,0,0,0
+00288391ec76c531e81b62f77a5c091e089f3a8d,Primary Care,Tifton,GA,2022-07,1,1,1,,0,0,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2022-07,1,3,3,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2022-07,1,1,0,,0,1,0
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2022-07,1,1,0,1,0,0,0
+0012073fd9277b9f9ac21a34ebf516b09b0de170,Neurology,Pittsfield,IL,2022-07,NULL,0,0,,0,0,0
+00315109a1b53fc93f5fa61fd7247f3f20c81d3e,Neurology,Chicago,IL,2022-07,1,2,2,,0,0,0
+000a6f9bd35394e95fe5cc76ca31493b21d01e5d,Neurology,Wabash,IN,2022-07,NULL,0,0,,0,0,0
+000438390a03f16cbdb60c0b42e20d2d645c9606,Neurology,Kansas City,KS,2022-07,1,0,0,,0,0,1
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2022-07,1,2,1,1,0,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2022-07,1,2,2,,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2022-07,1,4,4,,0,0,0
+00317a75a16b7bcdb22840e9f75783d2c20ecbdd,Cardiology,Chestnut Hill,MA,2022-07,NULL,0,0,,0,0,0
+003f70999504ace4d458dc148c6f876a0b41b25c,Cardiology,Charlton,MA,2022-07,1,2,2,,0,0,0
+001d8ee654002e36a7f4a7c6894a7027e53049b7,Cardiology,Frederick,MD,2022-07,1,3,3,,0,0,0
+0039e0970ee17dcb5fde36c8d0926920f1213d53,Cardiology,Frederick,MD,2022-07,1,7,7,,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2022-07,1,6,5,1,2,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2022-07,1,7,7,,0,0,0
+00283f80f445aced4fce82c5fb3d71408c7cde7f,Cardiology,Mount Clemens,MI,2022-07,NULL,0,0,,0,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2022-07,1,6,6,,1,0,1
+001d45e4ed4bf92e3312ae212025f454416ed513,Cardiology,Vadnais Heights,MN,2022-07,NULL,0,0,,0,0,0
+002c1ffb5d459b13654456692c9522a34b563947,Cardiology,Lakeville,MN,2022-07,1,0,0,,0,0,1
+00305caa6535ae905a9cfb67bc4586d147abdd89,Cardiology,Pascagoula,MS,2022-07,NULL,0,0,,0,0,0
+00070c5b44ed8b8437df919bfd56f3aa7caa8ec3,Cardiology,Butte,MT,2022-07,1,1,1,,0,0,4
+000fff22eabba9b4f489d64e3a7ad82e58e048ba,Cardiology,Greenville,NC,2022-07,1,4,4,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2022-07,1,2,2,,0,0,0
+0001ab59b3fddd3abd478e63af89288dd5f2b798,Cardiology,Mount Laurel,NJ,2022-07,1,1,1,,0,0,0
+00185911b5e14fe12362130ee4ca5f91725cefe9,Allergy,Holmdel,NJ,2022-07,1,2,1,,0,1,0
+00148bdc888cfdd43ad50e31cc3c5e54fb7581c4,Allergy,Pahrump,NV,2022-07,NULL,0,0,,0,0,0
+000ae824f58d601974326fd6a5707aa792751c03,Allergy,Rochester,NY,2022-07,NULL,0,0,,0,0,0
+002ce262d9bf7a0ac7924a2f18b2e5c530093165,Immunology,New York,NY,2022-07,1,1,1,,0,0,0
+0008c6c298b7e3159f522c99aea45890e3d7e6f5,Neurology,Bucyrus,OH,2022-07,NULL,0,0,,0,0,0
+000d2027e7b6289be5b7a9ef4b531e48ab799c30,Neurology,Martins Ferry,OH,2022-07,1,1,1,,0,0,0
+0014bb1aabf471c8388b02cb972616caa1c629a0,Neurology,Dover,OH,2022-07,NULL,0,0,,0,0,0
+0023a0c4cb1d937ffd9c1a7f073383fab913a3e2,Neurology,Portsmouth,OH,2022-07,NULL,0,0,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2022-07,1,4,3,1,0,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2022-07,1,1,1,,0,0,0
+002316b2f5d6c89e50dbfd4f0a5220c720f0c8f9,Neurology,Sisters,OR,2022-07,NULL,0,0,,0,0,0
+0027bc8378ef0fa9d7872df297ddb1cc5d9b3b17,Neurology,Medford,OR,2022-07,1,8,8,,0,0,0
+000451f5877e0408ab244695835b692919c65c01,Neurology,Irwin,PA,2022-07,1,1,1,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2022-07,1,3,2,,1,1,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2022-07,1,2,2,,0,0,0
+002f00e98f9e844a51ad60bb1fc6b413e0e5e479,Neurology,Irmo,SC,2022-07,1,1,0,,0,1,0
+003d24823a63b950ddb5ff62fb40091d65cfea30,Neurology,Myrtle Beach,SC,2022-07,1,0,0,,0,0,1
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2022-07,1,0,0,,0,0,1
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2022-07,1,8,8,,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2022-07,1,4,3,1,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2022-07,1,5,4,1,0,0,0
+0009bbf68fa87e671d5ee355e083e7cd0d3b3f96,Primary Care,Dallas,TX,2022-07,1,1,0,1,0,0,0
+000b7cdfc6aa5f8c60c22ac40878ed96b55211aa,Primary Care,Rosenberg,TX,2022-07,1,1,1,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2022-07,1,4,2,1,0,1,0
+002a57022a2a15a1a1017a79175372aa516e48ac,Cardiology,San Antonio,TX,2022-07,1,1,1,,0,0,0
+002cc01e08fea7bc5ac8a6d8a62e11c433367eff,Cardiology,Mcallen,TX,2022-07,1,4,4,,0,0,0
+0037494c5414156c29b823af3b2dcb12dc3b1fd9,Neurology,El Paso,TX,2022-07,1,1,1,,0,0,0
+003f4c508608ba9090a407f2acae68dd0891eeae,Neurology,Plano,TX,2022-07,1,6,6,,4,0,2
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2022-07,1,1,0,,0,1,0
+000095904dc222c09e52464b55cc9f100f6655cc,Neurology,Grottoes,VA,2022-07,NULL,0,0,,0,0,0
+001099cac40e10ac255755ba150a3cec27b38c4c,Neurology,Hampton,VA,2022-07,1,1,1,,0,0,0
+0023cdf5a2415ee5c2889fd1e8e0e4317bd49f4d,Primary Care,Richmond,VA,2022-07,NULL,0,0,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2022-07,1,12,12,,0,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2022-07,1,23,17,3,0,3,1
+0006ecc074e073ffe3a2713537247f2317155bad,Primary Care,Cedarburg,WI,2022-07,1,3,3,,0,0,0
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2022-07,1,1,1,,0,0,0
+004188f97da2d490f9f7b445ee849bd057f7917c,Allergy,Black River Falls,WI,2022-07,NULL,0,0,,0,0,0
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,WV,2022-07,1,2,2,,0,0,0
+003c5c8407254dd66296277aa295dd83ab82e438,Primary Care,Martinsburg,WV,2022-07,1,1,1,,0,0,0
+003397b221d801e61e4e3bb98589a7fd3ddce7aa,Neurology,Huntsville,AL,2022-08,1,2,1,1,0,0,0
+003fce4466397e11c5253e43bd451cc700700042,Neurology,Stuttgart,AR,2022-08,1,1,1,,0,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2022-08,1,2,2,,0,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,scottsdale,AZ,2022-08,1,3,2,1,0,0,0
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2022-08,NULL,0,0,,0,0,0
+0003f077e0a17af3c520f7e67b20f20a5066997d,immunology,Daly City,CA,2022-08,1,1,1,,0,0,0
+0006224dc7b4fd8fd7cc5fb204c4092c1c578dc0,Primary Care,Bakersfielde,CA,2022-08,1,3,3,,0,0,6
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2022-08,1,1,1,,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2022-08,1,3,1,1,0,1,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2022-08,1,1,1,,0,0,1
+00364628b8bc4274e586f97598252f9693e84315,Neurology,Whittier,CA,2022-08,NULL,0,0,,0,0,0
+00387efbea2f18b587d1ee6d0e4a4f4cce296b1d,Cardiology,Poway,CA,2022-08,1,1,1,,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2022-08,1,1,1,,0,0,0
+0037ca10aa497d25f6f67a45ddbf497467713f5e,Primary Care,Cheshire,CT,2022-08,NULL,0,0,,0,0,0
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2022-08,1,1,1,,0,0,0
+000e25738049c63b67b07ee2e4dfc14ceef7798e,Primary Care,Palm Beach,FL,2022-08,1,2,1,1,0,0,0
+0025b21106dac1b2a3c3b14cd5e125c7e68aa908,Cardiology,Boca Raton,FL,2022-08,NULL,0,0,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2022-08,1,4,1,1,0,2,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2022-08,1,5,4,,1,1,0
+00413d05682f4a1586ed3dde4591f3a27ef5fd44,Primary Care,Ocala,FL,2022-08,1,3,3,,0,0,0
+0000ca278221665f169593686f1eb887d7150eed,Primary Care,Blackshear,GA,2022-08,1,1,1,,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2022-08,1,7,7,,0,0,0
+00180efbbcd80e7747b14b487e7134ded67d6276,Primary Care,Atlanta,GA,2022-08,NULL,0,0,,0,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2022-08,1,4,1,3,0,0,0
+00280a2fef6df6cf8aa23a7fcc840740e32a44e2,Primary Care,Lawrenceville,GA,2022-08,NULL,0,0,,0,0,0
+00288391ec76c531e81b62f77a5c091e089f3a8d,Primary Care,Tifton,GA,2022-08,1,1,1,,0,0,0
+003a9327f3ab1d4a80462cfeaf49537a29e10976,Primary Care,Kennesaw,GA,2022-08,NULL,0,0,,0,0,0
+003d7142bfe832ebdae6d08205420788c2c86e53,Primary Care,Forsyth,GA,2022-08,NULL,0,0,,0,0,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2022-08,1,5,5,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2022-08,1,2,1,,0,1,0
+00336c6a118829c4ffbbcadf3f9d4087c69570aa,Primary Care,Waverly,IA,2022-08,1,0,0,,0,0,1
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2022-08,1,1,1,,0,0,0
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2022-08,1,1,1,,0,0,0
+0019d2676e8ac65413fa31a53347922422e953b1,Neurology,Maywood,IL,2022-08,1,1,1,,0,0,0
+000438390a03f16cbdb60c0b42e20d2d645c9606,Neurology,Kansas City,KS,2022-08,NULL,0,0,,0,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2022-08,1,5,4,1,0,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2022-08,1,4,2,2,0,0,0
+001bac2d871a14e2e0d0335035a0a6365286b31e,Neurology,Alexandria,LA,2022-08,1,1,1,,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2022-08,1,9,9,,0,0,0
+00317a75a16b7bcdb22840e9f75783d2c20ecbdd,Cardiology,Chestnut Hill,MA,2022-08,1,2,2,,0,0,0
+003f70999504ace4d458dc148c6f876a0b41b25c,Cardiology,Charlton,MA,2022-08,1,4,3,1,0,0,0
+003fec5b104fd30ead9ec9d25c9f02287e0a64bf,Cardiology,North Chelmsford,MA,2022-08,1,1,1,,1,0,0
+001d8ee654002e36a7f4a7c6894a7027e53049b7,Cardiology,Frederick,MD,2022-08,1,1,1,,0,0,0
+0039e0970ee17dcb5fde36c8d0926920f1213d53,Cardiology,Frederick,MD,2022-08,1,7,7,,0,0,1
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2022-08,1,4,3,1,3,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2022-08,1,8,8,,0,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2022-08,1,3,2,,0,1,0
+002c1ffb5d459b13654456692c9522a34b563947,Cardiology,Lakeville,MN,2022-08,NULL,0,0,,0,0,0
+00305caa6535ae905a9cfb67bc4586d147abdd89,Cardiology,Pascagoula,MS,2022-08,NULL,0,0,,0,0,0
+00070c5b44ed8b8437df919bfd56f3aa7caa8ec3,Cardiology,Butte,MT,2022-08,1,3,2,1,0,0,1
+000fff22eabba9b4f489d64e3a7ad82e58e048ba,Cardiology,Greenville,NC,2022-08,1,3,3,,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2022-08,NULL,0,0,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2022-08,1,3,3,,0,0,0
+001bb45b25b28cf7753c66414a1258de9ba67f0b,Allergy,Mahwah,NJ,2022-08,NULL,0,0,,0,0,0
+0000b4ac9b506c8f35ec060ab30c41916f6098ae,Allergy,Rio Rancho,NM,2022-08,1,1,1,,0,0,0
+000ae824f58d601974326fd6a5707aa792751c03,Allergy,Rochester,NY,2022-08,NULL,0,0,,0,0,0
+0025af592fc97bc280aefe681a7637d84f641b28,Immunology,New York,NY,2022-08,NULL,0,0,,0,0,0
+002b1e4d5628706c96c0aa53afa63cf4ef1e7418,Immunology,Huntington,NY,2022-08,NULL,0,0,,0,0,0
+002ce262d9bf7a0ac7924a2f18b2e5c530093165,Immunology,New York,NY,2022-08,1,1,1,,0,0,0
+000424ee8c3c3e023bce7e9409fe8d7fa8088e4e,Neurology,Delaware,OH,2022-08,1,1,1,,0,0,0
+0008c6c298b7e3159f522c99aea45890e3d7e6f5,Neurology,Bucyrus,OH,2022-08,1,2,0,1,0,1,1
+000a02837301fcf9f9f6d06a93cc54fee0a65a26,Neurology,Akron,OH,2022-08,1,1,1,,0,0,0
+000d2027e7b6289be5b7a9ef4b531e48ab799c30,Neurology,Martins Ferry,OH,2022-08,1,1,1,,0,0,0
+00353b331064835a27b989168c1c02c4d93c6bdf,Neurology,Springfield,OH,2022-08,1,1,1,,0,0,0
+003c4e01ecc99aa0999970f8df72e0cebc62fdd8,Neurology,Columbiana,OH,2022-08,1,2,2,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2022-08,1,7,6,1,0,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2022-08,1,1,1,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2022-08,1,3,1,,0,2,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2022-08,1,3,3,,1,0,0
+0036e8bebede8b218a1888fe3937705ed56ba42a,Neurology,Philadelphia,PA,2022-08,1,1,1,,0,0,0
+002f00e98f9e844a51ad60bb1fc6b413e0e5e479,Neurology,Irmo,SC,2022-08,1,1,0,,0,1,0
+003d24823a63b950ddb5ff62fb40091d65cfea30,Neurology,Myrtle Beach,SC,2022-08,NULL,0,0,,0,0,0
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2022-08,1,1,1,,0,0,7
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2022-08,1,12,9,3,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2022-08,1,1,1,,1,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2022-08,1,5,4,1,0,0,0
+000862ffc194b1071a32fc280edee6b79c1a895b,Primary Care,Houston,TX,2022-08,1,1,1,,0,0,0
+0009bbf68fa87e671d5ee355e083e7cd0d3b3f96,Primary Care,Dallas,TX,2022-08,1,2,1,1,0,0,0
+000b7cdfc6aa5f8c60c22ac40878ed96b55211aa,Primary Care,Rosenberg,TX,2022-08,1,1,1,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2022-08,1,10,7,1,0,2,0
+002a57022a2a15a1a1017a79175372aa516e48ac,Cardiology,San Antonio,TX,2022-08,1,2,2,,1,0,0
+002cc01e08fea7bc5ac8a6d8a62e11c433367eff,Cardiology,Mcallen,TX,2022-08,1,3,3,,0,0,0
+003316f32d6e2fc9c14dd204a19816a20ae7ba41,Cardiology,Fulshear,TX,2022-08,1,1,1,,0,0,0
+0035cb1872820ad0b7d7a35ec2d742f0bfa54355,,Waco,TX,2022-08,NULL,0,0,,0,0,0
+0037494c5414156c29b823af3b2dcb12dc3b1fd9,Neurology,El Paso,TX,2022-08,1,1,1,,0,0,0
+003f4c508608ba9090a407f2acae68dd0891eeae,Neurology,Plano,TX,2022-08,1,8,7,1,4,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2022-08,1,2,2,,0,0,0
+000095904dc222c09e52464b55cc9f100f6655cc,Neurology,Grottoes,VA,2022-08,NULL,0,0,,0,0,0
+0023cdf5a2415ee5c2889fd1e8e0e4317bd49f4d,Primary Care,Richmond,VA,2022-08,NULL,0,0,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2022-08,1,15,13,2,0,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2022-08,1,10,7,1,0,2,1
+00309feb9ecc3ec2708b038a95ae56f8dd464347,Primary Care,Bonney Lake,WA,2022-08,NULL,0,0,,0,0,0
+0006ecc074e073ffe3a2713537247f2317155bad,Primary Care,Cedarburg,WI,2022-08,NULL,0,0,,0,0,0
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2022-08,1,3,3,,0,0,0
+00218b5d783a977d3b7bee79daa0f4639f4efd00,Allergy,Martinsburg,WV,2022-08,1,1,1,,0,0,1
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,WV,2022-08,1,8,8,,0,0,0
+003c5c8407254dd66296277aa295dd83ab82e438,Primary Care,Martinsburg,WV,2022-08,1,3,3,,0,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2022-09,1,1,1,,0,0,0
+000dbfeff2d9f2a8d119a94caeb25c3d24e47536,Cardiology,Tempe,AZ,2022-09,1,1,1,,0,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2022-09,1,4,2,2,0,0,0
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2022-09,1,2,0,1,0,1,0
+0003f077e0a17af3c520f7e67b20f20a5066997d,immunology,Daly City,CA,2022-09,1,1,1,,0,0,0
+0006224dc7b4fd8fd7cc5fb204c4092c1c578dc0,Primary Care,Bakersfield,CA,2022-09,1,3,3,,0,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2022-09,1,2,2,,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2022-09,1,3,2,,0,1,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2022-09,1,1,1,,0,0,1
+001ae06397483954c60a45c6fe80fbb0fa788cfb,Cardiology,San Francisco,CA,2022-09,NULL,0,0,,0,0,0
+001caf4c8396086c396631ccbadaedbee8cf1bf4,Cardiology,Victorville,CA,2022-09,1,2,2,,0,0,0
+003f2c935b1f79e62efbd58343269d236bdbece3,Cardiology,Santa Rosa,CA,2022-09,NULL,0,0,,0,0,0
+002b73cb2117be8e407a7ff0bc9138115356bc04,Cardiology,Fort Collins,CO,2022-09,1,1,1,,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2022-09,1,1,1,,0,0,0
+0037ca10aa497d25f6f67a45ddbf497467713f5e,Primary Care,Cheshire,CT,2022-09,1,2,0,1,0,1,1
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,,DE,2022-09,1,5,3,2,0,0,2
+000e25738049c63b67b07ee2e4dfc14ceef7798e,Primary Care,Palm Beach,FL,2022-09,1,1,1,,0,0,0
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2022-09,1,1,1,,0,0,0
+002eb57cb28e48c423f29e4d8ca51b73eae6e1ac,Cardiology,Marianna,FL,2022-09,NULL,0,0,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2022-09,1,6,3,1,0,2,3
+003e0f46d879f8e0c269cd35ad02f9b98b6c4db1,Immunology,Fort Lauderdale,FL,2022-09,NULL,0,0,,0,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2022-09,1,8,5,,0,3,0
+00413d05682f4a1586ed3dde4591f3a27ef5fd44,Primary Care,Ocala,FL,2022-09,1,1,1,,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2022-09,1,9,8,,2,1,0
+00180efbbcd80e7747b14b487e7134ded67d6276,Primary Care,Atlanta,GA,2022-09,1,1,1,,0,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2022-09,1,6,2,4,0,0,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2022-09,1,2,2,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2022-09,1,3,2,,0,1,2
+003e5af39833b1ac4b610f1eb6e61bfcefeb918b,Primary Care,Corning,IA,2022-09,NULL,0,0,,0,0,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2022-09,1,0,0,,0,0,1
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2022-09,1,7,6,1,0,0,0
+0012073fd9277b9f9ac21a34ebf516b09b0de170,Neurology,Pittsfield,IL,2022-09,NULL,0,0,,0,0,0
+000a6f9bd35394e95fe5cc76ca31493b21d01e5d,Neurology,Wabash,IN,2022-09,NULL,0,0,,0,0,0
+000438390a03f16cbdb60c0b42e20d2d645c9606,Neurology,Kansas City,KS,2022-09,1,0,0,,0,0,1
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2022-09,NULL,0,0,,0,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2022-09,1,5,3,2,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2022-09,1,8,8,,0,0,0
+00317a75a16b7bcdb22840e9f75783d2c20ecbdd,Cardiology,Chestnut Hill,MA,2022-09,1,2,2,,0,0,0
+003f70999504ace4d458dc148c6f876a0b41b25c,Cardiology,Charlton,MA,2022-09,1,1,1,,0,0,0
+0004e29a437aa6594359e4cbea6e6e6989f2aa6b,Cardiology,Bethesda,MD,2022-09,1,2,2,,0,0,0
+003447ea729d54109963d953e439d49e051dffd1,Cardiology,Baltimore,MD,2022-09,1,1,1,,0,0,0
+0039e0970ee17dcb5fde36c8d0926920f1213d53,Cardiology,Frederick,MD,2022-09,1,3,3,,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2022-09,1,3,3,,2,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2022-09,1,13,9,4,0,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2022-09,1,14,13,,7,1,2
+001d45e4ed4bf92e3312ae212025f454416ed513,Cardiology,Vadnais Heights,MN,2022-09,NULL,0,0,,0,0,0
+002c2818ea1b3cf7b43d0d7228dd86adf23f3e90,Cardiology,St Louis Park,MN,2022-09,1,2,2,,0,0,0
+003bb9fb38d6d6e2eefb3c9690b1cd45af111e46,Cardiology,Minnetonka,MN,2022-09,NULL,0,0,,0,0,0
+00305caa6535ae905a9cfb67bc4586d147abdd89,Cardiology,Pascagoula,MS,2022-09,NULL,0,0,,0,0,0
+00070c5b44ed8b8437df919bfd56f3aa7caa8ec3,Cardiology,Butte,MT,2022-09,1,1,1,,0,0,0
+000fff22eabba9b4f489d64e3a7ad82e58e048ba,Cardiology,Greenville,NC,2022-09,1,3,3,,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2022-09,1,1,1,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2022-09,1,8,8,,1,0,0
+00185911b5e14fe12362130ee4ca5f91725cefe9,Allergy,Holmdel,NJ,2022-09,1,1,0,1,0,0,0
+0000b4ac9b506c8f35ec060ab30c41916f6098ae,Allergy,Rio Rancho,NM,2022-09,NULL,0,0,,0,0,0
+002109cb92c8ef3aa43e4e607819d62ec847c075,Allergy,Las Vegas,NV,2022-09,NULL,0,0,,0,0,0
+000ae824f58d601974326fd6a5707aa792751c03,Allergy,Rochester,NY,2022-09,NULL,0,0,,0,0,0
+001f71f294c087109af490b7e125aed8211f0abe,Immunology,Riverhead,NY,2022-09,NULL,0,0,,0,0,0
+002ce262d9bf7a0ac7924a2f18b2e5c530093165,Immunology,New York,NY,2022-09,1,1,0,1,0,0,0
+000424ee8c3c3e023bce7e9409fe8d7fa8088e4e,Neurology,Delaware,OH,2022-09,NULL,0,0,,0,0,0
+0008c6c298b7e3159f522c99aea45890e3d7e6f5,Neurology,Bucyrus,OH,2022-09,1,1,0,1,0,0,0
+0023a0c4cb1d937ffd9c1a7f073383fab913a3e2,Neurology,Portsmouth,OH,2022-09,NULL,0,0,,0,0,0
+003084319f1f9f96f2d53d7c41e2c84b00d2dc0c,Neurology,Cincinnati,OH,2022-09,1,1,1,,0,0,0
+00353b331064835a27b989168c1c02c4d93c6bdf,Neurology,Springfield,OH,2022-09,1,1,1,,0,0,0
+003c4e01ecc99aa0999970f8df72e0cebc62fdd8,Neurology,Columbiana,OH,2022-09,1,1,1,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2022-09,1,5,5,,0,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2022-09,1,5,5,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2022-09,1,6,5,1,0,0,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2022-09,1,2,1,1,1,0,0
+0035f362d68c7f804966f3582f8fc5b418cd821c,Neurology,Philadelphia,PA,2022-09,1,1,1,,0,0,0
+003d24823a63b950ddb5ff62fb40091d65cfea30,Neurology,Myrtle Beach,SC,2022-09,NULL,0,0,,0,0,0
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2022-09,1,1,1,,0,0,2
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2022-09,1,7,6,1,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2022-09,1,2,2,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2022-09,1,4,4,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,,TX,2022-09,1,5,5,,1,0,0
+002a57022a2a15a1a1017a79175372aa516e48ac,Cardiology,San Antonio,TX,2022-09,1,2,2,,0,0,0
+002cc01e08fea7bc5ac8a6d8a62e11c433367eff,Cardiology,Mcallen,TX,2022-09,1,2,2,,0,0,0
+002f67a69630e146fb5809b5c918a000fb784de1,Cardiology,Mckinney,TX,2022-09,1,3,3,,0,0,0
+003316f32d6e2fc9c14dd204a19816a20ae7ba41,Cardiology,Fulshear,TX,2022-09,1,1,1,,0,0,0
+0035cb1872820ad0b7d7a35ec2d742f0bfa54355,Neurology,Waco,TX,2022-09,1,1,1,,0,0,0
+0037494c5414156c29b823af3b2dcb12dc3b1fd9,,El Paso,TX,2022-09,1,3,2,1,2,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2022-09,1,1,0,,0,1,0
+000095904dc222c09e52464b55cc9f100f6655cc,Neurology,Grottoes,VA,2022-09,NULL,0,0,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2022-09,1,11,9,2,1,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2022-09,1,7,5,2,0,0,1
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2022-09,1,1,1,,0,0,0
+0034014a588b04af25fdb05fe8051e471a236f5f,Primary Care,Whitehall,WI,2022-09,NULL,0,0,,0,0,0
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,WV,2022-09,1,3,3,,0,0,1
+003c5c8407254dd66296277aa295dd83ab82e438,Primary Care,,WV,2022-09,1,2,2,,0,0,0
+0032bebd1e328ea8c4ed0698304d55e7b20dd8ea,Primary Care,Rogersville,AL,2022-10,1,1,1,,0,0,0
+003397b221d801e61e4e3bb98589a7fd3ddce7aa,Neurology,Huntsville,AL,2022-10,1,2,0,2,0,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2022-10,1,2,2,,0,0,0
+000ac3c8ed53e25ea33b394da389ce83a75bcaed,Cardiology,Glendale,AZ,2022-10,1,1,0,1,1,0,0
+001f5ac09cf7291668bb75d275de07589568a6eb,Neurology,Tempe,AZ,2022-10,1,1,0,1,0,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2022-10,1,2,1,1,0,0,0
+002c42e6fd1a1f9cab21a249f808568b88bf464b,Primary Care,Tucson,AZ,2022-10,NULL,0,0,,0,0,0
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2022-10,1,2,1,1,1,0,0
+0003f077e0a17af3c520f7e67b20f20a5066997d,immunology,Daly City,CA,2022-10,NULL,0,0,,0,0,0
+0006224dc7b4fd8fd7cc5fb204c4092c1c578dc0,Primary Care,Bakersfield,CA,2022-10,1,4,4,,0,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2022-10,1,4,4,,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2022-10,1,2,2,,0,0,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2022-10,1,1,1,,0,0,2
+001cfb56b79fa8a8ac1ed1542b951c0d376202b8,Primary Care,Los Angeles,CA,2022-10,1,0,0,,0,0,1
+00280fb8e6ad826d07d6c2b56b2309d016028152,Allergy,Visalia,CA,2022-10,1,1,1,,0,0,0
+00364628b8bc4274e586f97598252f9693e84315,Neurology,Whittier,CA,2022-10,1,1,1,,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2022-10,NULL,0,0,,0,0,0
+0037ca10aa497d25f6f67a45ddbf497467713f5e,Primary Care,Cheshire,CT,2022-10,1,2,1,,0,1,1
+003ea32dc606fdeea43fd7c60f32e92a37f497cf,Primary Care,Windsor,CT,2022-10,NULL,0,0,,0,0,0
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2022-10,1,4,1,3,0,0,0
+000e25738049c63b67b07ee2e4dfc14ceef7798e,Primary Care,Palm Beach,FL,2022-10,1,3,3,,0,0,0
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2022-10,1,1,1,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2022-10,1,13,9,2,0,2,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2022-10,1,4,2,,0,2,0
+00413d05682f4a1586ed3dde4591f3a27ef5fd44,Primary Care,Ocala,FL,2022-10,1,1,1,,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2022-10,1,12,12,,3,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2022-10,1,4,2,2,0,0,0
+00288391ec76c531e81b62f77a5c091e089f3a8d,Primary Care,Tifton,GA,2022-10,1,1,1,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2022-10,1,2,1,,0,1,0
+00336c6a118829c4ffbbcadf3f9d4087c69570aa,Primary Care,Waverly,IA,2022-10,NULL,0,0,,0,0,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2022-10,NULL,0,0,,0,0,0
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2022-10,1,5,4,1,0,0,0
+0019d2676e8ac65413fa31a53347922422e953b1,Neurology,Maywood,IL,2022-10,1,1,1,,0,0,0
+00315109a1b53fc93f5fa61fd7247f3f20c81d3e,Neurology,Chicago,IL,2022-10,1,1,1,,0,0,0
+000a6f9bd35394e95fe5cc76ca31493b21d01e5d,Neurology,Wabash,IN,2022-10,NULL,0,0,,0,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2022-10,1,1,0,,0,1,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2022-10,1,5,2,3,0,0,0
+001bac2d871a14e2e0d0335035a0a6365286b31e,Neurology,Alexandria,LA,2022-10,1,1,1,,0,0,0
+00294c1121cf220d499f0db2e319f5df333483f3,Cardiology,Weymouth,MA,2022-10,1,1,1,,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2022-10,1,9,9,,0,0,0
+00317a75a16b7bcdb22840e9f75783d2c20ecbdd,Cardiology,Chestnut Hill,MA,2022-10,1,1,1,,0,0,0
+003f70999504ace4d458dc148c6f876a0b41b25c,Cardiology,Charlton,MA,2022-10,1,2,2,,0,0,0
+0004e29a437aa6594359e4cbea6e6e6989f2aa6b,Cardiology,Bethesda,MD,2022-10,1,1,1,,0,0,0
+0005721cb2e996336e2dcf87399b4e92653cb74a,Cardiology,Annapolis,MD,2022-10,1,4,2,2,0,0,0
+003447ea729d54109963d953e439d49e051dffd1,Cardiology,Baltimore,MD,2022-10,1,3,3,,0,0,0
+0039e0970ee17dcb5fde36c8d0926920f1213d53,Cardiology,Frederick,MD,2022-10,1,1,1,,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2022-10,1,4,4,,3,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2022-10,1,13,10,3,0,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2022-10,1,12,10,,3,2,0
+001d45e4ed4bf92e3312ae212025f454416ed513,Cardiology,Vadnais Heights,MN,2022-10,NULL,0,0,,0,0,0
+002c1ffb5d459b13654456692c9522a34b563947,Cardiology,Lakeville,MN,2022-10,NULL,0,0,,0,0,0
+00070c5b44ed8b8437df919bfd56f3aa7caa8ec3,Cardiology,Butte,MT,2022-10,1,1,1,,0,0,1
+000fff22eabba9b4f489d64e3a7ad82e58e048ba,Cardiology,Greenville,NC,2022-10,1,4,4,,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2022-10,1,1,1,,0,0,0
+0033b10489bfa081b47b7ba39b88ae59ddb7dcd0,Cardiology,Statesville,NC,2022-10,1,1,1,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2022-10,1,4,4,,0,0,0
+000eff7520c140f531d5afff5736a51d0829b87e,Cardiology,Neptune,NJ,2022-10,1,1,1,,0,0,0
+00185911b5e14fe12362130ee4ca5f91725cefe9,Allergy,Holmdel,NJ,2022-10,1,1,1,,0,0,0
+001bb45b25b28cf7753c66414a1258de9ba67f0b,Allergy,Mahwah,NJ,2022-10,1,1,1,,0,0,0
+001ef73ab562d5afd4f7917249650df17aa16384,Allergy,Albuquerque,NM,2022-10,1,1,1,,0,0,0
+000ae824f58d601974326fd6a5707aa792751c03,Allergy,Rochester,NY,2022-10,NULL,0,0,,0,0,0
+0010a07e03cc1956efbd65bd2ff1b4c671cd0e5b,Allergy,Buffalo,NY,2022-10,1,1,1,,0,0,0
+003a4f8c9bdcc6acc459d0f0c8b75881b4c4ff50,Immunology,Jefferson Valley,NY,2022-10,1,2,0,2,0,0,0
+000424ee8c3c3e023bce7e9409fe8d7fa8088e4e,Neurology,Delaware,OH,2022-10,1,2,2,,0,0,0
+0008c6c298b7e3159f522c99aea45890e3d7e6f5,Neurology,Bucyrus,OH,2022-10,1,2,1,1,0,0,0
+0011ff1601f0e385d855908f4f049973c50481e1,Neurology,Brunswick,OH,2022-10,NULL,0,0,,0,0,0
+001b2cda04cc13923189ece0151d3deed5e346b9,Neurology,Columbus,OH,2022-10,1,0,0,,0,0,1
+001e6d2a39ad84fb05f4712fa1c4c54f894f70f2,Neurology,Akron,OH,2022-10,NULL,0,0,,0,0,0
+0021e949c81b614edc6127ded5ba1fbd790e7742,Neurology,Dayton,OH,2022-10,1,1,1,,0,0,0
+0023a0c4cb1d937ffd9c1a7f073383fab913a3e2,Neurology,Portsmouth,OH,2022-10,NULL,0,0,,0,0,0
+003084319f1f9f96f2d53d7c41e2c84b00d2dc0c,Neurology,Cincinnati,OH,2022-10,1,1,1,,0,0,0
+00353b331064835a27b989168c1c02c4d93c6bdf,Neurology,Springfield,OH,2022-10,1,1,1,,0,0,1
+003c4e01ecc99aa0999970f8df72e0cebc62fdd8,Neurology,Columbiana,OH,2022-10,1,1,0,1,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2022-10,1,4,4,,1,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2022-10,1,5,4,1,1,0,0
+002316b2f5d6c89e50dbfd4f0a5220c720f0c8f9,Neurology,Sisters,OR,2022-10,NULL,0,0,,0,0,0
+000451f5877e0408ab244695835b692919c65c01,Neurology,Irwin,PA,2022-10,1,1,1,,0,0,1
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2022-10,1,4,3,,0,1,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2022-10,1,1,1,,0,0,0
+002f00e98f9e844a51ad60bb1fc6b413e0e5e479,Neurology,Irmo,SC,2022-10,NULL,0,0,,0,0,0
+003d24823a63b950ddb5ff62fb40091d65cfea30,Neurology,Myrtle Beach,SC,2022-10,NULL,0,0,,0,0,0
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2022-10,1,2,2,,0,0,2
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2022-10,1,5,5,,0,0,0
+0031f4ab4874a01936c68984e7a9d231af5cbb93,Primary Care,Memphis,TN,2022-10,NULL,0,0,,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2022-10,1,9,9,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2022-10,1,5,5,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2022-10,1,6,4,2,0,0,0
+002a57022a2a15a1a1017a79175372aa516e48ac,Cardiology,San Antonio,TX,2022-10,1,1,1,,0,0,0
+002cc01e08fea7bc5ac8a6d8a62e11c433367eff,Cardiology,Mcallen,TX,2022-10,1,1,1,,0,0,0
+002f67a69630e146fb5809b5c918a000fb784de1,Cardiology,Mckinney,TX,2022-10,1,2,2,,0,0,0
+0035cb1872820ad0b7d7a35ec2d742f0bfa54355,Neurology,Waco,TX,2022-10,NULL,0,0,,0,0,0
+0037494c5414156c29b823af3b2dcb12dc3b1fd9,Neurology,El Paso,TX,2022-10,1,1,1,,0,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2022-10,1,2,2,,0,0,0
+000095904dc222c09e52464b55cc9f100f6655cc,Neurology,Grottoes,VA,2022-10,NULL,0,0,,0,0,0
+001099cac40e10ac255755ba150a3cec27b38c4c,Neurology,Hampton,VA,2022-10,1,1,1,,0,0,2
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2022-10,1,23,21,2,0,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2022-10,1,10,8,2,0,0,0
+00309feb9ecc3ec2708b038a95ae56f8dd464347,Primary Care,Bonney Lake,WA,2022-10,NULL,0,0,,0,0,0
+0006ecc074e073ffe3a2713537247f2317155bad,Primary Care,Cedarburg,WI,2022-10,1,1,1,,0,0,0
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2022-10,1,2,2,,0,0,0
+003a76458684ec2d4bfad066e4510b16c7ed5ec2,Allergy,Niagara,WI,2022-10,1,1,1,,0,0,0
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,,2022-10,1,2,2,,0,0,0
+0000047dc97a3398fc0c7a933996546fa4d8854f,immunology,Phoenix,AZ,2022-11,1,1,1,,0,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2022-11,1,1,1,,0,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2022-11,1,2,2,,0,0,0
+0003f077e0a17af3c520f7e67b20f20a5066997d,immunology,Daly City,CA,2022-11,1,1,0,1,0,0,0
+0006224dc7b4fd8fd7cc5fb204c4092c1c578dc0,Primary Care,Bakersfield,CA,2022-11,1,1,1,,0,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2022-11,NULL,0,0,,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2022-11,1,1,0,1,0,0,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2022-11,1,1,1,,1,0,0
+0027567916976e91bdc980e849768cad50e1ab2e,Primary Care,Santa Ana,CA,2022-11,NULL,0,0,,0,0,0
+00280fb8e6ad826d07d6c2b56b2309d016028152,Allergy,Visalia,CA,2022-11,1,3,3,,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2022-11,1,1,1,,0,0,0
+0018e013d991810b103c64060448050afe286576,Primary Care,Avon,CT,2022-11,NULL,0,0,,0,0,0
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2022-11,1,3,1,2,0,0,0
+000e25738049c63b67b07ee2e4dfc14ceef7798e,Primary Care,Palm Beach,FL,2022-11,1,1,1,,0,0,0
+002eb57cb28e48c423f29e4d8ca51b73eae6e1ac,Cardiology,Marianna,FL,2022-11,1,0,0,,0,0,1
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2022-11,1,2,2,,1,0,0
+003e0f46d879f8e0c269cd35ad02f9b98b6c4db1,Immunology,Fort Lauderdale,FL,2022-11,NULL,0,0,,0,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2022-11,1,2,1,,0,1,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2022-11,1,12,11,,2,1,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2022-11,1,6,3,3,0,0,0
+00288391ec76c531e81b62f77a5c091e089f3a8d,Primary Care,Tifton,GA,2022-11,1,1,1,,0,0,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2022-11,1,3,3,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2022-11,1,3,2,,0,1,0
+00336c6a118829c4ffbbcadf3f9d4087c69570aa,Primary Care,Waverly,IA,2022-11,NULL,0,0,,0,0,0
+003e5af39833b1ac4b610f1eb6e61bfcefeb918b,Primary Care,Corning,IA,2022-11,1,2,2,,0,0,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2022-11,1,0,0,,0,0,1
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2022-11,1,5,4,1,0,0,0
+000a6f9bd35394e95fe5cc76ca31493b21d01e5d,Neurology,Wabash,IN,2022-11,NULL,0,0,,0,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2022-11,1,3,1,1,0,1,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2022-11,1,3,2,1,0,0,0
+0000577f5af6824bccdfc04f2c75bcf7b3a7d270,Cardiology,North Adams,MA,2022-11,1,1,1,,0,0,0
+00023405f26f8d0a93d96804fc27bc0900db68db,Cardiology,North Andover,MA,2022-11,1,1,1,,0,0,0
+00294c1121cf220d499f0db2e319f5df333483f3,Cardiology,Weymouth,MA,2022-11,1,5,5,,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2022-11,1,4,4,,0,0,0
+00317a75a16b7bcdb22840e9f75783d2c20ecbdd,Cardiology,Chestnut Hill,MA,2022-11,1,1,1,,0,0,0
+0005721cb2e996336e2dcf87399b4e92653cb74a,Cardiology,Annapolis,MD,2022-11,1,3,1,2,0,0,0
+003447ea729d54109963d953e439d49e051dffd1,Cardiology,Baltimore,MD,2022-11,1,2,2,,0,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2022-11,1,12,10,2,1,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2022-11,1,14,12,,9,2,0
+001d45e4ed4bf92e3312ae212025f454416ed513,Cardiology,Vadnais Heights,MN,2022-11,NULL,0,0,,0,0,0
+002c1ffb5d459b13654456692c9522a34b563947,Cardiology,Lakeville,MN,2022-11,1,0,0,,0,0,1
+003bb9fb38d6d6e2eefb3c9690b1cd45af111e46,Cardiology,Minnetonka,MN,2022-11,NULL,0,0,,0,0,0
+001b4094808b59f38360578b8a4c21adcb2e1b80,Cardiology,Springfield,MO,2022-11,1,1,1,,0,0,0
+000fff22eabba9b4f489d64e3a7ad82e58e048ba,Cardiology,Greenville,NC,2022-11,1,2,2,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2022-11,1,3,3,,0,0,0
+00185911b5e14fe12362130ee4ca5f91725cefe9,Allergy,Holmdel,NJ,2022-11,NULL,0,0,,0,0,0
+001bb45b25b28cf7753c66414a1258de9ba67f0b,Allergy,Mahwah,NJ,2022-11,NULL,0,0,,0,0,0
+00110baa94591141c6d659d88eb963e7057f1cac,Allergy,Reno,NV,2022-11,1,1,1,,0,0,0
+000ad5c574bd5567ff4b73fc35d0077aabeaf2e5,Allergy,Staten Island,NY,2022-11,1,1,1,,0,0,0
+000ae824f58d601974326fd6a5707aa792751c03,Allergy,Rochester,NY,2022-11,1,1,1,,0,0,0
+0010a07e03cc1956efbd65bd2ff1b4c671cd0e5b,Allergy,Buffalo,NY,2022-11,1,1,1,,0,0,0
+003a4f8c9bdcc6acc459d0f0c8b75881b4c4ff50,Immunology,Jefferson Valley,NY,2022-11,1,4,1,3,0,0,0
+000424ee8c3c3e023bce7e9409fe8d7fa8088e4e,Neurology,Delaware,OH,2022-11,1,1,1,,0,0,0
+0008c6c298b7e3159f522c99aea45890e3d7e6f5,Neurology,Bucyrus,OH,2022-11,1,3,1,2,0,0,0
+0011ff1601f0e385d855908f4f049973c50481e1,Neurology,Brunswick,OH,2022-11,1,0,0,,0,0,1
+00353b331064835a27b989168c1c02c4d93c6bdf,Neurology,Springfield,OH,2022-11,NULL,0,0,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2022-11,1,6,6,,1,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2022-11,1,4,3,1,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2022-11,1,4,4,,1,0,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2022-11,1,1,1,,0,0,0
+002f00e98f9e844a51ad60bb1fc6b413e0e5e479,Neurology,Irmo,SC,2022-11,1,2,2,,0,0,0
+002ccacdd8cc86b05529d85371bd3626847ea521,Neurology,Canton,SD,2022-11,1,1,1,,0,0,0
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2022-11,1,2,2,,0,0,0
+000b2aec5bf4664d9e8cc9f16a0da2ea6ec51f85,Neurology,Lenoir City,TN,2022-11,NULL,0,0,,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2022-11,1,4,4,,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2022-11,1,2,2,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2022-11,1,5,4,1,0,0,0
+0009d49b241bddb55514359ccda6fcdd03ded514,Primary Care,Cypress,TX,2022-11,1,1,1,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2022-11,1,6,4,2,1,0,0
+002f67a69630e146fb5809b5c918a000fb784de1,Cardiology,Mckinney,TX,2022-11,1,5,5,,0,0,0
+003316f32d6e2fc9c14dd204a19816a20ae7ba41,Cardiology,Fulshear,TX,2022-11,1,2,1,,0,1,0
+0035cb1872820ad0b7d7a35ec2d742f0bfa54355,Neurology,Waco,TX,2022-11,1,1,1,,0,0,0
+003f4c508608ba9090a407f2acae68dd0891eeae,Neurology,,TX,2022-11,NULL,0,0,,0,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2022-11,1,2,2,,0,0,1
+000095904dc222c09e52464b55cc9f100f6655cc,Neurology,Grottoes,VA,2022-11,NULL,0,0,,0,0,0
+001099cac40e10ac255755ba150a3cec27b38c4c,Neurology,Hampton,VA,2022-11,NULL,0,0,,0,0,0
+0023cdf5a2415ee5c2889fd1e8e0e4317bd49f4d,Primary Care,Richmond,VA,2022-11,NULL,0,0,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2022-11,1,12,9,3,1,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2022-11,1,9,4,2,0,3,0
+0006ecc074e073ffe3a2713537247f2317155bad,Primary Care,Cedarburg,WI,2022-11,1,0,0,,0,0,1
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2022-11,1,1,1,,0,0,0
+004188f97da2d490f9f7b445ee849bd057f7917c,Allergy,Black River Falls,WI,2022-11,1,1,1,,0,0,0
+00218b5d783a977d3b7bee79daa0f4639f4efd00,Allergy,Martinsburg,WV,2022-11,1,1,1,,0,0,1
+00331b98024a8096141e5d8ebb8a49a91c51dc58,,Williamson,WV,2022-11,1,4,4,,0,0,0
+00301c6785296b29de827f60a40e60ccce8a1918,Allergy,Gardendale,AL,2022-12,1,0,0,,0,0,1
+0032bebd1e328ea8c4ed0698304d55e7b20dd8ea,Primary Care,Rogersville,AL,2022-12,NULL,0,0,,0,0,0
+003397b221d801e61e4e3bb98589a7fd3ddce7aa,Neurology,Huntsville,AL,2022-12,1,3,1,2,0,0,0
+0022029c6957d897fb38372d7c54b87de9ef8613,Nutrition,Pine Bluff,ar,2022-12,NULL,0,0,,0,0,0
+0000047dc97a3398fc0c7a933996546fa4d8854f,Immunology,Phoenix,AZ,2022-12,NULL,0,0,,0,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2022-12,1,2,2,,0,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2022-12,1,3,2,1,0,0,0
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2022-12,1,3,0,2,0,1,0
+0003f077e0a17af3c520f7e67b20f20a5066997d,immunology,Daly City,CA,2022-12,NULL,0,0,,0,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2022-12,1,2,2,,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2022-12,1,3,3,,0,0,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2022-12,1,2,2,,0,0,0
+001cfb56b79fa8a8ac1ed1542b951c0d376202b8,Primary Care,Los Angeles,CA,2022-12,NULL,0,0,,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2022-12,1,2,2,,0,0,0
+0037ca10aa497d25f6f67a45ddbf497467713f5e,Primary Care,Cheshire,CT,2022-12,1,0,0,,0,0,1
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2022-12,1,2,0,2,0,0,0
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2022-12,1,2,2,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2022-12,1,2,2,,0,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2022-12,NULL,0,0,,0,0,0
+0005ed23aa71ea9a604599dfcae268029dbc6601,Primary Care,Dahlonega,GA,2022-12,NULL,0,0,,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2022-12,1,7,7,,0,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2022-12,1,4,2,2,0,0,0
+003767a7e210b104b24f1cc96bd89b752632ed0b,Primary Care,Cedartown,GA,2022-12,1,1,1,,0,0,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2022-12,1,2,2,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2022-12,1,2,1,,0,1,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2022-12,1,0,0,,0,0,1
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2022-12,1,6,5,1,0,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2022-12,1,3,3,,0,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2022-12,1,6,6,,0,0,0
+00023405f26f8d0a93d96804fc27bc0900db68db,Cardiology,North Andover,MA,2022-12,1,1,1,,0,0,0
+00159b009c30dd30fc484f13b235ea9b88065ade,Cardiology,Worcester,MA,2022-12,NULL,0,0,,0,0,0
+00294c1121cf220d499f0db2e319f5df333483f3,Cardiology,Weymouth,MA,2022-12,1,1,1,,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2022-12,1,5,4,1,0,0,0
+00317a75a16b7bcdb22840e9f75783d2c20ecbdd,Cardiology,Chestnut Hill,MA,2022-12,1,1,1,,0,0,0
+0040d85a0a605d025d6d34655aec1e8e624ff7c6,Cardiology,Plymouth,MA,2022-12,1,2,2,,0,0,0
+0005721cb2e996336e2dcf87399b4e92653cb74a,Cardiology,Annapolis,MD,2022-12,1,5,2,3,0,0,0
+001d8ee654002e36a7f4a7c6894a7027e53049b7,Cardiology,Frederick,MD,2022-12,1,2,2,,0,0,0
+003447ea729d54109963d953e439d49e051dffd1,Cardiology,Baltimore,MD,2022-12,1,2,2,,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2022-12,1,2,2,,0,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2022-12,1,11,9,2,0,0,2
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2022-12,1,6,6,,5,0,0
+002c1ffb5d459b13654456692c9522a34b563947,Cardiology,Lakeville,MN,2022-12,1,0,0,,0,0,1
+001b4094808b59f38360578b8a4c21adcb2e1b80,Cardiology,Springfield,MO,2022-12,NULL,0,0,,0,0,0
+00305caa6535ae905a9cfb67bc4586d147abdd89,Cardiology,Pascagoula,MS,2022-12,NULL,0,0,,0,0,0
+000fff22eabba9b4f489d64e3a7ad82e58e048ba,Cardiology,Greenville,NC,2022-12,1,3,3,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2022-12,1,6,6,,0,0,2
+000eff7520c140f531d5afff5736a51d0829b87e,Cardiology,Neptune,NJ,2022-12,1,1,1,,0,0,0
+000a2e279a77f2e7dd39ed31ec1ebc918fb68798,Allergy,Rochester,NY,2022-12,1,1,1,,0,0,0
+000ad5c574bd5567ff4b73fc35d0077aabeaf2e5,Allergy,Staten Island,NY,2022-12,1,1,0,1,0,0,0
+0010a07e03cc1956efbd65bd2ff1b4c671cd0e5b,Allergy,Buffalo,NY,2022-12,NULL,0,0,,0,0,0
+002b1e4d5628706c96c0aa53afa63cf4ef1e7418,Immunology,Huntington,NY,2022-12,NULL,0,0,,0,0,0
+003a4f8c9bdcc6acc459d0f0c8b75881b4c4ff50,Immunology,Jefferson Valley,NY,2022-12,1,2,1,1,0,0,0
+000424ee8c3c3e023bce7e9409fe8d7fa8088e4e,Neurology,Delaware,OH,2022-12,1,1,1,,0,0,0
+0008c6c298b7e3159f522c99aea45890e3d7e6f5,Neurology,Bucyrus,OH,2022-12,1,1,1,,0,0,0
+0011ff1601f0e385d855908f4f049973c50481e1,Neurology,Brunswick,OH,2022-12,NULL,0,0,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2022-12,1,5,5,,0,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2022-12,1,4,4,,0,0,0
+002316b2f5d6c89e50dbfd4f0a5220c720f0c8f9,Neurology,Sisters,OR,2022-12,NULL,0,0,,0,0,0
+000451f5877e0408ab244695835b692919c65c01,Neurology,Irwin,PA,2022-12,1,1,1,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2022-12,1,4,2,,0,2,0
+0015b737c0ba8c725a47248a498218f4724a2ba1,Neurology,Boiling Springs,SC,2022-12,NULL,0,0,,0,0,0
+0024bbcdc3fb7294e2983e2313dcce5b91de948f,Neurology,North Charleston,SC,2022-12,1,1,0,1,0,0,0
+003d24823a63b950ddb5ff62fb40091d65cfea30,Neurology,Myrtle Beach,SC,2022-12,1,0,0,,0,0,1
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2022-12,1,1,0,1,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2022-12,1,7,7,,0,0,0
+0036a3718f0d33d4c3fcf1e60de92eede7a8455e,Primary Care,Knoxville,TN,2022-12,NULL,0,0,,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2022-12,1,3,2,1,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2022-12,1,6,5,1,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2022-12,1,3,2,1,0,0,0
+002f67a69630e146fb5809b5c918a000fb784de1,Cardiology,Mckinney,TX,2022-12,1,1,1,,0,0,0
+0035cb1872820ad0b7d7a35ec2d742f0bfa54355,Neurology,Waco,TX,2022-12,NULL,0,0,,0,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2022-12,1,1,1,,0,0,0
+000095904dc222c09e52464b55cc9f100f6655cc,Neurology,Grottoes,VA,2022-12,NULL,0,0,,0,0,0
+0023cdf5a2415ee5c2889fd1e8e0e4317bd49f4d,Primary Care,Richmond,VA,2022-12,NULL,0,0,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2022-12,1,16,14,1,0,1,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2022-12,1,6,4,2,0,0,1
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,,2022-12,1,2,1,,0,1,0
+004188f97da2d490f9f7b445ee849bd057f7917c,Allergy,Black River Falls,WI,2022-12,1,1,1,,0,0,0
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,WV,2022-12,1,3,3,,0,0,0
+00301c6785296b29de827f60a40e60ccce8a1918,Allergy,Gardendale,AL,2023-01,1,0,0,,0,0,1
+0032bebd1e328ea8c4ed0698304d55e7b20dd8ea,Primary Care,Rogersville,AL,2023-01,NULL,0,0,,0,0,0
+003397b221d801e61e4e3bb98589a7fd3ddce7aa,Neurology,Huntsville,AL,2023-01,1,2,1,1,0,0,0
+0022029c6957d897fb38372d7c54b87de9ef8613,Nutrition,Pine Bluff,AR,2023-01,1,1,1,,0,0,0
+0000047dc97a3398fc0c7a933996546fa4d8854f,Immunology,Phoenix,AZ,2023-01,1,1,1,,0,0,1
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2023-01,1,3,3,,0,0,1
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2023-01,1,5,3,2,0,0,1
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2023-01,1,1,0,,0,1,0
+0003f077e0a17af3c520f7e67b20f20a5066997d,immunology,Daly City,CA,2023-01,NULL,0,0,,0,0,0
+0006224dc7b4fd8fd7cc5fb204c4092c1c578dc0,Primary Care,Bakersfield,CA,2023-01,NULL,0,0,,0,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2023-01,1,1,1,,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2023-01,1,5,4,,0,1,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2023-01,1,2,2,,2,0,0
+001cfb56b79fa8a8ac1ed1542b951c0d376202b8,Primary Care,Los Angeles,CA,2023-01,NULL,0,0,,0,0,0
+00280fb8e6ad826d07d6c2b56b2309d016028152,Allergy,Visalia,CA,2023-01,1,1,1,,0,0,0
+0001fb48bd6ca26e9b7bfe8e17ab69d91bb41113,Cardiology,Wheat Ridge,CO,2023-01,1,1,0,1,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,,2023-01,1,3,3,,1,0,0
+0018e013d991810b103c64060448050afe286576,Primary Care,Avon,CT,2023-01,NULL,0,0,,0,0,0
+0037ca10aa497d25f6f67a45ddbf497467713f5e,Primary Care,Cheshire,CT,2023-01,1,1,0,,0,1,2
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2023-01,1,3,2,1,0,0,0
+000e25738049c63b67b07ee2e4dfc14ceef7798e,Primary Care,Palm Beach,FL,2023-01,1,1,1,,0,0,0
+0016bfd16a50ec2593d4cb84eeb2d0f24d76465a,Cardiology,Boca Raton,FL,2023-01,1,2,2,,0,0,0
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2023-01,1,5,3,2,0,0,0
+0020bf07d1283eec5083d0fb9eb0b349fefd3455,Cardiology,Tampa,FL,2023-01,1,1,1,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2023-01,1,2,1,,1,1,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2023-01,1,2,2,,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2023-01,1,15,14,1,3,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2023-01,1,4,1,3,0,0,0
+00288391ec76c531e81b62f77a5c091e089f3a8d,Primary Care,Tifton,GA,2023-01,1,1,1,,0,0,0
+003767a7e210b104b24f1cc96bd89b752632ed0b,Primary Care,Cedartown,GA,2023-01,1,1,1,,0,0,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2023-01,1,2,2,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2023-01,1,3,2,,0,1,1
+00336c6a118829c4ffbbcadf3f9d4087c69570aa,Primary Care,Waverly,IA,2023-01,NULL,0,0,,0,0,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2023-01,1,0,0,,0,0,1
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2023-01,1,10,9,1,0,0,0
+0019d2676e8ac65413fa31a53347922422e953b1,Neurology,Maywood,IL,2023-01,1,4,4,,1,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2023-01,1,4,3,1,0,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2023-01,1,6,3,3,0,0,0
+0000577f5af6824bccdfc04f2c75bcf7b3a7d270,Cardiology,North Adams,MA,2023-01,1,1,1,,0,0,0
+00023405f26f8d0a93d96804fc27bc0900db68db,Cardiology,North Andover,MA,2023-01,1,1,1,,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2023-01,1,4,4,,0,0,0
+00317a75a16b7bcdb22840e9f75783d2c20ecbdd,Cardiology,Chestnut Hill,MA,2023-01,1,3,3,,0,0,0
+0040d85a0a605d025d6d34655aec1e8e624ff7c6,Cardiology,Plymouth,MA,2023-01,1,2,2,,0,0,0
+0005721cb2e996336e2dcf87399b4e92653cb74a,Cardiology,Annapolis,MD,2023-01,1,2,1,1,0,0,0
+001d8ee654002e36a7f4a7c6894a7027e53049b7,Cardiology,Frederick,MD,2023-01,1,1,1,,0,0,0
+003447ea729d54109963d953e439d49e051dffd1,Cardiology,Baltimore,MD,2023-01,1,3,3,,0,0,0
+0039e0970ee17dcb5fde36c8d0926920f1213d53,Cardiology,Frederick,MD,2023-01,1,2,2,,0,0,1
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2023-01,1,7,5,2,1,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2023-01,1,16,16,,11,0,0
+002c1ffb5d459b13654456692c9522a34b563947,Cardiology,Lakeville,MN,2023-01,1,1,1,,0,0,0
+001b4094808b59f38360578b8a4c21adcb2e1b80,Cardiology,Springfield,MO,2023-01,1,1,1,,0,0,0
+00305caa6535ae905a9cfb67bc4586d147abdd89,Cardiology,Pascagoula,MS,2023-01,NULL,0,0,,0,0,0
+00070c5b44ed8b8437df919bfd56f3aa7caa8ec3,Cardiology,Butte,MT,2023-01,1,1,0,1,0,0,0
+000fff22eabba9b4f489d64e3a7ad82e58e048ba,Cardiology,Greenville,NC,2023-01,1,6,6,,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2023-01,1,3,3,,0,0,0
+0033b10489bfa081b47b7ba39b88ae59ddb7dcd0,Cardiology,Statesville,NC,2023-01,1,1,1,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2023-01,1,7,6,1,0,0,0
+003ee88e970c0637a6ef31baa6ab04309c52259e,Cardiology,Omaha,NE,2023-01,NULL,0,0,,0,0,0
+00185911b5e14fe12362130ee4ca5f91725cefe9,Allergy,Holmdel,NJ,2023-01,1,1,0,1,0,0,0
+001ef73ab562d5afd4f7917249650df17aa16384,Allergy,Albuquerque,NM,2023-01,1,3,3,,1,0,0
+000ad5c574bd5567ff4b73fc35d0077aabeaf2e5,Allergy,Staten Island,NY,2023-01,1,1,0,1,0,0,0
+0010a07e03cc1956efbd65bd2ff1b4c671cd0e5b,Allergy,Buffalo,NY,2023-01,NULL,0,0,,0,0,0
+0010bfa467b0e5740abe6f9a957a77d8bd309f41,Immunology,Syracuse,NY,2023-01,1,1,0,1,0,0,0
+002b1e4d5628706c96c0aa53afa63cf4ef1e7418,Immunology,Huntington,NY,2023-01,NULL,0,0,,0,0,0
+003a4f8c9bdcc6acc459d0f0c8b75881b4c4ff50,Immunology,Jefferson Valley,NY,2023-01,1,1,0,1,0,0,0
+000424ee8c3c3e023bce7e9409fe8d7fa8088e4e,Neurology,Delaware,OH,2023-01,1,2,2,,0,0,0
+0011ff1601f0e385d855908f4f049973c50481e1,Neurology,Brunswick,OH,2023-01,1,2,2,,0,0,0
+00353b331064835a27b989168c1c02c4d93c6bdf,Neurology,Springfield,OH,2023-01,1,0,0,,0,0,2
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2023-01,1,4,4,,0,0,0
+002182635f07320b68bf1b97fbd8834d2fadfac9,Neurology,Midwest City,OK,2023-01,1,1,1,,0,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2023-01,1,4,4,,0,0,0
+000451f5877e0408ab244695835b692919c65c01,Neurology,Irwin,PA,2023-01,1,1,1,,0,0,0
+00081da9e81cbb1f3295aa909a3939238db87dad,Neurology,Yardley,PA,2023-01,NULL,0,0,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2023-01,1,8,5,,0,3,0
+00299c4b12d758984b5bbf2e42330fb7d44a2d52,Neurology,Bensalem,PA,2023-01,1,1,1,,0,0,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2023-01,1,1,0,,0,1,0
+0015b737c0ba8c725a47248a498218f4724a2ba1,Neurology,Boiling Springs,SC,2023-01,NULL,0,0,,0,0,0
+0024bbcdc3fb7294e2983e2313dcce5b91de948f,Neurology,North Charleston,SC,2023-01,1,2,2,,0,0,0
+003d24823a63b950ddb5ff62fb40091d65cfea30,Neurology,Myrtle Beach,SC,2023-01,NULL,0,0,,0,0,0
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2023-01,1,1,1,,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,,TN,2023-01,1,7,6,1,1,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2023-01,1,4,4,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2023-01,1,4,4,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2023-01,1,7,5,,0,2,0
+002f67a69630e146fb5809b5c918a000fb784de1,Cardiology,Mckinney,TX,2023-01,1,3,3,,0,0,0
+00315071bae2a22ac0c56a32f65c76c03da72a0f,Cardiology,Killeen,TX,2023-01,NULL,0,0,,0,0,0
+003d915726c3a7298b4c68af42bb6eada2ee1b4c,Neurology,Pasadena,TX,2023-01,1,1,1,,0,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2023-01,1,2,1,,0,1,1
+001099cac40e10ac255755ba150a3cec27b38c4c,Neurology,Hampton,VA,2023-01,NULL,0,0,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2023-01,1,8,8,,0,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2023-01,1,13,10,3,0,0,0
+0006ecc074e073ffe3a2713537247f2317155bad,Primary Care,Cedarburg,WI,2023-01,NULL,0,0,,0,0,0
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2023-01,1,6,6,,0,0,0
+00218b5d783a977d3b7bee79daa0f4639f4efd00,Allergy,Martinsburg,WV,2023-01,1,1,1,,0,0,0
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,WV,2023-01,1,1,1,,0,0,1
+002dfd552f3aec0d6e68e16dc1c09d54681098d6,Neurology,Hartford,AL,2023-02,NULL,0,0,,0,0,0
+00301c6785296b29de827f60a40e60ccce8a1918,Allergy,Gardendale,AL,2023-02,1,0,0,,0,0,1
+0000047dc97a3398fc0c7a933996546fa4d8854f,Immunology,Phoenix,AZ,2023-02,1,1,1,,0,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2023-02,1,4,3,1,0,0,1
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2023-02,1,2,2,,0,0,1
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2023-02,1,1,1,,0,0,0
+0007eaecf16261a920d9351db8934c02b0dc9410,Primary Care,Sacramento,CA,2023-02,1,1,1,,0,0,0
+0008e9d3a584b55c46c97de47d898fb5b04e4f20,Primary Care,Wildomar,CA,2023-02,1,1,1,,0,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2023-02,1,2,1,1,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2023-02,1,1,0,1,0,0,0
+00280fb8e6ad826d07d6c2b56b2309d016028152,Allergy,Visalia,CA,2023-02,1,3,3,,0,0,0
+0033cfc8cbfe88446c21e57359490dbd3e48674a,Neurology,Sonora,CA,2023-02,1,1,1,,0,0,0
+00364628b8bc4274e586f97598252f9693e84315,Neurology,Whittier,CA,2023-02,1,2,2,,0,0,0
+0036b01471d4142269a1a183096a26b803d8541e,Neurology,Costa Mesa,CA,2023-02,1,4,4,,0,0,0
+003f2c935b1f79e62efbd58343269d236bdbece3,Cardiology,Santa Rosa,CA,2023-02,NULL,0,0,,0,0,0
+0011d1e2eeffd68f2e1523466500181bbfa6aab1,Cardiology,Littleton,CO,2023-02,1,1,1,,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2023-02,1,2,2,,0,0,0
+0018e013d991810b103c64060448050afe286576,Primary Care,Avon,CT,2023-02,NULL,0,0,,0,0,0
+0037ca10aa497d25f6f67a45ddbf497467713f5e,Primary Care,Cheshire,CT,2023-02,1,0,0,,0,0,1
+003ea32dc606fdeea43fd7c60f32e92a37f497cf,Primary Care,Windsor,CT,2023-02,NULL,0,0,,0,0,0
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2023-02,1,1,0,1,0,0,0
+00046f56d2a971f178e50674ac80e482fc8c07e6,Primary Care,Panama City,FL,2023-02,1,1,1,,0,0,0
+0016bfd16a50ec2593d4cb84eeb2d0f24d76465a,Cardiology,Boca Raton,FL,2023-02,1,2,2,,0,0,0
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2023-02,1,9,9,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2023-02,1,3,3,,0,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2023-02,1,3,2,,0,1,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2023-02,1,12,8,4,5,0,0
+0011df7896c408f4def1cbec34313380df0f9515,Primary Care,Duluth,GA,2023-02,1,2,1,1,0,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2023-02,1,4,1,3,0,0,0
+00288391ec76c531e81b62f77a5c091e089f3a8d,Primary Care,Tifton,GA,2023-02,1,2,2,,0,0,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2023-02,1,4,4,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2023-02,1,3,3,,0,0,1
+003361ec844986a5ec53a76d960130ab6d931936,Primary Care,Columbus City,IA,2023-02,1,1,1,,0,0,0
+003e5af39833b1ac4b610f1eb6e61bfcefeb918b,Primary Care,Corning,IA,2023-02,NULL,0,0,,0,0,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2023-02,1,1,1,,0,0,0
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2023-02,1,7,7,,0,0,0
+0012073fd9277b9f9ac21a34ebf516b09b0de170,Neurology,Pittsfield,IL,2023-02,NULL,0,0,,0,0,0
+0019d2676e8ac65413fa31a53347922422e953b1,Neurology,Maywood,IL,2023-02,NULL,0,0,,0,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2023-02,1,3,3,,0,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2023-02,1,5,3,2,0,0,0
+002526afefe782c4ffd03cb1764edfeefa1f30e7,Neurology,Lafayette,LA,2023-02,1,2,2,,0,0,0
+0000577f5af6824bccdfc04f2c75bcf7b3a7d270,Cardiology,North Adams,MA,2023-02,1,1,1,,0,0,0
+00023405f26f8d0a93d96804fc27bc0900db68db,Cardiology,North Andover,MA,2023-02,1,1,1,,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2023-02,1,4,4,,0,0,0
+00317a75a16b7bcdb22840e9f75783d2c20ecbdd,Cardiology,Chestnut Hill,MA,2023-02,NULL,0,0,,0,0,0
+003f70999504ace4d458dc148c6f876a0b41b25c,Cardiology,Charlton,MA,2023-02,1,3,2,1,0,0,0
+0040d85a0a605d025d6d34655aec1e8e624ff7c6,Cardiology,Plymouth,MA,2023-02,1,1,1,,0,0,0
+0005721cb2e996336e2dcf87399b4e92653cb74a,Cardiology,Annapolis,MD,2023-02,1,2,0,2,0,0,0
+001d8ee654002e36a7f4a7c6894a7027e53049b7,Cardiology,Frederick,MD,2023-02,1,2,2,,0,0,0
+003447ea729d54109963d953e439d49e051dffd1,Cardiology,Baltimore,MD,2023-02,1,4,4,,0,0,0
+0039e0970ee17dcb5fde36c8d0926920f1213d53,Cardiology,Frederick,MD,2023-02,1,3,3,,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2023-02,1,3,3,,0,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2023-02,1,10,8,2,1,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2023-02,1,24,20,1,9,3,0
+00319f34bc2a104143cd0cbc227a28af79fcb4e5,Cardiology,Three Rivers,MI,2023-02,1,1,1,,0,0,0
+001d45e4ed4bf92e3312ae212025f454416ed513,Cardiology,Vadnais Heights,MN,2023-02,1,1,1,,0,0,0
+00070c53fb51a0e550851ddf33195467cca5c0d2,Cardiology,Joplin,MO,2023-02,1,4,4,,0,0,0
+00070c5b44ed8b8437df919bfd56f3aa7caa8ec3,Cardiology,Butte,MT,2023-02,1,4,2,1,0,1,0
+000fff22eabba9b4f489d64e3a7ad82e58e048ba,Cardiology,Greenville,NC,2023-02,1,1,1,,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2023-02,1,3,3,,0,0,0
+0033b10489bfa081b47b7ba39b88ae59ddb7dcd0,Cardiology,Statesville,NC,2023-02,NULL,0,0,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2023-02,1,3,3,,0,0,0
+003ee88e970c0637a6ef31baa6ab04309c52259e,Cardiology,Omaha,NE,2023-02,NULL,0,0,,0,0,0
+000eff7520c140f531d5afff5736a51d0829b87e,Cardiology,Neptune,NJ,2023-02,1,1,1,,0,0,0
+001275d4301113eeff267b8e2b860875f4a5690c,Allergy,Hoboken,NJ,2023-02,1,2,2,,0,0,0
+001ef73ab562d5afd4f7917249650df17aa16384,Allergy,Albuquerque,NM,2023-02,1,3,3,,0,0,0
+00110baa94591141c6d659d88eb963e7057f1cac,Allergy,Reno,NV,2023-02,1,1,1,,0,0,0
+000ad5c574bd5567ff4b73fc35d0077aabeaf2e5,Allergy,Staten Island,NY,2023-02,1,1,0,1,0,0,0
+000ae824f58d601974326fd6a5707aa792751c03,Allergy,Rochester,NY,2023-02,NULL,0,0,,0,0,0
+0010bfa467b0e5740abe6f9a957a77d8bd309f41,Immunology,Syracuse,NY,2023-02,1,1,0,1,0,0,0
+003a4f8c9bdcc6acc459d0f0c8b75881b4c4ff50,Immunology,Jefferson Valley,NY,2023-02,1,1,0,1,0,0,0
+0008c6c298b7e3159f522c99aea45890e3d7e6f5,Neurology,Bucyrus,OH,2023-02,1,2,2,,0,0,0
+0011ff1601f0e385d855908f4f049973c50481e1,Neurology,Brunswick,OH,2023-02,1,1,1,,0,0,0
+0021e949c81b614edc6127ded5ba1fbd790e7742,Neurology,Dayton,OH,2023-02,1,1,1,,0,0,0
+00353b331064835a27b989168c1c02c4d93c6bdf,Neurology,Springfield,OH,2023-02,1,0,0,,0,0,1
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2023-02,1,2,2,,0,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2023-02,1,4,4,,0,0,0
+000451f5877e0408ab244695835b692919c65c01,Neurology,Irwin,PA,2023-02,1,4,4,,0,0,0
+000c4b4d15db175019990b0251784c0c84121c09,Neurology,Johnstown,PA,2023-02,1,2,2,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2023-02,1,6,2,2,1,2,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2023-02,NULL,0,0,,0,0,0
+0015b737c0ba8c725a47248a498218f4724a2ba1,Neurology,Boiling Springs,SC,2023-02,NULL,0,0,,0,0,0
+0024bbcdc3fb7294e2983e2313dcce5b91de948f,Neurology,North Charleston,SC,2023-02,1,2,2,,0,0,0
+002ccacdd8cc86b05529d85371bd3626847ea521,Neurology,Canton,SD,2023-02,1,1,1,,0,0,0
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2023-02,1,2,2,,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2023-02,1,7,7,,1,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2023-02,1,3,3,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2023-02,1,5,5,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2023-02,1,3,3,,0,0,0
+003316f32d6e2fc9c14dd204a19816a20ae7ba41,Cardiology,Fulshear,TX,2023-02,1,1,0,,0,1,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2023-02,1,3,3,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2023-02,1,10,8,2,0,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2023-02,1,11,8,2,0,1,0
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2023-02,1,1,1,,0,0,0
+00218b5d783a977d3b7bee79daa0f4639f4efd00,Allergy,Martinsburg,WV,2023-02,1,1,1,,0,0,0
+002dfd552f3aec0d6e68e16dc1c09d54681098d6,Neurology,Hartford,,2023-03,1,1,1,,0,0,0
+003397b221d801e61e4e3bb98589a7fd3ddce7aa,Neurology,Huntsville,AL,2023-03,1,1,0,1,0,0,0
+0022029c6957d897fb38372d7c54b87de9ef8613,Nutrition,Pine Bluff,AR,2023-03,1,2,2,,1,0,0
+0000047dc97a3398fc0c7a933996546fa4d8854f,Immunology,Phoenix,AZ,2023-03,1,1,1,,0,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2023-03,1,3,3,,0,0,0
+001f5ac09cf7291668bb75d275de07589568a6eb,Neurology,Tempe,AZ,2023-03,1,1,0,1,0,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2023-03,1,1,1,,0,0,0
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2023-03,1,1,0,1,0,0,0
+0003f077e0a17af3c520f7e67b20f20a5066997d,immunology,Daly City,CA,2023-03,1,1,1,,0,0,0
+0007eaecf16261a920d9351db8934c02b0dc9410,Primary Care,Sacramento,CA,2023-03,1,1,1,,0,0,0
+0008e9d3a584b55c46c97de47d898fb5b04e4f20,Primary Care,Wildomar,CA,2023-03,1,1,1,,0,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2023-03,1,4,4,,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2023-03,1,6,5,1,0,0,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2023-03,1,2,2,,0,0,0
+00280fb8e6ad826d07d6c2b56b2309d016028152,Allergy,Visalia,CA,2023-03,1,1,1,,0,0,0
+00364628b8bc4274e586f97598252f9693e84315,Neurology,Whittier,CA,2023-03,1,1,1,,0,0,0
+0036b01471d4142269a1a183096a26b803d8541e,Neurology,Costa Mesa,CA,2023-03,1,2,2,,0,0,0
+0011d1e2eeffd68f2e1523466500181bbfa6aab1,Cardiology,Littleton,CO,2023-03,1,1,1,,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2023-03,1,2,2,,1,0,0
+0037ca10aa497d25f6f67a45ddbf497467713f5e,Primary Care,Cheshire,CT,2023-03,1,1,1,,0,0,1
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2023-03,1,3,0,3,0,0,0
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2023-03,1,10,9,1,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2023-03,1,7,4,2,1,1,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2023-03,1,4,2,1,0,1,0
+0005ed23aa71ea9a604599dfcae268029dbc6601,Primary Care,Dahlonega,GA,2023-03,1,1,1,,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2023-03,1,16,14,2,6,0,0
+0011df7896c408f4def1cbec34313380df0f9515,Primary Care,Duluth,GA,2023-03,1,1,0,1,0,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2023-03,1,7,3,4,0,0,0
+00288391ec76c531e81b62f77a5c091e089f3a8d,Primary Care,Tifton,GA,2023-03,1,1,1,,0,0,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2023-03,1,3,3,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2023-03,1,5,3,2,1,0,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2023-03,1,1,1,,0,0,0
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2023-03,1,7,4,3,0,0,0
+0019d2676e8ac65413fa31a53347922422e953b1,Neurology,Maywood,IL,2023-03,1,2,2,,0,0,0
+00315109a1b53fc93f5fa61fd7247f3f20c81d3e,Neurology,Chicago,IL,2023-03,1,1,1,,0,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2023-03,1,11,7,4,0,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2023-03,1,10,9,1,0,0,0
+00244f94e689419a175e1ad5c6798b5a15e257a6,Neurology,New Orleans,LA,2023-03,1,1,1,,0,0,0
+002526afefe782c4ffd03cb1764edfeefa1f30e7,Neurology,Lafayette,LA,2023-03,1,2,2,,0,0,0
+0000577f5af6824bccdfc04f2c75bcf7b3a7d270,Cardiology,North Adams,MA,2023-03,1,1,1,,0,0,0
+00023405f26f8d0a93d96804fc27bc0900db68db,Cardiology,North Andover,MA,2023-03,1,1,1,,0,0,0
+00159b009c30dd30fc484f13b235ea9b88065ade,Cardiology,Worcester,MA,2023-03,NULL,0,0,,0,0,0
+00294c1121cf220d499f0db2e319f5df333483f3,Cardiology,Weymouth,MA,2023-03,1,2,2,,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2023-03,1,6,4,2,3,0,0
+00317a75a16b7bcdb22840e9f75783d2c20ecbdd,Cardiology,Chestnut Hill,MA,2023-03,1,2,2,,0,0,0
+003f70999504ace4d458dc148c6f876a0b41b25c,Cardiology,Charlton,MA,2023-03,1,2,1,1,1,0,0
+0040d85a0a605d025d6d34655aec1e8e624ff7c6,Cardiology,Plymouth,MA,2023-03,1,1,1,,0,0,0
+0005721cb2e996336e2dcf87399b4e92653cb74a,Cardiology,Annapolis,MD,2023-03,1,2,0,2,0,0,0
+00071327b9693148ca83751c6f785ff412cb6540,Cardiology,Baltimore,MD,2023-03,1,1,1,,0,0,0
+001d8ee654002e36a7f4a7c6894a7027e53049b7,Cardiology,Frederick,MD,2023-03,1,2,2,,0,0,0
+003447ea729d54109963d953e439d49e051dffd1,Cardiology,Baltimore,MD,2023-03,1,3,3,,0,0,0
+0039e0970ee17dcb5fde36c8d0926920f1213d53,Cardiology,Frederick,MD,2023-03,1,2,2,,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2023-03,1,1,1,,0,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2023-03,1,14,10,4,1,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2023-03,1,24,21,3,14,0,0
+001d45e4ed4bf92e3312ae212025f454416ed513,Cardiology,Vadnais Heights,MN,2023-03,NULL,0,0,,0,0,0
+001fa230e81b0c6dd442789cb40951507f3c62c0,Cardiology,Park Rapids,MN,2023-03,1,1,1,,0,0,0
+00070c5b44ed8b8437df919bfd56f3aa7caa8ec3,Cardiology,Butte,MT,2023-03,1,1,1,,0,0,0
+000fff22eabba9b4f489d64e3a7ad82e58e048ba,Cardiology,Greenville,NC,2023-03,1,4,4,,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2023-03,1,2,2,,1,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2023-03,1,3,2,1,0,0,0
+00052b98a4b2a61a94509d63f2638ad81f42b0c4,Cardiology,Tinton Falls,NJ,2023-03,1,0,0,,0,0,1
+000eff7520c140f531d5afff5736a51d0829b87e,Cardiology,Neptune,NJ,2023-03,1,1,0,,0,1,0
+001275d4301113eeff267b8e2b860875f4a5690c,Allergy,Hoboken,NJ,2023-03,1,2,2,,0,0,0
+001ef73ab562d5afd4f7917249650df17aa16384,Allergy,Albuquerque,NM,2023-03,1,3,3,,0,0,0
+000ae824f58d601974326fd6a5707aa792751c03,Allergy,Rochester,NY,2023-03,1,1,1,,0,0,0
+0010a07e03cc1956efbd65bd2ff1b4c671cd0e5b,Allergy,Buffalo,NY,2023-03,1,1,1,,0,0,0
+0010bfa467b0e5740abe6f9a957a77d8bd309f41,Immunology,Syracuse,NY,2023-03,1,2,2,,0,0,0
+002ce262d9bf7a0ac7924a2f18b2e5c530093165,Immunology,New York,NY,2023-03,1,1,1,,0,0,0
+003a4f8c9bdcc6acc459d0f0c8b75881b4c4ff50,Immunology,Jefferson Valley,NY,2023-03,1,4,2,2,0,0,0
+0008c6c298b7e3159f522c99aea45890e3d7e6f5,Neurology,Bucyrus,OH,2023-03,1,3,3,,0,0,0
+00092f92541e5a42c56c8d092bde8532ae86fdb7,Neurology,Marysville,OH,2023-03,1,1,1,,0,0,0
+0021e949c81b614edc6127ded5ba1fbd790e7742,Neurology,Dayton,OH,2023-03,1,1,1,,0,0,0
+0023a0c4cb1d937ffd9c1a7f073383fab913a3e2,Neurology,Portsmouth,OH,2023-03,1,1,1,,0,0,1
+00353b331064835a27b989168c1c02c4d93c6bdf,Neurology,Springfield,OH,2023-03,1,1,1,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2023-03,1,6,6,,1,0,0
+002182635f07320b68bf1b97fbd8834d2fadfac9,Neurology,Midwest City,OK,2023-03,1,1,1,,0,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2023-03,1,5,5,,0,0,0
+002316b2f5d6c89e50dbfd4f0a5220c720f0c8f9,Neurology,Sisters,OR,2023-03,NULL,0,0,,0,0,0
+000451f5877e0408ab244695835b692919c65c01,Neurology,Irwin,PA,2023-03,1,1,1,,0,0,0
+000c4b4d15db175019990b0251784c0c84121c09,Neurology,Johnstown,PA,2023-03,1,2,2,,1,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2023-03,1,9,5,3,2,1,0
+00299c4b12d758984b5bbf2e42330fb7d44a2d52,Neurology,Bensalem,PA,2023-03,1,1,1,,0,0,0
+003cd1703f4cd555eaa74eeabc19ea227885e928,Neurology,Monroeville,PA,2023-03,1,0,0,,0,0,1
+0015b737c0ba8c725a47248a498218f4724a2ba1,Neurology,Boiling Springs,SC,2023-03,NULL,0,0,,0,0,0
+00293dfdf45b9293bffb628a9d4a1686a0f3d464,Neurology,Little River,SC,2023-03,NULL,0,0,,0,0,0
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2023-03,1,2,2,,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2023-03,1,5,4,,0,1,0
+0036a3718f0d33d4c3fcf1e60de92eede7a8455e,Primary Care,Knoxville,TN,2023-03,1,2,2,,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2023-03,1,4,4,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2023-03,1,7,4,2,0,1,0
+000c4c6268c9bf74e34ff6a4294da632c48f03a2,Primary Care,Victoria,TX,2023-03,1,1,1,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2023-03,1,12,4,5,1,3,0
+002a4e7a9854a84dd0a40541e44d29bde03a7d98,Cardiology,Houston,TX,2023-03,1,1,1,,0,0,0
+002f67a69630e146fb5809b5c918a000fb784de1,Cardiology,Mckinney,TX,2023-03,1,1,1,,0,0,0
+0035cb1872820ad0b7d7a35ec2d742f0bfa54355,Neurology,Waco,TX,2023-03,NULL,0,0,,0,0,0
+0037494c5414156c29b823af3b2dcb12dc3b1fd9,Neurology,El Paso,TX,2023-03,1,3,2,1,2,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2023-03,1,5,4,1,0,0,0
+000095904dc222c09e52464b55cc9f100f6655cc,Neurology,Grottoes,VA,2023-03,NULL,0,0,,0,0,0
+0023cdf5a2415ee5c2889fd1e8e0e4317bd49f4d,Primary Care,Richmond,VA,2023-03,NULL,0,0,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2023-03,1,15,13,2,0,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2023-03,1,8,3,4,0,1,1
+00309feb9ecc3ec2708b038a95ae56f8dd464347,Primary Care,Bonney Lake,WA,2023-03,NULL,0,0,,0,0,0
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2023-03,1,3,3,,0,0,0
+003a76458684ec2d4bfad066e4510b16c7ed5ec2,Allergy,Niagara,WI,2023-03,1,1,1,,0,0,0
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,WV,2023-03,NULL,0,0,,0,0,0
+003397b221d801e61e4e3bb98589a7fd3ddce7aa,Neurology,Huntsville,AL,2023-04,1,1,1,,0,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2023-04,1,2,2,,0,0,1
+000ac3c8ed53e25ea33b394da389ce83a75bcaed,Cardiology,Glendale,AZ,2023-04,1,2,1,1,1,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2023-04,1,2,1,1,0,0,1
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2023-04,1,4,2,1,1,1,0
+0003f077e0a17af3c520f7e67b20f20a5066997d,immunology,Daly City,CA,2023-04,1,5,3,2,0,0,1
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2023-04,1,1,1,,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2023-04,1,1,0,,0,1,0
+0011988ffb5c74ff7ad0741b036f0328fe58b470,Allergy,Orange,CA,2023-04,NULL,0,0,,0,0,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2023-04,1,1,1,,0,0,1
+00280fb8e6ad826d07d6c2b56b2309d016028152,Allergy,Visalia,CA,2023-04,1,1,1,,0,0,0
+00364628b8bc4274e586f97598252f9693e84315,Neurology,Whittier,CA,2023-04,1,3,2,1,2,0,0
+0001fb48bd6ca26e9b7bfe8e17ab69d91bb41113,Cardiology,Wheat Ridge,CO,2023-04,1,1,0,1,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2023-04,1,1,1,,0,0,0
+0037ca10aa497d25f6f67a45ddbf497467713f5e,Primary Care,Cheshire,CT,2023-04,1,0,0,,0,0,1
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2023-04,1,3,1,2,1,0,0
+000e25738049c63b67b07ee2e4dfc14ceef7798e,Primary Care,Palm Beach,FL,2023-04,1,1,1,,0,0,0
+0016bfd16a50ec2593d4cb84eeb2d0f24d76465a,Cardiology,Boca Raton,FL,2023-04,1,2,2,,0,0,0
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2023-04,1,3,3,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2023-04,1,3,2,1,0,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2023-04,1,2,2,,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2023-04,1,18,15,3,8,0,1
+00180efbbcd80e7747b14b487e7134ded67d6276,Primary Care,Atlanta,GA,2023-04,1,1,1,,0,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2023-04,1,2,1,1,0,0,0
+00288391ec76c531e81b62f77a5c091e089f3a8d,Primary Care,Tifton,GA,2023-04,1,2,2,,0,0,0
+003767a7e210b104b24f1cc96bd89b752632ed0b,Primary Care,Cedartown,GA,2023-04,1,1,1,,0,0,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2023-04,1,3,3,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2023-04,1,5,5,,0,0,0
+003e5af39833b1ac4b610f1eb6e61bfcefeb918b,Primary Care,Corning,IA,2023-04,NULL,0,0,,0,0,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2023-04,NULL,0,0,,0,0,0
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2023-04,1,5,3,2,0,0,0
+0019d2676e8ac65413fa31a53347922422e953b1,Neurology,Maywood,IL,2023-04,NULL,0,0,,0,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2023-04,1,9,5,4,0,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2023-04,1,5,3,2,0,0,0
+002526afefe782c4ffd03cb1764edfeefa1f30e7,Neurology,Lafayette,LA,2023-04,1,1,1,,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2023-04,1,7,6,1,0,0,0
+00317a75a16b7bcdb22840e9f75783d2c20ecbdd,Cardiology,Chestnut Hill,MA,2023-04,1,2,2,,0,0,0
+003f70999504ace4d458dc148c6f876a0b41b25c,Cardiology,Charlton,MA,2023-04,NULL,0,0,,0,0,0
+0004e29a437aa6594359e4cbea6e6e6989f2aa6b,Cardiology,Bethesda,MD,2023-04,1,1,1,,0,0,0
+0005721cb2e996336e2dcf87399b4e92653cb74a,Cardiology,Annapolis,MD,2023-04,1,8,4,4,1,0,0
+003447ea729d54109963d953e439d49e051dffd1,Cardiology,Baltimore,MD,2023-04,1,2,2,,0,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2023-04,1,12,10,2,1,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2023-04,1,17,16,1,8,0,2
+00319f34bc2a104143cd0cbc227a28af79fcb4e5,Cardiology,Three Rivers,MI,2023-04,1,1,1,,0,0,0
+001d45e4ed4bf92e3312ae212025f454416ed513,Cardiology,Vadnais Heights,MN,2023-04,1,1,1,,0,0,0
+00070c53fb51a0e550851ddf33195467cca5c0d2,Cardiology,Joplin,MO,2023-04,1,2,2,,0,0,0
+00070c5b44ed8b8437df919bfd56f3aa7caa8ec3,Cardiology,Butte,MT,2023-04,1,2,0,2,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2023-04,1,1,1,,1,0,0
+0033262a73b4503b082d30f31173ebeeeafa0abe,Cardiology,Cornelius,NC,2023-04,1,1,1,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2023-04,1,6,6,,0,0,0
+00185911b5e14fe12362130ee4ca5f91725cefe9,Allergy,Holmdel,NJ,2023-04,1,1,0,1,0,0,0
+001ef73ab562d5afd4f7917249650df17aa16384,Allergy,Albuquerque,NM,2023-04,1,3,3,,0,0,0
+00110baa94591141c6d659d88eb963e7057f1cac,Allergy,Reno,NV,2023-04,1,1,1,,0,0,0
+000ad5c574bd5567ff4b73fc35d0077aabeaf2e5,Allergy,Staten Island,NY,2023-04,1,1,0,1,0,0,0
+000ae824f58d601974326fd6a5707aa792751c03,Allergy,Rochester,NY,2023-04,1,1,1,,0,0,0
+0010bfa467b0e5740abe6f9a957a77d8bd309f41,Immunology,Syracuse,NY,2023-04,1,1,0,1,0,0,0
+002d9f45439730361429d2f14bb3a1c8ef778209,Immunology,Staten Island,NY,2023-04,NULL,0,0,,0,0,0
+003a4f8c9bdcc6acc459d0f0c8b75881b4c4ff50,Immunology,Jefferson Valley,NY,2023-04,1,2,0,2,0,0,0
+0008c6c298b7e3159f522c99aea45890e3d7e6f5,Neurology,Bucyrus,OH,2023-04,1,1,1,,0,0,0
+0021e949c81b614edc6127ded5ba1fbd790e7742,Neurology,Dayton,OH,2023-04,1,1,1,,0,0,0
+00353b331064835a27b989168c1c02c4d93c6bdf,Neurology,Springfield,OH,2023-04,1,0,0,,0,0,1
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2023-04,1,7,6,1,0,0,0
+002a52f8fe1447544326ced45b59f990d615ab7b,Neurology,Tulsa,OK,2023-04,1,0,0,,0,0,1
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2023-04,1,8,7,1,0,0,0
+0027bc8378ef0fa9d7872df297ddb1cc5d9b3b17,Neurology,Medford,OR,2023-04,1,1,1,,0,0,0
+000451f5877e0408ab244695835b692919c65c01,Neurology,Irwin,PA,2023-04,1,2,2,,0,0,0
+000c4b4d15db175019990b0251784c0c84121c09,Neurology,Johnstown,PA,2023-04,1,4,4,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2023-04,1,7,4,3,0,0,0
+0015b737c0ba8c725a47248a498218f4724a2ba1,Neurology,Boiling Springs,SC,2023-04,1,1,1,,1,0,0
+0024bbcdc3fb7294e2983e2313dcce5b91de948f,Neurology,North Charleston,SC,2023-04,1,2,2,,0,0,0
+003d24823a63b950ddb5ff62fb40091d65cfea30,Neurology,Myrtle Beach,SC,2023-04,1,1,1,,0,0,0
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2023-04,1,5,5,,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2023-04,1,7,5,2,0,0,0
+0036a3718f0d33d4c3fcf1e60de92eede7a8455e,Primary Care,Knoxville,TN,2023-04,1,1,1,,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2023-04,1,1,1,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2023-04,1,9,9,,1,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2023-04,1,4,2,1,0,1,0
+002a4e7a9854a84dd0a40541e44d29bde03a7d98,Cardiology,Houston,TX,2023-04,1,1,1,,0,0,0
+002f67a69630e146fb5809b5c918a000fb784de1,Cardiology,Mckinney,TX,2023-04,1,1,0,1,0,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2023-04,1,2,2,,0,0,0
+00390951ad33f789f541743e2e21edc6e0e20e5a,Neurology,Midvale,UT,2023-04,1,1,1,,0,0,0
+0023cdf5a2415ee5c2889fd1e8e0e4317bd49f4d,Primary Care,Richmond,VA,2023-04,1,0,0,,0,0,1
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2023-04,1,8,7,1,0,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2023-04,1,26,21,5,1,0,1
+00316c7ccbcd8c3e507f8c36849669d551b393ae,Primary Care,Sequim,WA,2023-04,1,1,1,,0,0,0
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2023-04,1,3,3,,0,0,0
+003a76458684ec2d4bfad066e4510b16c7ed5ec2,Allergy,Niagara,WI,2023-04,1,1,1,,0,0,0
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamsons,WV,2023-04,NULL,0,0,,0,0,0
+002dfd552f3aec0d6e68e16dc1c09d54681098d6,Neurology,Hartford,AL,2023-05,1,1,1,,0,0,0
+003397b221d801e61e4e3bb98589a7fd3ddce7aa,Neurology,Huntsville,AL,2023-05,1,4,3,1,0,0,0
+0022029c6957d897fb38372d7c54b87de9ef8613,Nutrition,Pine Bluff,AR,2023-05,1,1,1,,0,0,0
+003fce4466397e11c5253e43bd451cc700700042,Neurology,Stuttgart,AR,2023-05,1,1,1,,0,0,0
+0000047dc97a3398fc0c7a933996546fa4d8854f,Immunology,Phoenix,AZ,2023-05,1,1,1,,0,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2023-05,1,1,1,,0,0,0
+000ac3c8ed53e25ea33b394da389ce83a75bcaed,Cardiology,Glendale,AZ,2023-05,1,1,1,,0,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2023-05,1,2,2,,0,0,0
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2023-05,1,2,1,,0,1,0
+0003f077e0a17af3c520f7e67b20f20a5066997d,immunology,Daly City,CA,2023-05,1,2,2,,1,0,0
+0006224dc7b4fd8fd7cc5fb204c4092c1c578dc0,Primary Care,Bakersfield,CA,2023-05,1,1,0,1,0,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,,CA,2023-05,1,3,2,1,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2023-05,1,3,2,,0,1,0
+0018ed1432d74a6eae2b8fd84df6da066d2e4ffd,Neurology,Santa Paula,CA,2023-05,1,0,0,,0,0,1
+00280fb8e6ad826d07d6c2b56b2309d016028152,Allergy,Visalia,CA,2023-05,1,1,1,,0,0,0
+0036b01471d4142269a1a183096a26b803d8541e,Neurology,Costa Mesa,CA,2023-05,1,2,2,,0,0,0
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2023-05,1,1,0,1,0,0,0
+0016bfd16a50ec2593d4cb84eeb2d0f24d76465a,Cardiology,Boca Raton,FL,2023-05,1,2,2,,0,0,0
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2023-05,1,5,3,2,0,0,0
+001f874993c2d6cce773251b64c83ac50bef8d30,Cardiology,Lake Worth,FL,2023-05,1,1,1,,0,0,0
+00387efd386103970ea35913f53b57341292589b,Cardiology,Plantation,FL,2023-05,1,1,1,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2023-05,1,6,4,2,0,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2023-05,1,4,2,,0,2,0
+0005ed23aa71ea9a604599dfcae268029dbc6601,Primary Care,Dahlonega,GA,2023-05,1,1,1,,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2023-05,1,16,11,5,7,0,1
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2023-05,1,4,1,2,0,1,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2023-05,1,3,3,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2023-05,1,5,5,,0,0,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2023-05,1,0,0,,0,0,1
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2023-05,1,7,4,3,0,0,0
+0019d2676e8ac65413fa31a53347922422e953b1,Neurology,Maywood,IL,2023-05,NULL,0,0,,0,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2023-05,1,8,5,3,1,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2023-05,1,6,4,2,0,0,0
+001bac2d871a14e2e0d0335035a0a6365286b31e,Neurology,Alexandria,LA,2023-05,1,1,0,1,1,0,0
+002526afefe782c4ffd03cb1764edfeefa1f30e7,Neurology,Lafayette,LA,2023-05,1,3,3,,0,0,0
+0000577f5af6824bccdfc04f2c75bcf7b3a7d270,Cardiology,North Adams,MA,2023-05,1,2,2,,0,0,0
+00023405f26f8d0a93d96804fc27bc0900db68db,Cardiology,North Andover,MA,2023-05,1,1,0,1,0,0,0
+00159b009c30dd30fc484f13b235ea9b88065ade,Cardiology,Worcester,MA,2023-05,1,0,0,,0,0,1
+0039598b10d43919144f470e4da2d76937b86f80,Cardiology,Winchester,MA,2023-05,1,3,3,,0,0,0
+003f70999504ace4d458dc148c6f876a0b41b25c,Cardiology,Charlton,MA,2023-05,1,2,2,,0,0,0
+0005721cb2e996336e2dcf87399b4e92653cb74a,Cardiology,Annapolis,MD,2023-05,1,3,2,1,0,0,0
+003447ea729d54109963d953e439d49e051dffd1,Cardiology,Baltimore,MD,2023-05,1,3,2,1,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2023-05,1,6,4,2,2,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2023-05,1,10,7,3,0,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2023-05,1,19,15,2,8,2,1
+001d45e4ed4bf92e3312ae212025f454416ed513,Cardiology,Vadnais Heights,MN,2023-05,1,1,1,,0,0,0
+00070c53fb51a0e550851ddf33195467cca5c0d2,Cardiology,Joplin,MO,2023-05,1,2,2,,0,0,0
+001b4094808b59f38360578b8a4c21adcb2e1b80,Cardiology,Springfield,MO,2023-05,1,2,2,,0,0,0
+00070c5b44ed8b8437df919bfd56f3aa7caa8ec3,Cardiology,Butte,MT,2023-05,1,1,0,1,0,0,0
+000fff22eabba9b4f489d64e3a7ad82e58e048ba,Cardiology,Greenville,NC,2023-05,1,1,1,,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2023-05,1,2,2,,1,0,0
+0033262a73b4503b082d30f31173ebeeeafa0abe,Cardiology,Cornelius,NC,2023-05,1,1,1,,1,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2023-05,1,2,2,,0,0,0
+00052b98a4b2a61a94509d63f2638ad81f42b0c4,Cardiology,Tinton Falls,NJ,2023-05,1,0,0,,0,0,1
+000eff7520c140f531d5afff5736a51d0829b87e,Cardiology,,NJ,2023-05,1,1,0,1,0,0,1
+001275d4301113eeff267b8e2b860875f4a5690c,Allergy,Hoboken,NJ,2023-05,1,2,2,,0,0,0
+000d26226bf588c31a672867f962745320e27ff7,Allergy,Albuquerque,NM,2023-05,1,2,2,,1,0,0
+001ef73ab562d5afd4f7917249650df17aa16384,Allergy,Albuquerque,NM,2023-05,1,3,3,,0,0,0
+000a2e279a77f2e7dd39ed31ec1ebc918fb68798,Allergy,Rochester,NY,2023-05,NULL,0,0,,0,0,0
+000ae824f58d601974326fd6a5707aa792751c03,Allergy,Rochester,NY,2023-05,1,1,1,,0,0,0
+0010a07e03cc1956efbd65bd2ff1b4c671cd0e5b,Allergy,Buffalo,NY,2023-05,1,1,1,,0,0,0
+001be88f02a0ad431f0123352197a0d1641d8e3b,Immunology,Bay Shore,NY,2023-05,1,1,0,1,1,0,0
+002c75d96bf767de35f235367832b55efe3655e0,Immunology,Southampton,NY,2023-05,1,1,1,,0,0,1
+003a4f8c9bdcc6acc459d0f0c8b75881b4c4ff50,Immunology,Jefferson Valley,NY,2023-05,1,1,0,1,0,0,0
+0008c6c298b7e3159f522c99aea45890e3d7e6f5,Neurology,Bucyrus,OH,2023-05,1,2,2,,0,0,0
+0021e949c81b614edc6127ded5ba1fbd790e7742,Neurology,Dayton,OH,2023-05,1,3,3,,0,0,0
+00235285229ea3233268ea630c1ba381c6b1ee2c,Neurology,Cincinnati,OH,2023-05,1,1,1,,0,0,0
+0023a0c4cb1d937ffd9c1a7f073383fab913a3e2,Neurology,Portsmouth,OH,2023-05,1,1,1,,0,0,0
+00353b331064835a27b989168c1c02c4d93c6bdf,Neurology,Springfield,OH,2023-05,1,3,2,1,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2023-05,1,4,4,,0,0,0
+002182635f07320b68bf1b97fbd8834d2fadfac9,Neurology,Midwest City,OK,2023-05,1,1,1,,0,0,0
+002a52f8fe1447544326ced45b59f990d615ab7b,Neurology,Tulsa,OK,2023-05,1,1,1,,1,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2023-05,1,8,6,2,0,0,0
+0027bc8378ef0fa9d7872df297ddb1cc5d9b3b17,Neurology,Medford,OR,2023-05,1,1,1,,0,0,0
+000451f5877e0408ab244695835b692919c65c01,Neurology,Irwin,PA,2023-05,1,2,2,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2023-05,1,8,3,5,0,0,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2023-05,1,1,1,,1,0,0
+003cd1703f4cd555eaa74eeabc19ea227885e928,Neurology,Monroeville,PA,2023-05,1,0,0,,0,0,1
+0015b737c0ba8c725a47248a498218f4724a2ba1,Neurology,Boiling Springs,SC,2023-05,NULL,0,0,,0,0,0
+003d24823a63b950ddb5ff62fb40091d65cfea30,Neurology,Myrtle Beach,SC,2023-05,1,1,1,,1,0,0
+002ccacdd8cc86b05529d85371bd3626847ea521,Neurology,Canton,SD,2023-05,1,2,2,,0,0,0
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2023-05,1,2,2,,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2023-05,1,4,3,1,0,0,0
+0036a3718f0d33d4c3fcf1e60de92eede7a8455e,Primary Care,Knoxville,TN,2023-05,1,2,2,,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2023-05,1,4,4,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2023-05,1,10,10,,1,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2023-05,1,4,2,1,0,1,0
+000fe2b2bd355ea9982c04fe8e659e2a89632aa7,Primary Care,Austin,TX,2023-05,1,1,1,,0,0,0
+0011413d8d27ab5d093e54607551ee3efeee6c00,Primary Care,Arlington,TX,2023-05,1,1,1,,0,0,0
+0035cb1872820ad0b7d7a35ec2d742f0bfa54355,Neurology,Waco,TX,2023-05,1,1,1,,0,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2023-05,1,3,3,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2023-05,1,12,12,,0,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2023-05,1,15,13,2,1,0,1
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2023-05,1,2,2,,0,0,0
+003397b221d801e61e4e3bb98589a7fd3ddce7aa,Neurolgy,Huntsville,AL,2023-06,1,2,1,1,0,0,0
+0022029c6957d897fb38372d7c54b87de9ef8613,Nutrition,Pine Bluff,AR,2023-06,1,1,1,,1,0,0
+003fce4466397e11c5253e43bd451cc700700042,Neurology,Stuttgart,AR,2023-06,1,2,2,,0,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2023-06,1,4,4,,0,0,0
+000ac3c8ed53e25ea33b394da389ce83a75bcaed,Cardiology,Glendale,AZ,2023-06,1,2,2,,0,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2023-06,1,4,4,,0,0,0
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2023-06,1,1,0,1,1,0,0
+0003f077e0a17af3c520f7e67b20f20a5066997d,immunology,Daly City,CA,2023-06,1,3,2,1,0,0,0
+0007eaecf16261a920d9351db8934c02b0dc9410,Primary Care,Sacramento,CA,2023-06,1,2,2,,1,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2023-06,1,3,2,1,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2023-06,1,1,1,,1,0,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2023-06,1,2,2,,0,0,0
+0027567916976e91bdc980e849768cad50e1ab2e,Primary Care,Santa Ana,CA,2023-06,NULL,0,0,,0,0,0
+00280fb8e6ad826d07d6c2b56b2309d016028152,Allergy,Visalia,CA,2023-06,1,1,1,,0,0,0
+00364628b8bc4274e586f97598252f9693e84315,Neurology,Whittier,CA,2023-06,1,2,1,1,1,0,0
+0036b01471d4142269a1a183096a26b803d8541e,Neurology,Costa Mesa,CA,2023-06,1,2,2,,0,0,0
+0001fb48bd6ca26e9b7bfe8e17ab69d91bb41113,Cardiology,Wheat Ridge,CO,2023-06,1,1,0,1,1,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2023-06,NULL,0,0,,0,0,0
+0037ca10aa497d25f6f67a45ddbf497467713f5e,Primary Care,Cheshire,CT,2023-06,1,1,1,,0,0,0
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2023-06,1,3,2,1,0,0,0
+0016bfd16a50ec2593d4cb84eeb2d0f24d76465a,Cardiology,Boca Raton,FL,2023-06,1,2,2,,0,0,0
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2023-06,1,2,2,,0,0,0
+0024878cfa9ae239418581302298898a4551a5b7,Cardiology,Tampa,FL,2023-06,1,1,1,,0,0,0
+002eb57cb28e48c423f29e4d8ca51b73eae6e1ac,Cardiology,Marianna,FL,2023-06,1,1,1,,1,0,0
+00391a484aaf54f3e4a2c5abba5d37c4894a1dd1,Cardiology,Jacksonville,FL,2023-06,1,2,2,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2023-06,1,4,2,1,0,1,0
+003e0f46d879f8e0c269cd35ad02f9b98b6c4db1,Immunology,Fort Lauderdale,FL,2023-06,1,1,1,,0,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2023-06,1,4,3,1,0,0,0
+0005ed23aa71ea9a604599dfcae268029dbc6601,Primary Care,Dahlonega,GA,2023-06,1,1,1,,1,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2023-06,1,9,7,2,2,0,1
+00180efbbcd80e7747b14b487e7134ded67d6276,Primary Care,Atlanta,GA,2023-06,1,1,1,,0,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2023-06,1,6,1,5,0,0,0
+003767a7e210b104b24f1cc96bd89b752632ed0b,Primary Care,Cedartown,GA,2023-06,1,1,1,,0,0,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2023-06,1,3,3,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2023-06,1,6,6,,0,0,0
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2023-06,1,10,6,4,0,0,0
+0004357979004505cce0655b3d41f6e3f26c4a7a,Primary Care,Glenview,IL,2023-06,1,2,2,,0,0,0
+0019d2676e8ac65413fa31a53347922422e953b1,Neurology,Maywood,IL,2023-06,1,6,6,,0,0,0
+000db8dac300f83bb86c4efe5659e91bae38a5e4,Neurology,Carmel,IN,2023-06,1,1,1,,0,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2023-06,1,5,3,2,1,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2023-06,1,5,2,3,0,0,0
+001bac2d871a14e2e0d0335035a0a6365286b31e,Neurology,Alexandria,LA,2023-06,1,1,1,,0,0,0
+002526afefe782c4ffd03cb1764edfeefa1f30e7,Neurology,Lafayette,LA,2023-06,1,2,2,,0,0,0
+0000577f5af6824bccdfc04f2c75bcf7b3a7d270,Cardiology,North Adams,MA,2023-06,1,1,1,,0,0,0
+0039598b10d43919144f470e4da2d76937b86f80,Cardiology,Winchester,MA,2023-06,1,4,3,1,0,0,0
+003f70999504ace4d458dc148c6f876a0b41b25c,Cardiology,Charlton,MA,2023-06,1,2,1,1,0,0,1
+0005721cb2e996336e2dcf87399b4e92653cb74a,Cardiology,Annapolis,MD,2023-06,1,5,2,3,0,0,0
+001d8ee654002e36a7f4a7c6894a7027e53049b7,Cardiology,Frederick,MD,2023-06,1,1,1,,0,0,0
+003447ea729d54109963d953e439d49e051dffd1,Cardiology,Baltimore,MD,2023-06,1,2,1,1,1,0,0
+0039e0970ee17dcb5fde36c8d0926920f1213d53,Cardiology,Frederick,MD,2023-06,1,2,2,,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2023-06,1,8,5,2,1,1,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2023-06,1,14,11,3,0,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2023-06,1,14,12,2,2,0,0
+00070c53fb51a0e550851ddf33195467cca5c0d2,Cardiology,Joplin,MO,2023-06,1,8,8,,0,0,0
+000eb0a931a32bd93aec1474729f7ea702121fc7,Cardiology,Flowood,MS,2023-06,1,1,1,,0,0,0
+00070c5b44ed8b8437df919bfd56f3aa7caa8ec3,Cardiology,Butte,MT,2023-06,1,2,0,2,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2023-06,1,4,4,,3,0,0
+0033262a73b4503b082d30f31173ebeeeafa0abe,Cardiology,Cornelius,NC,2023-06,1,2,2,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2023-06,1,4,4,,1,0,0
+000eff7520c140f531d5afff5736a51d0829b87e,Cardiology,Neptune,NJ,2023-06,1,2,1,1,0,0,0
+001235912339bca910480e13ae5c7ce37e3620db,Cardiology,Avenel,NJ,2023-06,1,1,1,,0,0,0
+001275d4301113eeff267b8e2b860875f4a5690c,Allergy,Hoboken,NJ,2023-06,1,1,1,,0,0,0
+001ef73ab562d5afd4f7917249650df17aa16384,Allergy,Albuquerque,NM,2023-06,1,7,6,1,0,0,0
+00110baa94591141c6d659d88eb963e7057f1cac,Allergy,Reno,NV,2023-06,NULL,0,0,,0,0,0
+0010a07e03cc1956efbd65bd2ff1b4c671cd0e5b,Allergy,Buffalo,NY,2023-06,1,1,1,,0,0,0
+0010bfa467b0e5740abe6f9a957a77d8bd309f41,Immunology,Syracuse,NY,2023-06,1,1,1,,0,0,0
+003a4f8c9bdcc6acc459d0f0c8b75881b4c4ff50,Immunology,Jefferson Valley,NY,2023-06,1,1,0,1,0,0,0
+0008c6c298b7e3159f522c99aea45890e3d7e6f5,Neurology,Bucyrus,OH,2023-06,1,2,2,,0,0,0
+0021e949c81b614edc6127ded5ba1fbd790e7742,Neurology,Dayton,OH,2023-06,1,4,4,,0,0,0
+0023a0c4cb1d937ffd9c1a7f073383fab913a3e2,Neurology,Portsmouth,OH,2023-06,NULL,0,0,,0,0,0
+00353b331064835a27b989168c1c02c4d93c6bdf,Neurology,Springfield,OH,2023-06,1,1,1,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2023-06,1,6,6,,0,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2023-06,1,11,11,,0,0,0
+00008cdc1bd65c0d33a06c010e570f6007346489,Neurology,Pittsburgh,PA,2023-06,1,1,1,,0,0,0
+000c4b4d15db175019990b0251784c0c84121c09,Neurology,Johnstown,PA,2023-06,1,1,1,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2023-06,1,7,3,4,0,0,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2023-06,NULL,0,0,,0,0,0
+0015b737c0ba8c725a47248a498218f4724a2ba1,Neurology,Boiling Springs,SC,2023-06,NULL,0,0,,0,0,0
+0024bbcdc3fb7294e2983e2313dcce5b91de948f,Neurology,North Charleston,SC,2023-06,1,2,2,,0,0,0
+002f00e98f9e844a51ad60bb1fc6b413e0e5e479,Neurology,Irmo,SC,2023-06,1,1,1,,0,0,0
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2023-06,1,3,2,1,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2023-06,1,4,4,,0,0,0
+0036a3718f0d33d4c3fcf1e60de92eede7a8455e,Primary Care,Knoxville,TN,2023-06,1,2,2,,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2023-06,1,1,1,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2023-06,1,7,6,1,1,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2023-06,1,5,3,1,0,1,0
+0011413d8d27ab5d093e54607551ee3efeee6c00,Primary Care,Arlington,TX,2023-06,1,1,1,,0,0,0
+002f67a69630e146fb5809b5c918a000fb784de1,Cardiology,Mckinney,TX,2023-06,1,1,0,1,0,0,0
+0037494c5414156c29b823af3b2dcb12dc3b1fd9,Neurology,El Paso,TX,2023-06,1,1,1,,1,0,0
+003d94ddc942280f15e33023419f293e3c8dae94,Neurology,Houston,TX,2023-06,1,1,1,,1,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2023-06,1,4,3,1,0,0,0
+0023cdf5a2415ee5c2889fd1e8e0e4317bd49f4d,Primary Care,Richmond,VA,2023-06,NULL,0,0,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2023-06,1,13,10,3,0,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2023-06,1,10,6,4,0,0,1
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,WV,2023-06,1,2,2,,0,0,0
+003397b221d801e61e4e3bb98589a7fd3ddce7aa,Neurology,Huntsville,AL,2023-07,1,3,1,2,0,0,0
+0022029c6957d897fb38372d7c54b87de9ef8613,Nutrition,Pine Bluff,AR,2023-07,1,1,1,,0,0,0
+003fce4466397e11c5253e43bd451cc700700042,Neurology,Stuttgart,AR,2023-07,1,1,0,1,0,0,0
+0000047dc97a3398fc0c7a933996546fa4d8854f,Immunology,Phoenix,AZ,2023-07,1,1,1,,1,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,az,2023-07,1,4,4,,0,0,0
+000ac3c8ed53e25ea33b394da389ce83a75bcaed,Cardiology,Glendale,AZ,2023-07,1,1,0,1,0,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2023-07,1,2,2,,0,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2023-07,1,2,1,1,0,0,0
+0011988ffb5c74ff7ad0741b036f0328fe58b470,Allergy,Orange,CA,2023-07,NULL,0,0,,0,0,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2023-07,1,2,2,,1,0,0
+00280fb8e6ad826d07d6c2b56b2309d016028152,Allergy,Visalia,CA,2023-07,1,1,1,,0,0,0
+0036b01471d4142269a1a183096a26b803d8541e,Neurology,Costa Mesa,CA,2023-07,1,3,3,,0,0,1
+003f2c935b1f79e62efbd58343269d236bdbece3,Cardiology,Santa Rosa,CA,2023-07,NULL,0,0,,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2023-07,1,3,3,,2,0,0
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2023-07,1,1,0,1,0,0,0
+00046f56d2a971f178e50674ac80e482fc8c07e6,Primary Care,Panama City,FL,2023-07,1,1,1,,0,0,0
+000e25738049c63b67b07ee2e4dfc14ceef7798e,Primary Care,Palm Beach,FL,2023-07,1,1,1,,0,0,0
+0016bfd16a50ec2593d4cb84eeb2d0f24d76465a,Cardiology,Boca Raton,FL,2023-07,1,2,2,,0,0,0
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2023-07,1,1,1,,0,0,0
+0024878cfa9ae239418581302298898a4551a5b7,Cardiology,Tampa,FL,2023-07,1,2,2,,0,0,0
+003250d70103becedd82530f3b7c52dba6d130d0,Cardiology,Deland,FL,2023-07,1,1,0,1,0,0,0
+00391a484aaf54f3e4a2c5abba5d37c4894a1dd1,Cardiology,Jacksonville,FL,2023-07,1,1,1,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2023-07,1,6,4,2,0,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2023-07,1,3,3,,0,0,0
+0005ed23aa71ea9a604599dfcae268029dbc6601,Primary Care,Dahlonega,GA,2023-07,1,1,1,,0,0,0
+0009bc35d5579832d69cb06687ad09b5bed3051f,Primary Care,Dacula,GA,2023-07,1,1,0,1,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2023-07,1,10,8,2,2,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2023-07,1,3,0,3,0,0,0
+000aacb1dba9c679ef6ecc91b605bce867db8661,Primary Care,Honolulu,HI,2023-07,1,2,2,,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2023-07,1,4,3,1,1,0,2
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2023-07,1,1,1,,0,0,0
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2023-07,1,4,3,1,0,0,0
+0012073fd9277b9f9ac21a34ebf516b09b0de170,Neurology,Pittsfield,IL,2023-07,1,2,2,,1,0,0
+001cd172b50a30d71bec04ce6d92ddbd72f0607a,Neurology,West Lafayette,IN,2023-07,1,1,1,,1,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2023-07,1,2,2,,0,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2023-07,1,1,1,,0,0,0
+001bac2d871a14e2e0d0335035a0a6365286b31e,Neurology,Alexandria,LA,2023-07,1,1,1,,0,0,0
+00023405f26f8d0a93d96804fc27bc0900db68db,Cardiology,North Andover,MA,2023-07,1,1,0,1,0,0,0
+003f70999504ace4d458dc148c6f876a0b41b25c,Cardiology,Charlton,MA,2023-07,1,1,1,,0,0,0
+0004e29a437aa6594359e4cbea6e6e6989f2aa6b,Cardiology,Bethesda,MD,2023-07,1,1,1,,0,0,0
+0005721cb2e996336e2dcf87399b4e92653cb74a,Cardiology,Annapolis,MD,2023-07,1,5,2,3,0,0,0
+003447ea729d54109963d953e439d49e051dffd1,Cardiology,Baltimore,MD,2023-07,1,2,2,,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2023-07,1,3,2,1,1,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2023-07,1,9,8,1,1,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2023-07,1,17,14,3,9,0,0
+0031908ef7d790a626cf392102e30c0307df81a1,Cardiology,Livonia,MI,2023-07,1,1,1,,0,0,0
+00319f34bc2a104143cd0cbc227a28af79fcb4e5,Cardiology,Three Rivers,MI,2023-07,1,1,1,,0,0,0
+000eb0a931a32bd93aec1474729f7ea702121fc7,Cardiology,Flowood,MS,2023-07,1,2,2,,0,0,0
+00070c5b44ed8b8437df919bfd56f3aa7caa8ec3,Cardiology,Butte,MT,2023-07,1,1,0,1,0,0,0
+000fff22eabba9b4f489d64e3a7ad82e58e048ba,Cardiology,Greenville,NC,2023-07,1,1,1,,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2023-07,1,3,3,,3,0,0
+0033262a73b4503b082d30f31173ebeeeafa0abe,Cardiology,Cornelius,NC,2023-07,1,2,2,,1,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2023-07,1,8,7,1,2,0,1
+001275d4301113eeff267b8e2b860875f4a5690c,Allergy,Hoboken,NJ,2023-07,1,1,1,,0,0,0
+001ef73ab562d5afd4f7917249650df17aa16384,Allergy,Albuquerque,NM,2023-07,1,3,1,2,2,0,0
+0010bfa467b0e5740abe6f9a957a77d8bd309f41,Immunology,Syracuse,NY,2023-07,1,1,1,,0,0,0
+003a4f8c9bdcc6acc459d0f0c8b75881b4c4ff50,Immunology,Jefferson Valley,NY,2023-07,1,1,0,1,0,0,0
+0008c6c298b7e3159f522c99aea45890e3d7e6f5,Neurology,Bucyrus,OH,2023-07,1,2,2,,0,0,0
+00173b47e154a2921f36a5993146e889f44902e5,Neurology,Columbus,OH,2023-07,1,1,1,,0,0,0
+0023a0c4cb1d937ffd9c1a7f073383fab913a3e2,Neurology,Portsmouth,OH,2023-07,1,1,0,1,0,0,0
+002d24c74fb1312846bd42f51724aa6d54766f1d,Neurology,Lima,OH,2023-07,NULL,0,0,,0,0,0
+0035281338154da472e57e82596107507cb19c2b,Neurology,Cleveland,OH,2023-07,1,1,1,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2023-07,1,4,3,1,1,0,0
+002182635f07320b68bf1b97fbd8834d2fadfac9,Neurology,Midwest City,OK,2023-07,1,1,1,,0,0,0
+002a52f8fe1447544326ced45b59f990d615ab7b,Neurology,Tulsa,OK,2023-07,1,1,1,,1,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2023-07,1,5,4,1,2,0,0
+000451f5877e0408ab244695835b692919c65c01,Neurology,Irwin,PA,2023-07,1,2,2,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2023-07,1,5,1,3,0,1,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2023-07,1,2,2,,0,0,0
+0015b737c0ba8c725a47248a498218f4724a2ba1,Neurology,Boiling Springs,SC,2023-07,NULL,0,0,,0,0,0
+0024bbcdc3fb7294e2983e2313dcce5b91de948f,Neurology,North Charleston,SC,2023-07,1,2,2,,0,0,0
+003d24823a63b950ddb5ff62fb40091d65cfea30,Neurology,Myrtle Beach,SC,2023-07,1,1,1,,1,0,1
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2023-07,1,1,1,,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2023-07,1,5,3,2,1,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2023-07,1,2,2,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2023-07,1,2,2,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2023-07,1,10,7,2,0,1,0
+002a4e7a9854a84dd0a40541e44d29bde03a7d98,Cardiology,Houston,TX,2023-07,1,2,2,,2,0,0
+0035cb1872820ad0b7d7a35ec2d742f0bfa54355,Neurology,Waco,TX,2023-07,NULL,0,0,,0,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2023-07,1,3,3,,0,0,0
+00225800d8f6cfd03629e3c1404a26aecc8c85ac,Neurology,Fairfax,VA,2023-07,NULL,0,0,,0,0,0
+0023cdf5a2415ee5c2889fd1e8e0e4317bd49f4d,Primary Care,Richmond,VA,2023-07,NULL,0,0,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2023-07,1,8,6,2,0,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2023-07,1,6,4,2,0,0,0
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2023-07,1,1,1,,0,0,0
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,WV,2023-07,1,2,2,,0,0,0
+003c5c8407254dd66296277aa295dd83ab82e438,Primary Care,Martinsburg,WV,2023-07,1,1,1,,0,0,0
+002e42c699639c817d3d943939f48b6d4638d8cb,Cardiology,Fairbanks,AK,2023-08,1,1,1,,0,0,0
+00301c6785296b29de827f60a40e60ccce8a1918,Allergy,Gardendale,AL,2023-08,NULL,0,0,,0,0,0
+003397b221d801e61e4e3bb98589a7fd3ddce7aa,Neurology,Huntsville,AL,2023-08,1,3,1,2,0,0,0
+003fce4466397e11c5253e43bd451cc700700042,Neurology,Stuttgart,AR,2023-08,1,1,0,1,0,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2023-08,1,3,3,,0,0,0
+000ac3c8ed53e25ea33b394da389ce83a75bcaed,Cardiology,Glendale,AZ,2023-08,1,4,2,2,1,0,0
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2023-08,1,1,0,,0,1,0
+0003f077e0a17af3c520f7e67b20f20a5066997d,immunology,Daly City,CA,2023-08,1,3,2,1,1,0,0
+0007eaecf16261a920d9351db8934c02b0dc9410,Primary Care,Sacramento,CA,2023-08,1,1,1,,0,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2023-08,1,2,1,1,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2023-08,1,5,3,1,1,1,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2023-08,1,1,1,,1,0,1
+00280fb8e6ad826d07d6c2b56b2309d016028152,Allergy,Visalia,CA,2023-08,1,1,1,,0,0,0
+0036b01471d4142269a1a183096a26b803d8541e,Neurology,Costa Mesa,CA,2023-08,1,3,3,,0,0,1
+0011d1e2eeffd68f2e1523466500181bbfa6aab1,Cardiology,Littleton,CO,2023-08,1,1,1,,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2023-08,1,3,3,,1,0,0
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2023-08,1,4,2,2,1,0,0
+00046f56d2a971f178e50674ac80e482fc8c07e6,Primary Care,Panama City,FL,2023-08,1,1,1,,0,0,0
+0019df7da062fada1bd0d8c26c7fbe3f00e9cff6,Cardiology,Hollywood,FL,2023-08,1,2,2,,0,0,0
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2023-08,1,3,2,1,1,0,0
+00391a484aaf54f3e4a2c5abba5d37c4894a1dd1,Cardiology,Jacksonville,FL,2023-08,1,1,0,1,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2023-08,1,5,5,,2,0,0
+003e0f46d879f8e0c269cd35ad02f9b98b6c4db1,,Fort Lauderdale,FL,2023-08,1,1,1,,0,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2023-08,1,2,2,,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2023-08,1,17,14,3,4,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2023-08,1,5,0,5,0,0,0
+000af50b9f1207600eb6f885cad217f2f264be20,Primary Care,Burlington,IA,2023-08,1,2,2,,0,0,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2023-08,1,3,3,,0,0,0
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2023-08,1,5,3,2,0,0,0
+0036ec433d81a29c31309a703688d07fe9f45e55,Neurology,Peoria,IL,2023-08,1,1,1,,0,0,0
+001cd172b50a30d71bec04ce6d92ddbd72f0607a,Neurology,West Lafayette,IN,2023-08,1,2,2,,2,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2023-08,1,2,1,1,0,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2023-08,1,3,3,,0,0,0
+001bac2d871a14e2e0d0335035a0a6365286b31e,Neurology,Alexandria,LA,2023-08,1,1,1,,0,0,0
+002526afefe782c4ffd03cb1764edfeefa1f30e7,Neurology,Lafayette,LA,2023-08,1,2,2,,0,0,0
+0000577f5af6824bccdfc04f2c75bcf7b3a7d270,Cardiology,North Adams,MA,2023-08,1,1,1,,0,0,0
+00023405f26f8d0a93d96804fc27bc0900db68db,Cardiology,North Andover,MA,2023-08,1,1,0,1,0,0,0
+003f70999504ace4d458dc148c6f876a0b41b25c,Cardiology,Charlton,MA,2023-08,1,1,1,,0,0,0
+0005721cb2e996336e2dcf87399b4e92653cb74a,Cardiology,Annapolis,MD,2023-08,1,3,1,2,0,0,0
+003447ea729d54109963d953e439d49e051dffd1,Cardiology,Baltimore,MD,2023-08,1,3,2,1,2,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2023-08,1,6,6,,2,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2023-08,1,11,10,1,0,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2023-08,1,20,15,5,6,0,2
+00070c53fb51a0e550851ddf33195467cca5c0d2,Cardiology,Joplin,MO,2023-08,1,4,4,,0,0,0
+00070c5b44ed8b8437df919bfd56f3aa7caa8ec3,Cardiology,Butte,MT,2023-08,1,2,2,,0,0,0
+000fff22eabba9b4f489d64e3a7ad82e58e048ba,Cardiology,Greenville,NC,2023-08,1,2,2,,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2023-08,1,4,4,,2,0,0
+0033262a73b4503b082d30f31173ebeeeafa0abe,Cardiology,Cornelius,NC,2023-08,1,2,2,,1,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2023-08,1,4,4,,1,0,0
+00052b98a4b2a61a94509d63f2638ad81f42b0c4,Cardiology,Tinton Falls,NJ,2023-08,1,0,0,,0,0,1
+001275d4301113eeff267b8e2b860875f4a5690c,Allergy,Hoboken,NJ,2023-08,1,1,1,,0,0,0
+000d26226bf588c31a672867f962745320e27ff7,Allergy,Albuquerque,NM,2023-08,1,1,0,1,0,0,0
+001ef73ab562d5afd4f7917249650df17aa16384,Allergy,Albuquerque,NM,2023-08,1,5,5,,1,0,0
+000ad5c574bd5567ff4b73fc35d0077aabeaf2e5,Allergy,Staten Island,NY,2023-08,1,1,0,1,0,0,0
+0010bfa467b0e5740abe6f9a957a77d8bd309f41,Immunology,Syracuse,NY,2023-08,1,1,1,,0,0,0
+0024dfb47ffcc0c8ae5d1ab0e1ef8fd89c183cb0,Immunology,Brooklyn,NY,2023-08,1,1,1,,0,0,0
+000424ee8c3c3e023bce7e9409fe8d7fa8088e4e,Neurology,Delaware,OH,2023-08,1,2,2,,0,0,0
+0008c6c298b7e3159f522c99aea45890e3d7e6f5,Neurology,Bucyrus,OH,2023-08,1,3,3,,0,0,0
+001e6d2a39ad84fb05f4712fa1c4c54f894f70f2,Neurology,Akron,OH,2023-08,1,1,1,,0,0,0
+0021e949c81b614edc6127ded5ba1fbd790e7742,Neurology,Dayton,OH,2023-08,1,3,3,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2023-08,1,5,5,,0,0,0
+002182635f07320b68bf1b97fbd8834d2fadfac9,Neurology,Midwest City,OK,2023-08,1,1,1,,1,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2023-08,1,5,3,2,2,0,0
+0006c6318b3483f96db2fddb1acad8e8cb2abc2a,Neurology,Philadelphia,PA,2023-08,1,1,1,,0,0,0
+000c4b4d15db175019990b0251784c0c84121c09,Neurology,Johnstown,PA,2023-08,1,1,1,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2023-08,1,7,5,2,0,0,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2023-08,1,3,2,1,0,0,0
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2023-08,1,3,2,1,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2023-08,1,4,2,2,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2023-08,1,2,2,,0,0,0
+00033d2689bf0c4d39078c1114ab830df9c22490,Primary Care,Southlake,TX,2023-08,1,1,1,,1,0,0
+000384a26b00a482aee407480cbee131e53fc74b,Primary Care,Wichita Falls,TX,2023-08,1,1,1,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2023-08,1,3,2,1,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2023-08,1,3,1,2,0,0,0
+000fe2b2bd355ea9982c04fe8e659e2a89632aa7,Primary Care,Austin,TX,2023-08,1,1,1,,0,0,0
+0035cb1872820ad0b7d7a35ec2d742f0bfa54355,Neurology,Waco,TX,2023-08,1,2,2,,1,0,0
+003d94ddc942280f15e33023419f293e3c8dae94,Neurology,Houston,TX,2023-08,1,2,2,,1,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2023-08,1,4,3,1,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2023-08,1,11,8,3,1,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2023-08,1,5,5,,0,0,1
+0006ecc074e073ffe3a2713537247f2317155bad,Primary Care,Cedarburg,WI,2023-08,1,0,0,,0,0,1
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2023-08,1,1,1,,0,0,0
+00218b5d783a977d3b7bee79daa0f4639f4efd00,Allergy,Martinsburg,WV,2023-08,1,1,1,,0,0,0
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,WV,2023-08,1,1,1,,0,0,0
+002795106eb76a17a3c76ce50424fc355e81ea3c,Primary Care,Mobile,AL,2023-09,1,2,2,,0,0,0
+0032bebd1e328ea8c4ed0698304d55e7b20dd8ea,Primary Care,rogersville,AL,2023-09,1,1,1,,0,0,0
+003397b221d801e61e4e3bb98589a7fd3ddce7aa,Neurology,Huntsville,AL,2023-09,1,2,1,1,0,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2023-09,1,3,3,,0,0,0
+000ac3c8ed53e25ea33b394da389ce83a75bcaed,Cardiology,Glendale,AZ,2023-09,1,1,1,,0,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2023-09,1,3,3,,0,0,0
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2023-09,1,1,0,,0,1,0
+0003f077e0a17af3c520f7e67b20f20a5066997d,immunology,Daly City,CA,2023-09,1,5,4,1,2,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2023-09,1,1,0,1,0,0,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2023-09,1,4,4,,3,0,0
+0027567916976e91bdc980e849768cad50e1ab2e,Primary Care,Santa Ana,CA,2023-09,NULL,0,0,,0,0,0
+00280fb8e6ad826d07d6c2b56b2309d016028152,Allergy,Visalia,CA,2023-09,1,1,1,,0,0,0
+00364628b8bc4274e586f97598252f9693e84315,Neurology,Whittier,CA,2023-09,1,1,1,,1,0,0
+0036b01471d4142269a1a183096a26b803d8541e,Neurology,Costa Mesa,CA,2023-09,1,5,4,1,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2023-09,NULL,0,0,,0,0,0
+0037ca10aa497d25f6f67a45ddbf497467713f5e,Primary Care,Cheshire,CT,2023-09,1,1,1,,0,0,0
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2023-09,1,2,2,,1,0,0
+0019df7da062fada1bd0d8c26c7fbe3f00e9cff6,Cardiology,Hollywood,FL,2023-09,1,1,1,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2023-09,1,5,4,1,1,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2023-09,1,2,2,,0,0,0
+00413d05682f4a1586ed3dde4591f3a27ef5fd44,Primary Care,Ocala,FL,2023-09,1,1,0,1,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2023-09,1,12,10,2,8,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2023-09,1,4,1,2,0,1,0
+00288391ec76c531e81b62f77a5c091e089f3a8d,Primary Care,Tifton,GA,2023-09,1,1,1,,0,0,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2023-09,1,3,3,,0,0,0
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2023-09,1,1,1,,0,0,0
+0012073fd9277b9f9ac21a34ebf516b09b0de170,Neurology,Pittsfield,IL,2023-09,NULL,0,0,,0,0,0
+0019d2676e8ac65413fa31a53347922422e953b1,Neurology,Maywood,IL,2023-09,1,1,1,,0,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2023-09,1,5,3,2,1,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2023-09,1,1,1,,1,0,0
+001bac2d871a14e2e0d0335035a0a6365286b31e,Neurology,Alexandria,LA,2023-09,1,1,1,,0,0,0
+002526afefe782c4ffd03cb1764edfeefa1f30e7,Neurology,Lafayette,LA,2023-09,1,3,3,,0,0,0
+00023405f26f8d0a93d96804fc27bc0900db68db,Cardiology,North Andover,MA,2023-09,1,1,0,1,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2023-09,1,2,2,,1,0,0
+003f70999504ace4d458dc148c6f876a0b41b25c,Cardiology,,MA,2023-09,1,1,1,,0,0,0
+0005721cb2e996336e2dcf87399b4e92653cb74a,Cardiology,Annapolis,MD,2023-09,1,2,0,2,0,0,0
+001d8ee654002e36a7f4a7c6894a7027e53049b7,Cardiology,Frederick,MD,2023-09,NULL,0,0,,0,0,0
+003447ea729d54109963d953e439d49e051dffd1,Cardiology,Baltimore,MD,2023-09,1,1,0,1,1,0,0
+0039e0970ee17dcb5fde36c8d0926920f1213d53,Cardiology,Frederick,MD,2023-09,1,1,1,,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2023-09,1,5,4,1,2,0,0
+0010b83c012b5a02b5d0d9b391e1afcbf38c1ae9,Cardiology,Novi,MI,2023-09,NULL,0,0,,0,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2023-09,1,14,12,2,1,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2023-09,1,22,15,7,12,0,1
+00070c53fb51a0e550851ddf33195467cca5c0d2,Cardiology,Joplin,MO,2023-09,1,2,2,,0,0,0
+00070c5b44ed8b8437df919bfd56f3aa7caa8ec3,Cardiology,Butte,MT,2023-09,1,2,1,1,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2023-09,1,2,2,,1,0,0
+0033262a73b4503b082d30f31173ebeeeafa0abe,Cardiology,Cornelius,NC,2023-09,1,1,1,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2023-09,1,4,4,,2,0,0
+001275d4301113eeff267b8e2b860875f4a5690c,Allergy,Hoboken,NJ,2023-09,1,1,1,,0,0,0
+000d26226bf588c31a672867f962745320e27ff7,Allergy,Albuquerque,NM,2023-09,1,1,1,,1,0,0
+001ef73ab562d5afd4f7917249650df17aa16384,Allergy,Albuquerque,NM,2023-09,1,5,5,,2,0,0
+002c7c61ffb02ff5e0f6cf8cbcd27c17734b0318,Allergy,Albuquerque,NM,2023-09,1,1,1,,0,0,0
+0010bfa467b0e5740abe6f9a957a77d8bd309f41,Immunology,Syracuse,NY,2023-09,1,1,1,,0,0,0
+0013ef89edc92a154047e2dcc8754edec71d8880,Immunology,Syracuse,NY,2023-09,1,5,3,2,5,0,0
+001be88f02a0ad431f0123352197a0d1641d8e3b,Immunology,Bay Shore,NY,2023-09,1,1,0,1,0,0,0
+0024dfb47ffcc0c8ae5d1ab0e1ef8fd89c183cb0,Immunology,Brooklyn,NY,2023-09,1,1,1,,0,0,0
+002ce262d9bf7a0ac7924a2f18b2e5c530093165,Immunology,New York,NY,2023-09,1,1,1,,0,0,1
+003a4f8c9bdcc6acc459d0f0c8b75881b4c4ff50,Immunology,Jefferson Valley,NY,2023-09,1,1,0,1,0,0,0
+0008c6c298b7e3159f522c99aea45890e3d7e6f5,Neurology,Bucyrus,OH,2023-09,1,1,1,,0,0,0
+00173b47e154a2921f36a5993146e889f44902e5,Neurology,Columbus,OH,2023-09,1,2,2,,0,0,0
+00235285229ea3233268ea630c1ba381c6b1ee2c,Neurology,Cincinnati,OH,2023-09,1,1,1,,1,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2023-09,1,5,5,,1,0,0
+002182635f07320b68bf1b97fbd8834d2fadfac9,Neurology,Midwest City,OK,2023-09,1,1,1,,1,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2023-09,1,7,7,,1,0,0
+000c4b4d15db175019990b0251784c0c84121c09,Neurology,Johnstown,PA,2023-09,NULL,0,0,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2023-09,1,7,3,4,0,0,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2023-09,1,1,1,,0,0,0
+002f00e98f9e844a51ad60bb1fc6b413e0e5e479,Neurology,Irmo,SC,2023-09,1,1,1,,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2023-09,1,2,1,1,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2023-09,1,2,2,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2023-09,1,3,3,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2023-09,1,6,5,1,0,0,0
+002a4e7a9854a84dd0a40541e44d29bde03a7d98,Cardiology,Houston,TX,2023-09,1,1,1,,1,0,0
+0035cb1872820ad0b7d7a35ec2d742f0bfa54355,Neurology,Waco,TX,2023-09,NULL,0,0,,0,0,0
+003d94ddc942280f15e33023419f293e3c8dae94,Neurology,Houston,TX,2023-09,1,1,1,,1,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2023-09,1,3,3,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2023-09,1,14,11,3,1,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2023-09,1,4,4,,0,0,1
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2023-09,1,2,2,,0,0,0
+004188f97da2d490f9f7b445ee849bd057f7917c,Allergy,Black River Falls,WI,2023-09,1,2,2,,0,0,0
+00218b5d783a977d3b7bee79daa0f4639f4efd00,Allergy,Martinsburg,WV,2023-09,1,1,1,,0,0,0
+002795106eb76a17a3c76ce50424fc355e81ea3c,Primary Care,Mobile,AL,2023-10,1,4,4,,0,0,0
+0032bebd1e328ea8c4ed0698304d55e7b20dd8ea,Primary Care,Rogersville,AL,2023-10,1,1,1,,0,0,0
+003397b221d801e61e4e3bb98589a7fd3ddce7aa,Neurology,Huntsville,AL,2023-10,1,1,0,1,0,0,0
+0009f61268c603dd7d428a0d96df2be6c5f7a045,Primary Care,Phoenix,AZ,2023-10,1,2,2,,0,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2023-10,1,3,2,1,0,0,0
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2023-10,1,1,0,1,0,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2023-10,1,1,1,,0,0,0
+000cda16846c13305954d8302aa21d22df203826,Immunology,Montebello,CA,2023-10,1,2,0,2,0,0,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2023-10,1,2,2,,0,0,0
+001e7fcf43df80ebbb441d29a08ade10bea1f6e0,Primary Care,Los Angeles,CA,2023-10,NULL,0,0,,0,0,0
+0027567916976e91bdc980e849768cad50e1ab2e,Primary Care,Santa Ana,CA,2023-10,NULL,0,0,,0,0,0
+00280fb8e6ad826d07d6c2b56b2309d016028152,Allergy,Visalia,CA,2023-10,1,1,1,,0,0,0
+0030c8b16762908bb556bd6a8d2f524d5c31254d,Neurology,Los Angeles,CA,2023-10,1,1,1,,0,0,0
+00364628b8bc4274e586f97598252f9693e84315,Neurology,Whittier,CA,2023-10,1,4,4,,3,0,0
+0036b01471d4142269a1a183096a26b803d8541e,Neurology,Costa Mesa,CA,2023-10,1,1,0,1,0,0,0
+0011d1e2eeffd68f2e1523466500181bbfa6aab1,Cardiology,Littleton,CO,2023-10,1,2,2,,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2023-10,1,1,1,,1,0,0
+0018e013d991810b103c64060448050afe286576,Primary Care,Avon,CT,2023-10,NULL,0,0,,0,0,0
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2023-10,1,4,4,,3,0,0
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2023-10,1,3,3,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2023-10,1,5,3,2,1,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2023-10,1,2,2,,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2023-10,1,17,15,2,8,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2023-10,1,5,1,3,0,1,0
+003e5af39833b1ac4b610f1eb6e61bfcefeb918b,Primary Care,Corning,IA,2023-10,NULL,0,0,,0,0,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2023-10,1,1,1,,0,0,0
+000240910cdaa526b6236d42285c86cef7c6b9c8,Primary Care,Bloomington,IL,2023-10,1,1,0,1,0,0,0
+0012073fd9277b9f9ac21a34ebf516b09b0de170,Neurology,Pittsfield,IL,2023-10,NULL,0,0,,0,0,0
+0019d2676e8ac65413fa31a53347922422e953b1,Neurology,Maywood,IL,2023-10,1,2,2,,0,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2023-10,1,10,9,1,0,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2023-10,1,3,3,,0,0,0
+001bac2d871a14e2e0d0335035a0a6365286b31e,Neurology,Alexandria,LA,2023-10,1,3,3,,0,0,0
+002526afefe782c4ffd03cb1764edfeefa1f30e7,Neurology,Lafayette,LA,2023-10,1,2,2,,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2023-10,1,2,2,,1,0,0
+00317a75a16b7bcdb22840e9f75783d2c20ecbdd,Cardiology,Chestnut Hill,MA,2023-10,1,1,1,,0,0,0
+0039598b10d43919144f470e4da2d76937b86f80,Cardiology,Winchester,MA,2023-10,1,1,1,,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2023-10,1,1,0,1,0,0,0
+0010b83c012b5a02b5d0d9b391e1afcbf38c1ae9,Cardiology,Novi,MI,2023-10,1,0,0,,0,0,1
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2023-10,1,10,7,3,1,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2023-10,1,18,15,3,8,0,1
+00070c53fb51a0e550851ddf33195467cca5c0d2,Cardiology,Joplin,MO,2023-10,1,2,2,,0,0,0
+00070c5b44ed8b8437df919bfd56f3aa7caa8ec3,Cardiology,Butte,MT,2023-10,1,3,3,,1,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2023-10,1,6,6,,5,0,0
+0033262a73b4503b082d30f31173ebeeeafa0abe,Cardiology,Cornelius,NC,2023-10,1,2,2,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2023-10,1,3,3,,2,0,0
+0031a5979c5c75019f4d975bb6ca7bd64f7cb60d,Cardiology,Lincoln,NE,2023-10,1,1,1,,0,0,0
+00052b98a4b2a61a94509d63f2638ad81f42b0c4,Cardiology,Tinton Falls,NJ,2023-10,NULL,0,0,,0,0,0
+001ef73ab562d5afd4f7917249650df17aa16384,Allergy,Albuquerque,NM,2023-10,1,6,5,1,2,0,0
+0013ef89edc92a154047e2dcc8754edec71d8880,Immunology,Syracuse,NY,2023-10,1,1,1,,1,0,1
+0008c6c298b7e3159f522c99aea45890e3d7e6f5,Neurology,Bucyrus,OH,2023-10,1,1,1,,0,0,0
+00092f92541e5a42c56c8d092bde8532ae86fdb7,Neurology,Marysville,OH,2023-10,1,1,1,,0,0,0
+002d24c74fb1312846bd42f51724aa6d54766f1d,Neurology,Lima,OH,2023-10,NULL,0,0,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2023-10,1,8,6,2,1,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2023-10,1,2,2,,0,0,0
+000451f5877e0408ab244695835b692919c65c01,Neurology,Irwin,PA,2023-10,1,1,1,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2023-10,1,5,3,2,0,0,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2023-10,1,3,3,,0,0,0
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2023-10,1,2,1,1,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2023-10,1,3,2,1,0,0,0
+0036a3718f0d33d4c3fcf1e60de92eede7a8455e,Primary Care,Knoxville,TN,2023-10,1,1,1,,1,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2023-10,1,2,2,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2023-10,1,3,3,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2023-10,1,4,4,,0,0,0
+0035cb1872820ad0b7d7a35ec2d742f0bfa54355,Neurology,Waco,TX,2023-10,NULL,0,0,,0,0,0
+0037494c5414156c29b823af3b2dcb12dc3b1fd9,Neurology,El Paso,TX,2023-10,NULL,0,0,,0,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2023-10,1,1,1,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2023-10,1,17,14,3,0,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2023-10,1,8,8,,0,0,2
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2023-10,1,1,1,,0,0,0
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,WV,2023-10,1,1,1,,0,0,0
+00301c6785296b29de827f60a40e60ccce8a1918,Allergy,Gardendale,AL,2023-11,1,0,0,,0,0,1
+0032bebd1e328ea8c4ed0698304d55e7b20dd8ea,Primary Care,Rogersville,AL,2023-11,1,2,2,,0,0,0
+003fce4466397e11c5253e43bd451cc700700042,Neurology,Stuttgart,AR,2023-11,1,3,2,1,0,0,0
+000ac3c8ed53e25ea33b394da389ce83a75bcaed,Cardiology,Glendale,AZ,2023-11,1,1,1,,0,0,0
+0035be110ffa6bb6cec15cf51a25444bd5f3f121,Neurology,Tucson,AZ,2023-11,1,1,0,,0,1,0
+0003f077e0a17af3c520f7e67b20f20a5066997d,immunology,Daly City,CA,2023-11,1,3,2,1,1,0,0
+0006224dc7b4fd8fd7cc5fb204c4092c1c578dc0,Primary Care,Bakersfield,CA,2023-11,1,1,0,1,0,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2023-11,1,1,1,,0,0,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2023-11,1,2,2,,0,0,0
+00280fb8e6ad826d07d6c2b56b2309d016028152,Allergy,Visalia,CA,2023-11,1,3,3,,0,0,0
+00364628b8bc4274e586f97598252f9693e84315,Neurology,Whittier,CA,2023-11,1,2,2,,1,0,0
+00368b62fce6c3b0fa40a631f1e755d4b1d04b22,Neurology,Berkeley,CA,2023-11,NULL,0,0,,0,0,0
+0036b01471d4142269a1a183096a26b803d8541e,Neurology,Costa Mesa,CA,2023-11,NULL,0,0,,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2023-11,1,2,2,,2,0,0
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2023-11,1,2,2,,2,0,0
+001cefa36c8cba7648f047ec63dbd6263d63f958,Cardiology,Tallahassee,FL,2023-11,1,4,3,1,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2023-11,1,5,3,1,0,1,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2023-11,1,3,3,,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2023-11,1,16,12,4,8,0,1
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2023-11,1,3,0,2,0,1,0
+00288391ec76c531e81b62f77a5c091e089f3a8d,Primary Care,Tifton,GA,2023-11,1,1,1,,0,0,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2023-11,1,2,2,,0,0,0
+0012073fd9277b9f9ac21a34ebf516b09b0de170,Neurology,Pittsfield,IL,2023-11,NULL,0,0,,0,0,0
+0019d2676e8ac65413fa31a53347922422e953b1,Neurology,Maywood,IL,2023-11,1,4,4,,0,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2023-11,1,6,6,,0,0,0
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2023-11,1,1,1,,1,0,0
+001bac2d871a14e2e0d0335035a0a6365286b31e,Neurology,Alexandria,LA,2023-11,1,1,1,,0,0,0
+002526afefe782c4ffd03cb1764edfeefa1f30e7,Neurology,Lafayette,LA,2023-11,1,1,1,,0,0,0
+0000577f5af6824bccdfc04f2c75bcf7b3a7d270,Cardiology,North Adams,MA,2023-11,1,1,1,,0,0,0
+00023405f26f8d0a93d96804fc27bc0900db68db,Cardiology,North Andover,MA,2023-11,1,1,1,,1,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2023-11,1,3,3,,1,0,0
+0039598b10d43919144f470e4da2d76937b86f80,Cardiology,Winchester,MA,2023-11,1,1,0,1,0,0,0
+003ab27af48733e861ec732fc6ae8d7beefa42ee,Cardiology,Ipswich,MA,2023-11,1,2,2,,0,0,0
+0005721cb2e996336e2dcf87399b4e92653cb74a,Cardiology,Annapolis,MD,2023-11,1,1,0,1,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2023-11,1,3,3,,0,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2023-11,1,7,7,,0,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2023-11,1,21,16,5,12,0,0
+001d45e4ed4bf92e3312ae212025f454416ed513,Cardiology,Vadnais Heights,MN,2023-11,NULL,0,0,,0,0,0
+002c2818ea1b3cf7b43d0d7228dd86adf23f3e90,Cardiology,St Louis Park,MN,2023-11,NULL,0,0,,0,0,0
+00070c53fb51a0e550851ddf33195467cca5c0d2,Cardiology,Joplin,MO,2023-11,1,2,2,,0,0,0
+00305caa6535ae905a9cfb67bc4586d147abdd89,Cardiology,Pascagoula,MS,2023-11,NULL,0,0,,0,0,0
+00070c5b44ed8b8437df919bfd56f3aa7caa8ec3,Cardiology,Butte,MT,2023-11,1,1,1,,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2023-11,1,6,6,,3,0,0
+0033262a73b4503b082d30f31173ebeeeafa0abe,Cardiology,Cornelius,NC,2023-11,1,1,1,,0,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2023-11,1,4,2,2,1,0,0
+00052b98a4b2a61a94509d63f2638ad81f42b0c4,Cardiology,Tinton Falls,NJ,2023-11,NULL,0,0,,0,0,0
+001ef73ab562d5afd4f7917249650df17aa16384,Allergy,Albuquerque,NM,2023-11,1,6,6,,1,0,0
+0013ef89edc92a154047e2dcc8754edec71d8880,Immunology,Syracuse,NY,2023-11,1,2,2,,2,0,0
+00092f92541e5a42c56c8d092bde8532ae86fdb7,Neurology,Marysville,OH,2023-11,1,1,1,,0,0,0
+001e6d2a39ad84fb05f4712fa1c4c54f894f70f2,Neurology,Akron,OH,2023-11,1,1,1,,0,0,0
+0021e949c81b614edc6127ded5ba1fbd790e7742,Neurology,Dayton,OH,2023-11,1,3,3,,0,0,0
+00235285229ea3233268ea630c1ba381c6b1ee2c,Neurology,Cincinnati,OH,2023-11,1,1,1,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2023-11,1,6,5,1,0,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2023-11,1,1,1,,0,0,0
+000c4b4d15db175019990b0251784c0c84121c09,Neurology,Johnstown,PA,2023-11,1,1,1,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2023-11,1,4,1,3,0,0,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2023-11,1,1,1,,0,0,0
+00293dfdf45b9293bffb628a9d4a1686a0f3d464,Neurology,Little River,SC,2023-11,1,1,1,,0,0,0
+002ccacdd8cc86b05529d85371bd3626847ea521,Neurology,Canton,SD,2023-11,1,1,1,,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2023-11,1,3,1,2,0,0,0
+0036a3718f0d33d4c3fcf1e60de92eede7a8455e,Primary Care,Knoxville,TN,2023-11,1,1,1,,0,0,0
+003a2cc291c162dd529f6558a510bcb359479448,Primary Care,Erwin,TN,2023-11,1,1,1,,0,0,0
+00076b9b5335368c03b5d2323db77404ec2f779c,Primary Care,San Antonio,TX,2023-11,1,1,1,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2023-11,1,4,3,1,0,0,0
+002a57022a2a15a1a1017a79175372aa516e48ac,Cardiology,San Antonio,TX,2023-11,1,2,2,,0,0,0
+0035cb1872820ad0b7d7a35ec2d742f0bfa54355,Neurology,Waco,TX,2023-11,NULL,0,0,,0,0,0
+003d94ddc942280f15e33023419f293e3c8dae94,Neurology,Houston,TX,2023-11,1,1,1,,0,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2023-11,1,2,1,1,0,0,0
+0023cdf5a2415ee5c2889fd1e8e0e4317bd49f4d,Primary Care,Richmond,VA,2023-11,NULL,0,0,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2023-11,1,13,12,1,0,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2023-11,1,5,5,,0,0,2
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2023-11,1,2,2,,0,0,1
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,WV,2023-11,1,1,1,,0,0,0
+0026e0d1c4b69101d4d7b0078411ab275a63f51f,Primary Care,Anchorage,AK,2023-12,NULL,0,0,,0,0,0
+00301c6785296b29de827f60a40e60ccce8a1918,Allergy,Gardendale,AL,2023-12,NULL,0,0,,0,0,0
+0032bebd1e328ea8c4ed0698304d55e7b20dd8ea,Primary Care,Rogersville,AL,2023-12,NULL,0,0,,0,0,0
+003397b221d801e61e4e3bb98589a7fd3ddce7aa,Neurology,Huntsville,AL,2023-12,NULL,0,0,,0,0,0
+003fce4466397e11c5253e43bd451cc700700042,Neurology,Stuttgart,AR,2023-12,1,1,1,,0,0,0
+002b5b678cb23d0b40440e77310f7163f733179b,Allergy,Scottsdale,AZ,2023-12,1,1,1,,0,0,0
+000c903340389dd90c0b711a9093b939298aa913,Immunology,Fresno,CA,2023-12,1,1,0,1,0,0,0
+001a81ff40dcf4e341be5cb856f04a2793e7e638,Cardiology,San Jose,CA,2023-12,1,1,1,,1,0,0
+0036b01471d4142269a1a183096a26b803d8541e,Neurology,Costa Mesa,CA,2023-12,1,2,1,1,0,0,0
+002b73cb2117be8e407a7ff0bc9138115356bc04,Cardiology,Fort Collins,CO,2023-12,NULL,0,0,,0,0,0
+00174a015d42638f1fd0fa0cbc2810e66c3c5ee9,Cardiology,New Haven,CT,2023-12,NULL,0,0,,0,0,0
+0001e165812a9924ac4a5e6fd92a730f6fb6a57a,Primary Care,Milford,DE,2023-12,1,2,2,,0,0,0
+00046f56d2a971f178e50674ac80e482fc8c07e6,Primary Care,Panama City,FL,2023-12,1,1,1,,0,0,0
+0016bfd16a50ec2593d4cb84eeb2d0f24d76465a,Cardiology,Boca Raton,FL,2023-12,1,2,2,,0,0,0
+0019df7da062fada1bd0d8c26c7fbe3f00e9cff6,Cardiology,Hollywood,FL,2023-12,1,1,1,,0,0,0
+00391a484aaf54f3e4a2c5abba5d37c4894a1dd1,Cardiology,Jacksonville,FL,2023-12,1,1,1,,0,0,0
+003da490962f528394136fa2e2a18983f27b71f3,Cardiology,Pensacola,FL,2023-12,1,7,7,,1,0,0
+004072db1ff376ba931d18173eabdbaa4619104b,Immunology,Maitland,FL,2023-12,1,3,3,,0,0,0
+0009bc35d5579832d69cb06687ad09b5bed3051f,Primary Care,Dacula,GA,2023-12,1,1,0,1,0,0,0
+000f85f9264f9f8eb03ced692f8a529610454879,Primary Care,Blue Ridge,GA,2023-12,1,8,7,1,5,0,0
+0027a7fd521942b2643ca7901ddce694d5eceda9,Primary Care,Lawrenceville,GA,2023-12,1,4,1,2,0,1,0
+00005f6cba778a5fb50b9dec7015f4471253b384,Primary Care,Chicago,IL,2023-12,1,1,1,,0,0,0
+0012073fd9277b9f9ac21a34ebf516b09b0de170,Neurology,Pittsfield,IL,2023-12,NULL,0,0,,0,0,0
+001231e70d435b8645922f92bc8a6ef3db21f437,Neurology,Jasper,IN,2023-12,1,2,2,,0,0,0
+00245e14b49967086387b424c5cee4234cb69f5d,Neurology,Wichita,KS,2023-12,1,4,4,,0,0,1
+00196d0a82ae0b5a640d6b76d70d85962546c9bf,Neurology,Ruston,LA,2023-12,NULL,1,1,,1,0,0
+001bac2d871a14e2e0d0335035a0a6365286b31e,Neurology,Alexandria,LA,2023-12,1,0,0,,0,0,0
+002526afefe782c4ffd03cb1764edfeefa1f30e7,Neurology,Lafayette,LA,2023-12,1,4,4,,0,0,0
+003069a9ff448bc7c7187c9312b94edbb2f81de6,Cardiology,Gardner,MA,2023-12,1,1,1,,1,0,0
+0004e29a437aa6594359e4cbea6e6e6989f2aa6b,Cardiology,Bethesda,MD,2023-12,1,1,1,,0,0,0
+0005721cb2e996336e2dcf87399b4e92653cb74a,Cardiology,Annapolis,MD,2023-12,1,3,0,3,0,0,0
+000600ad3949350aea9ba15d922aba6b762e2679,Cardiology,Rochester Hills,MI,2023-12,1,3,2,1,0,0,0
+002210f99e2a72d929a7bbb26565e93a18b6b950,Cardiology,Grand Rapids,MI,2023-12,1,5,4,1,1,0,0
+002d787a675ecd0eafc8d880d289da6259590722,Cardiology,Flint,MI,2023-12,1,6,5,1,4,0,1
+001154c8bf2bb9264349113bed7da10173cab0d7,Cardiology,Tupelo,MS,2023-12,NULL,0,0,,0,0,0
+00070c5b44ed8b8437df919bfd56f3aa7caa8ec3,Cardiology,Butte,MT,2023-12,NULL,0,0,,0,0,0
+0020d9dc15dfe13bd0836f8a5ecd04e246508326,Cardiology,Durham,NC,2023-12,1,2,2,,1,0,0
+0005dd79d2c24ce7008277110d117d287e0098b1,Cardiology,Bismarck,ND,2023-12,1,5,4,1,2,0,0
+001ef73ab562d5afd4f7917249650df17aa16384,Allergy,Albuquerque,NM,2023-12,1,2,2,,1,0,0
+0013ef89edc92a154047e2dcc8754edec71d8880,Immunology,Syracuse,NY,2023-12,1,0,0,,0,0,1
+002e6baddf48e8f7f2181699aa3657c125b854c6,Immunology,Bayside,NY,2023-12,1,2,2,,0,0,0
+00092f92541e5a42c56c8d092bde8532ae86fdb7,Neurology,Marysville,OH,2023-12,1,1,1,,0,0,0
+00106894c97819ba4728d40f3aec09b8c86652f2,Neurology,Oklahoma City,OK,2023-12,1,1,0,1,0,0,0
+00396e46e9413c1c4ab67ef34c768d8249c21b2c,Neurology,Broken Arrow,OK,2023-12,1,5,5,,0,0,0
+000451f5877e0408ab244695835b692919c65c01,Neurology,Irwin,PA,2023-12,1,1,1,,0,0,0
+001f0b71c15f5ba05ad6467002ff30ddc15c9a0a,Neurology,Smithfield,PA,2023-12,1,4,3,1,0,0,0
+002ee8c6e31679c43aceb99dc36a3b5d160808a9,Neurology,Clearfield,PA,2023-12,NULL,0,0,,0,0,0
+0024bbcdc3fb7294e2983e2313dcce5b91de948f,Neurology,North Charleston,SC,2023-12,1,2,2,,0,0,0
+00293dfdf45b9293bffb628a9d4a1686a0f3d464,Neurology,Little River,SC,2023-12,NULL,0,0,,0,0,0
+0009467729b972ece985670c0e9cb2646062d318,Neurology,Bristol,TN,2023-12,NULL,0,0,,0,0,0
+0024721805f60d623995fe602eac8b738bfd93a8,Neurology,Lawrenceburg,TN,2023-12,1,3,1,2,0,0,0
+0032e840fcbad9f467c1841dada2cf5bc5df3ccd,Primary Care,Spring City,TN,2023-12,1,1,0,1,0,0,0
+0036a3718f0d33d4c3fcf1e60de92eede7a8455e,Primary Care,Knoxville,TN,2023-12,1,1,1,,0,0,0
+000c5962e46e618fb9095a9a0cb6d84da9810377,Primary Care,Corpus Christi,TX,2023-12,1,4,2,2,0,0,0
+002a4e7a9854a84dd0a40541e44d29bde03a7d98,Cardiology,Houston,TX,2023-12,1,1,1,,0,0,0
+002a57022a2a15a1a1017a79175372aa516e48ac,Cardiology,San Antonio,TX,2023-12,1,1,1,,0,0,0
+0035cb1872820ad0b7d7a35ec2d742f0bfa54355,Neurology,Waco,TX,2023-12,NULL,0,0,,0,0,0
+003d94ddc942280f15e33023419f293e3c8dae94,Neurology,Houston,TX,2023-12,1,1,1,,1,0,0
+0010fcbdcadccce42efe906ab19afa7a0a6465dd,Neurology,Salt Lake City,UT,2023-12,1,1,1,,0,0,0
+002bb72e9e0552535b662a18bb6e7ac9a76a6b0e,Primary Care,Virginia Beach,VA,2023-12,1,9,8,1,0,0,0
+0010484962e05c68715828a10e285198d791bf1a,Primary Care,Tacoma,WA,2023-12,1,3,3,,0,0,0
+0015e2a2aa1a1837238dead25ca27ec91b0a7319,Primary Care,Stevens Point,WI,2023-12,1,0,0,,0,0,1
+004188f97da2d490f9f7b445ee849bd057f7917c,Allergy,Black River Falls,WI,2023-12,NULL,0,0,,0,0,0
+00331b98024a8096141e5d8ebb8a49a91c51dc58,Allergy,Williamson,WV,2023-12,NULL,0,0,,0,0,0
+003c5c8407254dd66296277aa295dd83ab82e438,,Martinsburg,WV,2023-12,NULL,0,0,,0,0,0
